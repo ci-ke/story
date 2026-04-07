@@ -1,0 +1,528 @@
+<!-- ============================================================ -->
+<!-- 配置 -->
+<!-- ============================================================ -->
+<script>
+  const OWNER = 'ci-ke';
+  const BRANCH = 'main';
+  // 仓库名，显示名
+  const REPOS = {
+    'ProjectSekai-story': 'ProjectSekai-story',
+    'BangDream-story': 'BangDream-story',
+  };
+
+  // 根目录自定义条目，仅在首页（根目录）显示
+  // 每项可以是纯文本 { text } 或超链接 { text, url }
+  const HOME_EXTRA = [
+    { text: 'ProjectSekai-story 仓库', url: 'https://github.com/ci-ke/ProjectSekai-story' },
+    { text: 'ProjectSekai-story 仓库下载', url: 'https://github.com/ci-ke/ProjectSekai-story/archive/refs/heads/main.zip' },
+    { text: 'ProjectSekai-story 仓库下载（国内）', url: 'https://ghfast.top/https://github.com/ci-ke/ProjectSekai-story/archive/refs/heads/main.zip' },
+    { text: 'BangDream-story 仓库', url: 'https://github.com/ci-ke/BangDream-story' },
+    { text: 'BangDream-story 仓库下载', url: 'https://github.com/ci-ke/BangDream-story/archive/refs/heads/main.zip' },
+    { text: 'BangDream-story 仓库下载（国内）', url: 'https://ghfast.top/https://github.com/ci-ke/BangDream-story/archive/refs/heads/main.zip' },
+  ];
+  // 'top' = 自定义条目在目录上方，'bottom' = 在目录下方
+  const HOME_EXTRA_POSITION = 'bottom';</script>
+<!-- ============================================================ -->
+
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>故事浏览器</title>
+  <style>
+    body {
+      font-family: monospace;
+      font-size: 18px;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      position: relative;
+    }
+
+    a {
+      display: block;
+      margin: 4px 0;
+      color: #0070f3;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    #breadcrumb {
+      margin-bottom: 16px;
+      color: #555;
+    }
+
+    #breadcrumb span {
+      cursor: pointer;
+      color: #0070f3;
+    }
+
+    #breadcrumb span:hover {
+      text-decoration: underline;
+    }
+
+    #content {
+      white-space: pre-wrap;
+      line-height: 1.6;
+      overflow-wrap: break-word;
+      word-break: break-all;
+      padding-bottom: 100px;
+    }
+
+    #content.nowrap {
+      white-space: pre;
+      overflow-wrap: normal;
+      word-break: normal;
+    }
+
+    #list.nowrap a {
+      white-space: nowrap;
+    }
+
+    #content a {
+      display: inline;
+      margin: 0;
+    }
+
+    #toolbar {
+      margin-bottom: 12px;
+      display: none;
+    }
+
+    #home-extra a,
+    #home-extra .extra-text {
+      display: block;
+      margin: 4px 0;
+    }
+
+    #home-extra .extra-text {
+      color: #333;
+    }
+
+    hr {
+      border: none;
+      border-top: 1px solid #ddd;
+      margin: 12px 0;
+    }
+
+    /* --- 移动端快速滑块样式 --- */
+    #scroll-track {
+      position: fixed;
+      right: 0;
+      /* 增加上下间距，防止滑块飞出屏幕或挡住头尾 */
+      top: 80px;
+      bottom: 60px;
+      width: 0;
+      z-index: 1000;
+      display: none;
+      overflow: visible;
+    }
+
+    #scroll-handle {
+      position: absolute;
+      right: 4px;
+      width: 6px;
+      height: 70px;
+      /* 加高滑块，更像原生联系人滑块 */
+      background: rgba(0, 112, 243, 0.5);
+      border-radius: 4px;
+      /* 关键：正常滚动时的平滑过渡，但在拖拽时我们要禁用它(由JS处理) */
+      transition: width 0.1s, background-color 0.1s, right 0.1s, top 0.1s;
+      cursor: pointer;
+      touch-action: none;
+      /* 避免拖拽时选中文本 */
+      -webkit-user-select: none;
+      user-select: none;
+    }
+
+    /* 伪元素扩大触摸热区 */
+    #scroll-handle::after {
+      content: '';
+      position: absolute;
+      top: -30px;
+      bottom: -30px;
+      left: -30px;
+      /* 重点向左扩展热区 */
+      right: -4px;
+      /* background: rgba(255,0,0,0.1); // 调试热区用 */
+    }
+
+    /* 触摸/鼠标激活时的反馈，蓝块变粗，并【禁用 transition top】 */
+    #scroll-handle.dragging {
+      width: 14px;
+      right: 2px;
+      background-color: rgba(0, 112, 243, 0.85);
+      /* 拖拽时必须禁用 top 的 transition，否则滑块会有延迟感，不跟手 */
+      transition: width 0.1s, background-color 0.1s, right 0.1s, top 0s !important;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id="breadcrumb"></div>
+  <div id="toolbar">
+    <label><input type="checkbox" id="wrapToggle" checked> 自动换行</label>
+    <label style="margin-left:16px"><input type="checkbox" id="proxyToggle"> 国内加速</label>
+  </div>
+  <div id="list"></div>
+  <div id="content"></div>
+
+  <div id="scroll-track">
+    <div id="scroll-handle"></div>
+  </div>
+
+  <script>
+    let fileTree = null;
+    const track = document.getElementById('scroll-track');
+    const handle = document.getElementById('scroll-handle');
+    let hideTimer = null;
+    let isDragging = false;
+
+    // 预先计算好的滑块半高度，用于让滑块中心对齐手指
+    const HANDLE_HALF_HEIGHT = 35; // handle.height(70) / 2
+
+    async function loadTree() {
+      if (fileTree) return fileTree;
+      const useProxy = document.getElementById('proxyToggle').checked;
+      const url = useProxy
+        ? 'https://ghfast.top/https://raw.githubusercontent.com/ci-ke/story/refs/heads/main/file_list.json'
+        : 'https://raw.githubusercontent.com/ci-ke/story/refs/heads/main/file_list.json';
+      const res = await fetch(url);
+      if (!res.ok) throw new Error('无法加载目录：' + res.status);
+      fileTree = await res.json();
+      return fileTree;
+    }
+
+    function findNode(tree, path) {
+      if (!path) return { type: 'dir', children: tree };
+      const parts = path.split('/');
+      let nodes = tree;
+      let node = null;
+      for (const part of parts) {
+        node = nodes.find(n => n.name.toLowerCase() === part.toLowerCase());
+        if (!node) return null;
+        nodes = node.children || [];
+      }
+      return node;
+    }
+
+    // 模糊匹配：每段先精确匹配，失败则找以该段开头的唯一子节点
+    // 返回 { node, resolvedPath }，匹配失败返回 null
+    function fuzzyFindNode(tree, path) {
+      if (!path) return { node: { type: 'dir', children: tree }, resolvedPath: '' };
+      const parts = path.split('/');
+      let nodes = tree;
+      let node = null;
+      const resolvedParts = [];
+
+      for (let i = 0; i < parts.length; i++) {
+        const part = parts[i];
+        const partLower = part.toLowerCase();
+
+        // 先精确匹配
+        let matched = nodes.find(n => n.name.toLowerCase() === partLower);
+
+        if (!matched) {
+          // 精确失败，找以该段开头的子节点，唯一才匹配
+          const candidates = nodes.filter(n => n.name.toLowerCase().startsWith(partLower));
+          if (candidates.length === 1) {
+            matched = candidates[0];
+          } else {
+            return null;
+          }
+        }
+
+        resolvedParts.push(matched.name);
+        node = matched;
+        nodes = node.children || [];
+      }
+
+      return { node, resolvedPath: resolvedParts.join('/') };
+    }
+
+    async function route() {
+      const hash = decodeURIComponent(location.hash.slice(1)).replace(/\/+$/, '');
+      document.getElementById('content').textContent = '';
+      document.getElementById('list').innerHTML = '';
+
+      // 切换路径时重置滚动条位置
+      window.scrollTo(0, 0);
+      isDragging = false;
+      handle.classList.remove('dragging');
+      track.style.display = 'none';
+
+      let tree;
+      try {
+        tree = await loadTree();
+      } catch (e) {
+        document.getElementById('list').textContent = '加载失败：' + e.message;
+        document.getElementById('toolbar').style.display = 'block';
+        return;
+      }
+
+      const result = fuzzyFindNode(tree, hash);
+      if (!result) {
+        document.getElementById('list').textContent = '路径不存在';
+        document.getElementById('toolbar').style.display = 'none';
+        return;
+      }
+
+      const { node, resolvedPath } = result;
+
+      // 如果路径被模糊修正，更新 URL（不触发 hashchange 二次路由）
+      if (resolvedPath !== hash) {
+        history.replaceState(null, '', '#' + resolvedPath.replace(/#/g, '%23'));
+      }
+
+      if (node.type === 'dir') {
+        showDir(resolvedPath, node.children);
+      } else {
+        showFile(node, resolvedPath);
+      }
+    }
+
+    function buildExtraEl() {
+      const extra = document.createElement('div');
+      extra.id = 'home-extra';
+      for (const item of HOME_EXTRA) {
+        if (item.url) {
+          const a = document.createElement('a');
+          a.href = item.url;
+          a.target = '_blank';
+          a.rel = 'noopener';
+          a.textContent = '🔗 ' + item.text;
+          extra.appendChild(a);
+        } else {
+          const span = document.createElement('div');
+          span.className = 'extra-text';
+          span.textContent = item.text;
+          extra.appendChild(span);
+        }
+      }
+      return extra;
+    }
+
+    function showDir(path, children) {
+      const listEl = document.getElementById('list');
+      const showExtra = !path && HOME_EXTRA && HOME_EXTRA.length;
+
+      if (showExtra && HOME_EXTRA_POSITION === 'top') {
+        listEl.appendChild(buildExtraEl());
+        const hr = document.createElement('hr');
+        listEl.appendChild(hr);
+      }
+      const repoOrder = Object.keys(REPOS);
+      const filtered = !path ? children.filter(item => REPOS[item.name]) : children;
+      const sorted = [...filtered].sort((a, b) => {
+        if (!path) {
+          // 首页按 REPOS 定义顺序
+          return repoOrder.indexOf(a.name) - repoOrder.indexOf(b.name);
+        }
+        if (a.type === b.type) return a.name.localeCompare(b.name);
+        return a.type === 'dir' ? -1 : 1;
+      });
+      for (const item of sorted) {
+        const a = document.createElement('a');
+        const itemPath = path ? path + '/' + item.name : item.name;
+        a.href = '#' + itemPath.replace(/#/g, '%23');
+        const displayName = (!path && REPOS[item.name]) ? REPOS[item.name] : item.name;
+        a.textContent = item.type === 'dir' ? '📁 ' + displayName : '📄 ' + displayName;
+        listEl.appendChild(a);
+      }
+      document.getElementById('toolbar').style.display = 'block';
+
+      if (showExtra && HOME_EXTRA_POSITION === 'bottom') {
+        const hr = document.createElement('hr');
+        listEl.appendChild(hr);
+        listEl.appendChild(buildExtraEl());
+      }
+
+      renderBreadcrumb(path);
+    }
+
+    async function showFile(item, filePath) {
+      const contentEl = document.getElementById('content');
+      contentEl.textContent = '加载中…';
+      document.getElementById('toolbar').style.display = 'block';
+      try {
+        const repoNames = Object.keys(REPOS);
+        let repo, repoFilePath;
+        const topLevel = filePath.split('/')[0];
+        if (!REPOS[topLevel]) throw new Error('未知仓库：' + topLevel);
+        repo = topLevel;
+        repoFilePath = filePath.split('/').slice(1).join('/');
+        const useProxy = document.getElementById('proxyToggle').checked;
+        const baseURL = useProxy ? 'https://ghfast.top/https://raw.githubusercontent.com' : 'https://raw.githubusercontent.com';
+        const rawURL = `${baseURL}/${OWNER}/${repo}/${BRANCH}/${repoFilePath}`;
+        const res = await fetch(rawURL);
+        const text = await res.text();
+        const urlRegex = /https?:\/\/[^\s）)】」』\]\[）)\],，。！？]+/g;
+        const html = text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+          .replace(urlRegex, m => `<a href="${m}" target="_blank" rel="noopener">${m}</a>`);
+        contentEl.innerHTML = html;
+      } catch (e) {
+        contentEl.textContent = '加载失败：' + e.message;
+      }
+      renderBreadcrumb(filePath);
+    }
+
+    function renderBreadcrumb(path) {
+      const bc = document.getElementById('breadcrumb');
+      bc.innerHTML = '';
+
+      const root = document.createElement('span');
+      root.textContent = '根目录';
+      root.addEventListener('click', () => { location.hash = ''; });
+      bc.appendChild(root);
+
+      const parts = path ? path.split('/') : [];
+      let cumulative = '';
+      parts.forEach((part, i) => {
+        cumulative += (i === 0 ? '' : '/') + part;
+        bc.appendChild(document.createTextNode(' / '));
+        if (i === parts.length - 1) {
+          const strong = document.createElement('strong');
+          strong.textContent = part;
+          bc.appendChild(strong);
+        } else {
+          const span = document.createElement('span');
+          span.textContent = part;
+          const target = cumulative;
+          span.addEventListener('click', () => { location.hash = target.replace(/#/g, '%23'); });
+          bc.appendChild(span);
+        }
+      });
+    }
+
+    // --- 滑块交互逻辑 (Fixed: 跟手显示) ---
+
+    // 更新滑块位置 (普通滚动页面时)
+    function updateHandlePosition() {
+      if (isDragging) return; // 正在拖拽时不执行此逻辑，防止抖动
+
+      const scrollTotal = document.documentElement.scrollHeight - window.innerHeight;
+      if (scrollTotal <= 200) { // 内容不够长则不显示
+        track.style.display = 'none';
+        return;
+      }
+
+      track.style.display = 'block';
+      const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+      // 计算进度 (0 - 1)
+      const progress = Math.min(1, Math.max(0, scrollTop / scrollTotal));
+
+      // 计算滑块应处的 Top 值
+      const availableHeight = track.clientHeight - handle.clientHeight;
+      handle.style.top = (progress * availableHeight) + 'px';
+
+      // 停止滑动 1.5 秒后自动隐藏
+      clearTimeout(hideTimer);
+      hideTimer = setTimeout(() => {
+        if (!isDragging) {
+          track.style.display = 'none';
+        }
+      }, 1500);
+    }
+
+    // 核心拖拽逻辑：根据触摸点 Y 值，同时跳转页面和更新滑块显示
+    function doScrub(clientY) {
+      const rect = track.getBoundingClientRect();
+
+      // 1. 让滑块视觉跟手 (Fixed)
+      // 尝试将手指放在滑块中心位置
+      let visualY = clientY - rect.top - HANDLE_HALF_HEIGHT;
+      // 限制可视区域边界 (防止滑块飞出槽外)
+      const maxVisualY = rect.height - handle.clientHeight;
+      visualY = Math.max(0, Math.min(visualY, maxVisualY));
+      // 立即更新滑块位置 (因为 dragging 类禁用了 top 的 transition，所以是即时的)
+      handle.style.top = visualY + 'px';
+
+      // 2. 计算滚动进度 (0 - 1)并跳转页面
+      // 这里的计算依据滑块中心在可用高度内的占比
+      const percent = visualY / maxVisualY;
+
+      const scrollTotal = document.documentElement.scrollHeight - window.innerHeight;
+      // 跳转页面 (passive: false 允许在 touchmove 中阻止默认行为，这里直接 scrollTo)
+      window.scrollTo(0, percent * scrollTotal);
+    }
+
+    // 监听页面滚动，显示滑块
+    window.addEventListener('scroll', updateHandlePosition, { passive: true });
+
+    // --- 触摸/鼠标交互 ---
+
+    function onDragStart(e) {
+      const scrollTotal = document.documentElement.scrollHeight - window.innerHeight;
+      if (scrollTotal <= 0) return;
+
+      isDragging = true;
+      handle.classList.add('dragging');
+      clearTimeout(hideTimer);
+      track.style.display = 'block';
+    }
+
+    function onDragMove(e) {
+      if (!isDragging) return;
+      // 阻止触摸移动的默认系统行为（防止页面跟随文字选择或刷新）
+      if (e.cancelable) e.preventDefault();
+
+      const clientY = e.touches ? e.touches[0].clientY : e.clientY;
+      // 调用固定的 scrub 逻辑，即时更新显示和滚动
+      doScrub(clientY);
+    }
+
+    function onDragEnd() {
+      if (!isDragging) return;
+      isDragging = false;
+      handle.classList.remove('dragging');
+      updateHandlePosition();
+    }
+
+    // 绑定触摸事件
+    handle.addEventListener('touchstart', onDragStart, { passive: false });
+    window.addEventListener('touchmove', onDragMove, { passive: false });
+    window.addEventListener('touchend', onDragEnd);
+    window.addEventListener('touchcancel', onDragEnd);
+
+    // 绑定鼠标事件 (兼容桌面端调试)
+    handle.addEventListener('mousedown', onDragStart);
+    window.addEventListener('mousemove', onDragMove);
+    window.addEventListener('mouseup', onDragEnd);
+
+    // --- 原有逻辑 ---
+    const wrapToggle = document.getElementById('wrapToggle');
+    const proxyToggle = document.getElementById('proxyToggle');
+
+    // 恢复持久化状态（默认都勾选）
+    if (localStorage.getItem('wrapToggle') === 'false') {
+      wrapToggle.checked = false;
+      document.getElementById('content').classList.add('nowrap');
+      document.getElementById('list').classList.add('nowrap');
+    }
+    if (localStorage.getItem('proxyToggle') !== 'false') {
+      proxyToggle.checked = true;
+    }
+
+    wrapToggle.addEventListener('change', function () {
+      document.getElementById('content').classList.toggle('nowrap', !this.checked);
+      document.getElementById('list').classList.toggle('nowrap', !this.checked);
+      localStorage.setItem('wrapToggle', this.checked);
+    });
+    proxyToggle.addEventListener('change', function () {
+      localStorage.setItem('proxyToggle', this.checked);
+      fileTree = null; // 清除缓存，下次路由用新 URL 重新加载
+      route();
+    });
+
+    window.addEventListener('hashchange', route);
+    route();
+  </script>
+</body>
+
+</html>
