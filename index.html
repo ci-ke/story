@@ -10,15 +10,18 @@
     'BangDream-story': 'BangDream-story',
   };
 
+  // GitHub 代理前缀，拼接在原 URL 前面
+  const PROXY_PREFIX = 'https://ghfast.top/';
+
   // 根目录自定义条目，仅在首页（根目录）显示
-  // 每项可以是纯文本 { text } 或超链接 { text, url }
+  // 每项可以是纯文本 { text } 或超链接 { text, url } 或带代理的链接 { text, url, useProxy: true }
   const HOME_EXTRA = [
     { text: 'ProjectSekai-story 仓库', url: 'https://github.com/ci-ke/ProjectSekai-story' },
     { text: 'ProjectSekai-story 仓库下载', url: 'https://github.com/ci-ke/ProjectSekai-story/archive/refs/heads/main.zip' },
-    { text: 'ProjectSekai-story 仓库下载（国内）', url: 'https://ghfast.top/https://github.com/ci-ke/ProjectSekai-story/archive/refs/heads/main.zip' },
+    { text: 'ProjectSekai-story 仓库下载（国内）', url: 'https://github.com/ci-ke/ProjectSekai-story/archive/refs/heads/main.zip', useProxy: true },
     { text: 'BangDream-story 仓库', url: 'https://github.com/ci-ke/BangDream-story' },
     { text: 'BangDream-story 仓库下载', url: 'https://github.com/ci-ke/BangDream-story/archive/refs/heads/main.zip' },
-    { text: 'BangDream-story 仓库下载（国内）', url: 'https://ghfast.top/https://github.com/ci-ke/BangDream-story/archive/refs/heads/main.zip' },
+    { text: 'BangDream-story 仓库下载（国内）', url: 'https://github.com/ci-ke/BangDream-story/archive/refs/heads/main.zip', useProxy: true },
   ];
   // 'top' = 自定义条目在目录上方，'bottom' = 在目录下方
   const HOME_EXTRA_POSITION = 'bottom';</script>
@@ -190,9 +193,8 @@
     async function loadTree() {
       if (fileTree) return fileTree;
       const useProxy = document.getElementById('proxyToggle').checked;
-      const url = useProxy
-        ? 'https://ghfast.top/https://raw.githubusercontent.com/ci-ke/story/refs/heads/main/file_list.json'
-        : 'https://raw.githubusercontent.com/ci-ke/story/refs/heads/main/file_list.json';
+      const rawUrl = 'https://raw.githubusercontent.com/ci-ke/story/refs/heads/main/file_list.json';
+      const url = useProxy ? PROXY_PREFIX + rawUrl : rawUrl;
       const res = await fetch(url);
       if (!res.ok) throw new Error('无法加载目录：' + res.status);
       fileTree = await res.json();
@@ -293,7 +295,7 @@
       for (const item of HOME_EXTRA) {
         if (item.url) {
           const a = document.createElement('a');
-          a.href = item.url;
+          a.href = item.useProxy ? PROXY_PREFIX + item.url : item.url;
           a.target = '_blank';
           a.rel = 'noopener';
           a.textContent = '🔗 ' + item.text;
@@ -358,7 +360,8 @@
         repo = topLevel;
         repoFilePath = filePath.split('/').slice(1).join('/');
         const useProxy = document.getElementById('proxyToggle').checked;
-        const baseURL = useProxy ? 'https://ghfast.top/https://raw.githubusercontent.com' : 'https://raw.githubusercontent.com';
+        const rawBase = 'https://raw.githubusercontent.com';
+        const baseURL = useProxy ? PROXY_PREFIX + rawBase : rawBase;
         const rawURL = `${baseURL}/${OWNER}/${repo}/${BRANCH}/${repoFilePath}`;
         const res = await fetch(rawURL);
         const text = await res.text();
