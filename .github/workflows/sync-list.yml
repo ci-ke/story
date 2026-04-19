@@ -1,0 +1,35 @@
+name: Sync File List
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *'
+
+jobs:
+  sync-list:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Clone ProjectSekai story repository
+        run: git clone https://github.com/ci-ke/ProjectSekai-story.git ./ProjectSekai-story
+
+      - name: Clone BangDream story repository
+        run: git clone https://github.com/ci-ke/BangDream-story.git ./BangDream-story
+
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v7
+
+      - name: Run generate_action.py
+        run: uv run generate_action.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Sync file list" || echo "No changes"
+          git push
