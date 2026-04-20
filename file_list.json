@@ -3600,6 +3600,10 @@
 {
 "type": "file",
 "name": "1121_KAITO_RB Happy Anniversary！！2026.txt"
+},
+{
+"type": "file",
+"name": "1158_KAITO (WxS)_R4 体贴的笑容 (event_164).txt"
 }
 ]
 },
@@ -4668,6 +4672,10 @@
 {
 "type": "file",
 "name": "1128_凤笑梦_R4 一起，倾注感谢之情 (event_159).txt"
+},
+{
+"type": "file",
+"name": "1156_凤笑梦_R4 坚定地讲述未来 (event_164).txt"
 }
 ]
 },
@@ -5162,6 +5170,10 @@
 {
 "type": "file",
 "name": "1136_草薙宁宁_R3 学会可爱 (event_160).txt"
+},
+{
+"type": "file",
+"name": "1157_草薙宁宁_R4 把情感寄托到舞步中 (event_164).txt"
 }
 ]
 }
@@ -30818,6 +30830,10 @@
 {
 "type": "file",
 "name": "1121_KAITO_RB Happy Anniversary!!2026.txt"
+},
+{
+"type": "file",
+"name": "1158_KAITO (WxS)_R4 貼心相伴的微笑 (event_164).txt"
 }
 ]
 },
@@ -32230,6 +32246,10 @@
 {
 "type": "file",
 "name": "1136_草薙寧寧_R3 將可愛穿上身 (event_160).txt"
+},
+{
+"type": "file",
+"name": "1157_草薙寧寧_R4 把情感寄託於舞步 (event_164).txt"
 }
 ]
 },
@@ -32396,6 +32416,10 @@
 {
 "type": "file",
 "name": "1128_鳳笑夢_R4 一起滿懷感謝 (event_159).txt"
+},
+{
+"type": "file",
+"name": "1156_鳳笑夢_R4 凜然地描繪將來 (event_164).txt"
 }
 ]
 }
@@ -61812,6 +61836,10 @@
 {
 "type": "file",
 "name": "2284_上原ひまり_R4 お気に入りルーチン？.txt"
+},
+{
+"type": "file",
+"name": "2436_上原ひまり_R5 夕暮れ時の約束.txt"
 }
 ]
 },
@@ -62280,6 +62308,10 @@
 {
 "type": "file",
 "name": "2385_美竹蘭_R4 飾り付けは真心込めて.txt"
+},
+{
+"type": "file",
+"name": "2435_美竹蘭_R5 小指を交わして.txt"
 }
 ]
 },
@@ -62744,6 +62776,10 @@
 {
 "type": "file",
 "name": "2382_青葉モカ_R5 力作をご賞味あれ～.txt"
+},
+{
+"type": "file",
+"name": "2439_青葉モカ_R4 真剣なダメ出し？.txt"
 }
 ]
 },
@@ -80708,6 +80744,40 @@
 {
 "type": "file",
 "name": "event327-07 エンディング まだ名前のない夜明けたち.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "328 芽生えた想い、夕陽に交わして",
+"children": [
+{
+"type": "file",
+"name": "event328-01 オープニング 悩ましい選択.txt"
+},
+{
+"type": "file",
+"name": "event328-02 第１話 フェスに向けて！.txt"
+},
+{
+"type": "file",
+"name": "event328-03 第２話 充実感の陰に.txt"
+},
+{
+"type": "file",
+"name": "event328-04 第３話 密かに膨らむ想い.txt"
+},
+{
+"type": "file",
+"name": "event328-05 第４話 本音を知りたい！.txt"
+},
+{
+"type": "file",
+"name": "event328-06 第５話 蘭のしたいこと.txt"
+},
+{
+"type": "file",
+"name": "event328-07 エンディング みんなで一緒に.txt"
 }
 ]
 }
