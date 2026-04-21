@@ -669,6 +669,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_164.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -4842,6 +4846,10 @@
 {
 "type": "file",
 "name": "1133_天马司_R4 从英雄到英雄 (event_160).txt"
+},
+{
+"type": "file",
+"name": "1160_天马司_R2 充满魅力的举止 (event_164).txt"
 }
 ]
 },
@@ -5008,6 +5016,10 @@
 {
 "type": "file",
 "name": "1126_神代类_R2 导演的坚持 (event_158).txt"
+},
+{
+"type": "file",
+"name": "1159_神代类_R3 硬塞蔬菜被抓现行 (event_164).txt"
 }
 ]
 },
@@ -11490,6 +11502,44 @@
 {
 "type": "file",
 "name": "163-11 奔赴梦想的未来.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "164 Choices for the future (WxS_凤笑梦)",
+"children": [
+{
+"type": "file",
+"name": "164-01 激动人心的舞台.txt"
+},
+{
+"type": "file",
+"name": "164-02 谜底揭晓时.txt"
+},
+{
+"type": "file",
+"name": "164-03 出人意料的问题.txt"
+},
+{
+"type": "file",
+"name": "164-04 前进的阻碍.txt"
+},
+{
+"type": "file",
+"name": "164-05 选择的道路.txt"
+},
+{
+"type": "file",
+"name": "164-06 抓住的机会.txt"
+},
+{
+"type": "file",
+"name": "164-07 要传递的想法.txt"
+},
+{
+"type": "file",
+"name": "164-08 直到最后.txt"
 }
 ]
 }
@@ -27895,6 +27945,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_164.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -31918,6 +31972,10 @@
 {
 "type": "file",
 "name": "1133_天馬司_R4 由英雄傳給英雄 (event_160).txt"
+},
+{
+"type": "file",
+"name": "1160_天馬司_R2 迷人的行為舉止 (event_164).txt"
 }
 ]
 },
@@ -32084,6 +32142,10 @@
 {
 "type": "file",
 "name": "1126_神代類_R2 劇場導演的堅持 (event_158).txt"
+},
+{
+"type": "file",
+"name": "1159_神代類_R3 硬塞蔬菜現行犯 (event_164).txt"
 }
 ]
 },
@@ -38736,6 +38798,44 @@
 {
 "type": "file",
 "name": "163-11 奔向夢想的方向.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "164 Choices for the future (WxS_鳳笑夢)",
+"children": [
+{
+"type": "file",
+"name": "164-01 令人心動的舞台.txt"
+},
+{
+"type": "file",
+"name": "164-02 謎底揭曉的時刻.txt"
+},
+{
+"type": "file",
+"name": "164-03 意料之外的問題.txt"
+},
+{
+"type": "file",
+"name": "164-04 停下腳步的原因.txt"
+},
+{
+"type": "file",
+"name": "164-05 選定的道路.txt"
+},
+{
+"type": "file",
+"name": "164-06 抓住的機會.txt"
+},
+{
+"type": "file",
+"name": "164-07 想傳達的心意.txt"
+},
+{
+"type": "file",
+"name": "164-08 直到最後.txt"
 }
 ]
 }
