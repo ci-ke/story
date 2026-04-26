@@ -44347,6 +44347,10 @@
 },
 {
 "type": "file",
+"name": "2287_千早爱音_R5 黄昏时分的密会.txt"
+},
+{
+"type": "file",
 "name": "2323_千早爱音_R5 干劲十足的酷洛！.txt"
 }
 ]
@@ -44432,6 +44436,10 @@
 {
 "type": "file",
 "name": "2204_要乐奈_R5 此刻的前方.txt"
+},
+{
+"type": "file",
+"name": "2288_要乐奈_R5 与随性的流浪猫一起.txt"
 }
 ]
 },
@@ -44536,6 +44544,10 @@
 {
 "type": "file",
 "name": "2231_高松灯_R5 啊，那一滴雨珠.txt"
+},
+{
+"type": "file",
+"name": "2291_高松灯_R4 书写心意的一页.txt"
 }
 ]
 },
@@ -59568,6 +59580,40 @@
 {
 "type": "file",
 "name": "event306-07 终章 总有一天，定会成为永恒.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "307 献给分歧路上前行的人们",
+"children": [
+{
+"type": "file",
+"name": "event307-01 序章 余韵未消的一天.txt"
+},
+{
+"type": "file",
+"name": "event307-02 第１话 再一次一起.txt"
+},
+{
+"type": "file",
+"name": "event307-03 第２话 各自的心事.txt"
+},
+{
+"type": "file",
+"name": "event307-04 第３话 回不去的日子.txt"
+},
+{
+"type": "file",
+"name": "event307-05 第４话 新的归宿.txt"
+},
+{
+"type": "file",
+"name": "event307-06 第５话 言语的去向.txt"
+},
+{
+"type": "file",
+"name": "event307-07 终章 致温柔的你.txt"
 }
 ]
 },
