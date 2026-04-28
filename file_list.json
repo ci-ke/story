@@ -2240,6 +2240,10 @@
 {
 "type": "file",
 "name": "1141_东云绘名_R4 背包里的万千思绪 (event_161).txt"
+},
+{
+"type": "file",
+"name": "1161_东云绘名_RB Happy Birthday！！2026.txt"
 }
 ]
 },
@@ -30022,6 +30026,10 @@
 {
 "type": "file",
 "name": "1141_東雲繪名_R4 裝滿包包的心意 (event_161).txt"
+},
+{
+"type": "file",
+"name": "1161_東雲繪名_RB Happy Birthday!! 2026.txt"
 }
 ]
 },
@@ -86732,6 +86740,10 @@
 {
 "type": "file",
 "name": "2285_戶山香澄_R5 香甜地在夢中.txt"
+},
+{
+"type": "file",
+"name": "2303_戶山香澄_R4 最棒的禮物！.txt"
 }
 ]
 },
@@ -86934,6 +86946,10 @@
 {
 "type": "file",
 "name": "2247_牛込里美_R5 放學後，雨和朋友.txt"
+},
+{
+"type": "file",
+"name": "2299_牛込里美_R5 晚霞、閃耀的面龐.txt"
 }
 ]
 },
@@ -87144,6 +87160,10 @@
 {
 "type": "file",
 "name": "2213_花園多惠_R5 奔馳，新綠。.txt"
+},
+{
+"type": "file",
+"name": "2300_花園多惠_R5 妳終有一日奔跑的天空.txt"
 }
 ]
 },
@@ -101154,6 +101174,40 @@
 {
 "type": "file",
 "name": "event308-07 結尾 我曾知曉的關於你的事.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "309 比那道飛機雲還要更高的你",
+"children": [
+{
+"type": "file",
+"name": "event309-01 開場 expectation.txt"
+},
+{
+"type": "file",
+"name": "event309-02 第１話 disappointment.txt"
+},
+{
+"type": "file",
+"name": "event309-03 第２話 strategy!.txt"
+},
+{
+"type": "file",
+"name": "event309-04 第３話 session!.txt"
+},
+{
+"type": "file",
+"name": "event309-05 第４話 effort.txt"
+},
+{
+"type": "file",
+"name": "event309-06 第５話 surprise!.txt"
+},
+{
+"type": "file",
+"name": "event309-07 結尾 contrail.txt"
 }
 ]
 }
