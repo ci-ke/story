@@ -673,6 +673,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_165.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -2244,6 +2248,10 @@
 {
 "type": "file",
 "name": "1161_东云绘名_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1166_东云绘名_R2 佩戴同款手链 (event_165).txt"
 }
 ]
 },
@@ -2414,6 +2422,10 @@
 {
 "type": "file",
 "name": "1139_宵崎奏_R4 无形之声 (event_161).txt"
+},
+{
+"type": "file",
+"name": "1163_宵崎奏_R4 变得空荡荡的房间 (event_165).txt"
 }
 ]
 },
@@ -2580,6 +2592,10 @@
 {
 "type": "file",
 "name": "1143_晓山瑞希_R2 “大家”一起举办庆功会 (event_161).txt"
+},
+{
+"type": "file",
+"name": "1165_晓山瑞希_R3 为了能陪伴在你身边 (event_165).txt"
 }
 ]
 },
@@ -2750,6 +2766,10 @@
 {
 "type": "file",
 "name": "1140_朝比奈真冬_R4 寂静的厨房 (event_161).txt"
+},
+{
+"type": "file",
+"name": "1162_朝比奈真冬_R4 温暖的时光 (event_165).txt"
 }
 ]
 },
@@ -4336,6 +4356,10 @@
 {
 "type": "file",
 "name": "1106_镜音连 (MMJ)_R4 为你送上最棒的爱心 (event_156).txt"
+},
+{
+"type": "file",
+"name": "1164_镜音连 (N25)_R4 伴你度过苦痛 (event_165).txt"
 }
 ]
 },
@@ -11544,6 +11568,44 @@
 {
 "type": "file",
 "name": "164-08 直到最后.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "165 于是，指针开始转动 (N25_朝比奈真冬)",
+"children": [
+{
+"type": "file",
+"name": "165-01 昨天.txt"
+},
+{
+"type": "file",
+"name": "165-02 谈话.txt"
+},
+{
+"type": "file",
+"name": "165-03 指针开始转动.txt"
+},
+{
+"type": "file",
+"name": "165-04 母女.txt"
+},
+{
+"type": "file",
+"name": "165-05 迟滞，沉重.txt"
+},
+{
+"type": "file",
+"name": "165-06 “体谅”.txt"
+},
+{
+"type": "file",
+"name": "165-07 违和感.txt"
+},
+{
+"type": "file",
+"name": "165-08 指针，再次开始转动.txt"
 }
 ]
 }
@@ -27953,6 +28015,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_165.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -29520,6 +29586,10 @@
 {
 "type": "file",
 "name": "1139_宵崎奏_R4 看不見的聲音 (event_161).txt"
+},
+{
+"type": "file",
+"name": "1163_宵崎奏_R4 變得空蕩蕩的房間 (event_165).txt"
 }
 ]
 },
@@ -29686,6 +29756,10 @@
 {
 "type": "file",
 "name": "1143_曉山瑞希_R2 「大家」一起慶功 (event_161).txt"
+},
+{
+"type": "file",
+"name": "1165_曉山瑞希_R3 為了能待在身旁 (event_165).txt"
 }
 ]
 },
@@ -29856,6 +29930,10 @@
 {
 "type": "file",
 "name": "1140_朝比奈真冬_R4 寂靜的廚房 (event_161).txt"
+},
+{
+"type": "file",
+"name": "1162_朝比奈真冬_R4 溫暖的時光 (event_165).txt"
 }
 ]
 },
@@ -30030,6 +30108,10 @@
 {
 "type": "file",
 "name": "1161_東雲繪名_RB Happy Birthday!! 2026.txt"
+},
+{
+"type": "file",
+"name": "1166_東雲繪名_R2 手戴同款之物 (event_165).txt"
 }
 ]
 },
@@ -31632,6 +31714,10 @@
 {
 "type": "file",
 "name": "1106_鏡音連 (MMJ)_R4 為你獻上最真摯的心 (event_156).txt"
+},
+{
+"type": "file",
+"name": "1164_鏡音連 (N25)_R4 貼近痛苦 (event_165).txt"
 }
 ]
 },
@@ -38844,6 +38930,44 @@
 {
 "type": "file",
 "name": "164-08 直到最後.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "165 然後，時針開始轉動 (N25_朝比奈真冬)",
+"children": [
+{
+"type": "file",
+"name": "165-01 前一天.txt"
+},
+{
+"type": "file",
+"name": "165-02 討論.txt"
+},
+{
+"type": "file",
+"name": "165-03 時針開始轉動.txt"
+},
+{
+"type": "file",
+"name": "165-04 母子.txt"
+},
+{
+"type": "file",
+"name": "165-05 遲鈍而沉重.txt"
+},
+{
+"type": "file",
+"name": "165-06 「陪伴」.txt"
+},
+{
+"type": "file",
+"name": "165-07 不對勁的感覺.txt"
+},
+{
+"type": "file",
+"name": "165-08 時針再次開始轉動.txt"
 }
 ]
 }
@@ -63850,6 +63974,10 @@
 {
 "type": "file",
 "name": "2434_松原花音_R4 ほほえむ体温.txt"
+},
+{
+"type": "file",
+"name": "2445_松原花音_R5 街角ファッショニスタ.txt"
 }
 ]
 },
@@ -64206,6 +64334,10 @@
 {
 "type": "file",
 "name": "2413_二葉つくし_R5 重ねた手に想いを.txt"
+},
+{
+"type": "file",
+"name": "2446_二葉つくし_R5 スマッシュ炸裂！.txt"
 }
 ]
 },
@@ -67674,6 +67806,10 @@
 {
 "type": "file",
 "name": "2325_朝日六花_R4 元気にJAM！.txt"
+},
+{
+"type": "file",
+"name": "2440_朝日六花_R5 まっすぐな『好き』.txt"
 }
 ]
 },
@@ -67804,6 +67940,10 @@
 {
 "type": "file",
 "name": "2422_珠手ちゆ_R5 こんな休日の過ごし方.txt"
+},
+{
+"type": "file",
+"name": "2441_珠手ちゆ_R5 こっちの道.txt"
 }
 ]
 },
@@ -67914,6 +68054,10 @@
 {
 "type": "file",
 "name": "2359_鳰原令王那_R5 いつも頑張るあなたに.txt"
+},
+{
+"type": "file",
+"name": "2444_鳰原令王那_R4 混ぜてくださ～いっ.txt"
 }
 ]
 },
@@ -80932,6 +81076,40 @@
 {
 "type": "file",
 "name": "event328-07 エンディング みんなで一緒に.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "329 Beyond my Imagination",
+"children": [
+{
+"type": "file",
+"name": "event329-01 オープニング 輝く星、強く.txt"
+},
+{
+"type": "file",
+"name": "event329-02 第１話 遠征準備！.txt"
+},
+{
+"type": "file",
+"name": "event329-03 第２話 プロデューサー.txt"
+},
+{
+"type": "file",
+"name": "event329-04 第３話 RASの最善.txt"
+},
+{
+"type": "file",
+"name": "event329-05 第４話 見つけた奇跡.txt"
+},
+{
+"type": "file",
+"name": "event329-06 第５話 ワタシがやりたい音楽.txt"
+},
+{
+"type": "file",
+"name": "event329-07 エンディング 心を決めて.txt"
 }
 ]
 }
