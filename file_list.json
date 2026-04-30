@@ -3507,6 +3507,10 @@
 },
 {
 "type": "file",
+"name": "0339_KAITO_R4 贪婪的法官.txt"
+},
+{
+"type": "file",
 "name": "0379_KAITO_RB Happy Anniversary！！Flower.txt"
 },
 {
@@ -3690,6 +3694,10 @@
 {
 "type": "file",
 "name": "0312_MEIKO_RB Happy Anniversary！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0338_MEIKO_R4 恶食的恶魔.txt"
 },
 {
 "type": "file",
@@ -4065,6 +4073,10 @@
 },
 {
 "type": "file",
+"name": "0337_巡音流歌_R4 善妒的裁缝师.txt"
+},
+{
+"type": "file",
 "name": "0344_巡音流歌 (VBS)_R3 自由人登场！ (event_44).txt"
 },
 {
@@ -4236,6 +4248,10 @@
 {
 "type": "file",
 "name": "0317_镜音连 (Ln)_R2 碰撞心愿的坚强 (event_40).txt"
+},
+{
+"type": "file",
+"name": "0336_镜音连_R4 双生子侍从.txt"
 },
 {
 "type": "file",
@@ -4414,6 +4430,10 @@
 {
 "type": "file",
 "name": "0305_镜音铃 (WxS)_R2 聪颖女孩 (event_38).txt"
+},
+{
+"type": "file",
+"name": "0335_镜音铃_R4 傲慢的公主.txt"
 },
 {
 "type": "file",
@@ -13265,6 +13285,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_203.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -13496,6 +13520,14 @@
 {
 "type": "file",
 "name": "1334_天馬咲希_R4 名プロデューサー参上！ (event_195).txt"
+},
+{
+"type": "file",
+"name": "1381_天馬咲希_R4 まさかの遭遇！ (event_203).txt"
+},
+{
+"type": "file",
+"name": "1385_天馬咲希_RB Happy Birthday！！2026.txt"
 }
 ]
 },
@@ -13706,6 +13738,10 @@
 {
 "type": "file",
 "name": "1333_日野森志歩_R4 『今』の私を響かせて (event_195).txt"
+},
+{
+"type": "file",
+"name": "1383_日野森志歩_R3 絵本を一緒に (event_203).txt"
 }
 ]
 },
@@ -13904,6 +13940,10 @@
 {
 "type": "file",
 "name": "1375_星乃一歌_R4 ４人のミク達 (event_202).txt"
+},
+{
+"type": "file",
+"name": "1384_星乃一歌_R2 憧れの焼きそばパンミュージアム (event_203).txt"
 }
 ]
 },
@@ -14102,6 +14142,10 @@
 {
 "type": "file",
 "name": "1348_望月穂波_R3 あの世界にいるような (event_197).txt"
+},
+{
+"type": "file",
+"name": "1380_望月穂波_R4 みんながいたから (event_203).txt"
 }
 ]
 },
@@ -17826,6 +17870,10 @@
 {
 "type": "file",
 "name": "1347_鏡音レン (N25)_R4 指さす先にある道 (event_197).txt"
+},
+{
+"type": "file",
+"name": "1382_鏡音レン (Ln)_R4 意外な先客 (event_203).txt"
 }
 ]
 },
@@ -26416,6 +26464,44 @@
 {
 "type": "file",
 "name": "202-07 終わらない物語.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "203 あたたかな思い出を辿って (Ln_望月穂波)",
+"children": [
+{
+"type": "file",
+"name": "203-01 忙しさの裏側で.txt"
+},
+{
+"type": "file",
+"name": "203-02 最高のオフを！.txt"
+},
+{
+"type": "file",
+"name": "203-03 出会った頃は.txt"
+},
+{
+"type": "file",
+"name": "203-04 きっかけ.txt"
+},
+{
+"type": "file",
+"name": "203-05 小さな大冒険.txt"
+},
+{
+"type": "file",
+"name": "203-06 いつの間にか.txt"
+},
+{
+"type": "file",
+"name": "203-07 一番嬉しいこと.txt"
+},
+{
+"type": "file",
+"name": "203-08 心のままに.txt"
 }
 ]
 }
