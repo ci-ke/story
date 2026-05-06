@@ -42747,6 +42747,10 @@
 },
 {
 "type": "file",
+"name": "2297_市谷有咲_R5 金色地毯.txt"
+},
+{
+"type": "file",
 "name": "2319_市谷有咲_R4 被卷入一场野餐.txt"
 }
 ]
@@ -43890,6 +43894,10 @@
 {
 "type": "file",
 "name": "2215_羽泽鸫_R5 为你全速前进.txt"
+},
+{
+"type": "file",
+"name": "2298_羽泽鸫_R5 两人，彼此分享.txt"
 }
 ]
 },
@@ -48133,6 +48141,10 @@
 },
 {
 "type": "file",
+"name": "2292_朝日六花_R5 予黑暗以光明.txt"
+},
+{
+"type": "file",
 "name": "2325_朝日六花_R4 活力全开即兴演奏！.txt"
 }
 ]
@@ -48354,6 +48366,10 @@
 {
 "type": "file",
 "name": "2236_鳰原令王那_R5 世界焕然一新的清晨.txt"
+},
+{
+"type": "file",
+"name": "2293_鳰原令王那_R5 握住勇者大人的手.txt"
 }
 ]
 },
@@ -48472,6 +48488,10 @@
 {
 "type": "file",
 "name": "2237_珠手知由_R5 喜欢与讨厌.txt"
+},
+{
+"type": "file",
+"name": "2296_珠手知由_R4 突破重围.txt"
 }
 ]
 },
@@ -59832,6 +59852,40 @@
 {
 "type": "file",
 "name": "event307-07 终章 致温柔的你.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "308 Trick&Trap！",
+"children": [
+{
+"type": "file",
+"name": "event308-01 序章 我们所了解的你.txt"
+},
+{
+"type": "file",
+"name": "event308-02 第１话 Make·Up！.txt"
+},
+{
+"type": "file",
+"name": "event308-03 第２话 交给死神吧♪.txt"
+},
+{
+"type": "file",
+"name": "event308-04 第３话 Dance Time.txt"
+},
+{
+"type": "file",
+"name": "event308-05 第４话 完成任务吧！.txt"
+},
+{
+"type": "file",
+"name": "event308-06 第５话 我所了解的你.txt"
+},
+{
+"type": "file",
+"name": "event308-07 终章 我了解到的你.txt"
 }
 ]
 },
