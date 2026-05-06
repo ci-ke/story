@@ -1,8 +1,8 @@
 name: Sync File List
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 8 * * *'
+  repository_dispatch:
+    types: [sync-file-list]
 
 jobs:
   sync-list:
