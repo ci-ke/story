@@ -86880,6 +86880,10 @@
 {
 "type": "file",
 "name": "2259_丸山彩_R5 心跳不已☆滑水道.txt"
+},
+{
+"type": "file",
+"name": "2305_丸山彩_R5 自拍的範本♡.txt"
 }
 ]
 },
@@ -87566,6 +87570,10 @@
 {
 "type": "file",
 "name": "2248_大和麻彌_R5 敏銳的洞察力.txt"
+},
+{
+"type": "file",
+"name": "2308_大和麻彌_R4 充滿幹勁的簡報.txt"
 }
 ]
 },
@@ -87800,6 +87808,10 @@
 {
 "type": "file",
 "name": "2264_若宮伊芙_R5 Nature‧Smile.txt"
+},
+{
+"type": "file",
+"name": "2304_若宮伊芙_R5 雀躍不已的試穿時間.txt"
 }
 ]
 },
@@ -101534,6 +101546,40 @@
 {
 "type": "file",
 "name": "event309-07 結尾 contrail.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "310 伊芙魅力傳遞大作戰！",
+"children": [
+{
+"type": "file",
+"name": "event310-01 開場 新專案啟動！.txt"
+},
+{
+"type": "file",
+"name": "event310-02 第１話 議題『若宮伊芙的魅力』.txt"
+},
+{
+"type": "file",
+"name": "event310-03 第２話 彩老師的可愛課程！.txt"
+},
+{
+"type": "file",
+"name": "event310-04 第３話 流浪武士道無賴劍.txt"
+},
+{
+"type": "file",
+"name": "event310-05 第４話 『武士道 or Non-武士道』.txt"
+},
+{
+"type": "file",
+"name": "event310-06 第５話 某個早晨的惡作劇.txt"
+},
+{
+"type": "file",
+"name": "event310-07 結尾 我也想要傳達給你.txt"
 }
 ]
 }
