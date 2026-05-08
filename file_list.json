@@ -677,6 +677,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_167.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -2936,6 +2940,10 @@
 {
 "type": "file",
 "name": "1160_天马司_R2 充满魅力的举止 (event_164).txt"
+},
+{
+"type": "file",
+"name": "1169_天马司_R4 心怀决心 (event_167).txt"
 }
 ]
 },
@@ -3106,6 +3114,10 @@
 {
 "type": "file",
 "name": "1156_凤笑梦_R4 坚定地讲述未来 (event_164).txt"
+},
+{
+"type": "file",
+"name": "1170_凤笑梦_R4 在充满笑容的舞台 (event_167).txt"
 }
 ]
 },
@@ -3272,6 +3284,10 @@
 {
 "type": "file",
 "name": "1157_草薙宁宁_R4 把情感寄托到舞步中 (event_164).txt"
+},
+{
+"type": "file",
+"name": "1171_草薙宁宁_R4 心中的焦虑 (event_167).txt"
 }
 ]
 },
@@ -3442,6 +3458,10 @@
 {
 "type": "file",
 "name": "1159_神代类_R3 硬塞蔬菜被抓现行 (event_164).txt"
+},
+{
+"type": "file",
+"name": "1172_神代类_R4 向梦想迈出的一步 (event_167).txt"
 }
 ]
 },
@@ -11632,6 +11652,56 @@
 "name": "165-08 指针，再次开始转动.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "167 Dear my fellows (WxS_WL)",
+"children": [
+{
+"type": "file",
+"name": "167-01 成长的征兆？.txt"
+},
+{
+"type": "file",
+"name": "167-02 启程 (神代类).txt"
+},
+{
+"type": "file",
+"name": "167-03 责任 (神代类).txt"
+},
+{
+"type": "file",
+"name": "167-04 新的环境 (天马司).txt"
+},
+{
+"type": "file",
+"name": "167-05 再次坚定决心 (天马司).txt"
+},
+{
+"type": "file",
+"name": "167-06 焦虑的内心 (草薙宁宁).txt"
+},
+{
+"type": "file",
+"name": "167-07 大家的话，一定会 (草薙宁宁).txt"
+},
+{
+"type": "file",
+"name": "167-08 让舞台绽放笑容 (凤笑梦).txt"
+},
+{
+"type": "file",
+"name": "167-09 那时的感受也 (凤笑梦).txt"
+},
+{
+"type": "file",
+"name": "167-10 献上让人绽放笑容的演出.txt"
+},
+{
+"type": "file",
+"name": "167-11 因为是我们四个.txt"
+}
+]
 }
 ]
 },
@@ -13290,6 +13360,10 @@
 {
 "type": "file",
 "name": "talk_event_203.txt"
+},
+{
+"type": "file",
+"name": "talk_event_204.txt"
 },
 {
 "type": "file",
@@ -15168,6 +15242,10 @@
 {
 "type": "file",
 "name": "1371_小豆沢こはね_R3 歌詞に磨きをかけて (event_201).txt"
+},
+{
+"type": "file",
+"name": "1386_小豆沢こはね_R4 知らない視線 (event_204).txt"
 }
 ]
 },
@@ -15362,6 +15440,10 @@
 {
 "type": "file",
 "name": "1368_白石杏_R4 垣間見えた牙 (event_201).txt"
+},
+{
+"type": "file",
+"name": "1389_白石杏_R3 何メートルあるの！？ (event_204).txt"
 }
 ]
 },
@@ -15572,6 +15654,10 @@
 {
 "type": "file",
 "name": "1369_東雲彰人_R4 この壁を越えるために (event_201).txt"
+},
+{
+"type": "file",
+"name": "1387_東雲彰人_R4 ちゃんと聞いてたか？ (event_204).txt"
 }
 ]
 },
@@ -15778,6 +15864,10 @@
 {
 "type": "file",
 "name": "1372_青柳冬弥_R2 やりとげる意志 (event_201).txt"
+},
+{
+"type": "file",
+"name": "1388_青柳冬弥_R4 丁寧な一杯 (event_204).txt"
 }
 ]
 },
@@ -15984,6 +16074,10 @@
 {
 "type": "file",
 "name": "1366_天馬司_R3 若者の熱きエール (event_200).txt"
+},
+{
+"type": "file",
+"name": "1391_天馬司_RB Happy Birthday！！2026.txt"
 }
 ]
 },
@@ -18698,6 +18792,10 @@
 {
 "type": "file",
 "name": "1354_KAITO (MMJ)_R2 ほとばしるファン魂 (event_198).txt"
+},
+{
+"type": "file",
+"name": "1390_KAITO (VBS)_R2 パーティーにようこそ！ (event_204).txt"
 }
 ]
 }
@@ -26508,6 +26606,44 @@
 "name": "203-08 心のままに.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "204 Stay solid, No fold (VBS_小豆沢こはね)",
+"children": [
+{
+"type": "file",
+"name": "204-01 予選の結果は.txt"
+},
+{
+"type": "file",
+"name": "204-02 予想外の申し出.txt"
+},
+{
+"type": "file",
+"name": "204-03 それぞれの意見.txt"
+},
+{
+"type": "file",
+"name": "204-04 音楽への想い.txt"
+},
+{
+"type": "file",
+"name": "204-05 Eagle music.txt"
+},
+{
+"type": "file",
+"name": "204-06 視線.txt"
+},
+{
+"type": "file",
+"name": "204-07 私達の進み方.txt"
+},
+{
+"type": "file",
+"name": "204-08 再会、そして.txt"
+}
+]
 }
 ]
 },
@@ -28106,6 +28242,10 @@
 {
 "type": "file",
 "name": "talk_event_165.txt"
+},
+{
+"type": "file",
+"name": "talk_event_167.txt"
 },
 {
 "type": "file",
@@ -30368,6 +30508,10 @@
 {
 "type": "file",
 "name": "1160_天馬司_R2 迷人的行為舉止 (event_164).txt"
+},
+{
+"type": "file",
+"name": "1169_天馬司_R4 在心中下定決心 (event_167).txt"
 }
 ]
 },
@@ -30538,6 +30682,10 @@
 {
 "type": "file",
 "name": "1156_鳳笑夢_R4 凜然地描繪將來 (event_164).txt"
+},
+{
+"type": "file",
+"name": "1170_鳳笑夢_R4 在笑咪咪的舞台上 (event_167).txt"
 }
 ]
 },
@@ -30704,6 +30852,10 @@
 {
 "type": "file",
 "name": "1157_草薙寧寧_R4 把情感寄託於舞步 (event_164).txt"
+},
+{
+"type": "file",
+"name": "1171_草薙寧寧_R4 心懷焦躁 (event_167).txt"
 }
 ]
 },
@@ -30874,6 +31026,10 @@
 {
 "type": "file",
 "name": "1159_神代類_R3 硬塞蔬菜現行犯 (event_164).txt"
+},
+{
+"type": "file",
+"name": "1172_神代類_R4 朝向夢想的一步 (event_167).txt"
 }
 ]
 },
@@ -39062,6 +39218,56 @@
 {
 "type": "file",
 "name": "165-08 時針再次開始轉動.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "167 Dear my fellows (WxS_WL)",
+"children": [
+{
+"type": "file",
+"name": "167-01 成長的跡象？.txt"
+},
+{
+"type": "file",
+"name": "167-02 啟程 (神代類).txt"
+},
+{
+"type": "file",
+"name": "167-03 責任 (神代類).txt"
+},
+{
+"type": "file",
+"name": "167-04 新環境 (天馬司).txt"
+},
+{
+"type": "file",
+"name": "167-05 再次下定決心 (天馬司).txt"
+},
+{
+"type": "file",
+"name": "167-06 沸騰的心 (草薙寧寧).txt"
+},
+{
+"type": "file",
+"name": "167-07 大家的話，一定沒問題 (草薙寧寧).txt"
+},
+{
+"type": "file",
+"name": "167-08 讓舞台充滿笑容 (鳳笑夢).txt"
+},
+{
+"type": "file",
+"name": "167-09 那時的心情也 (鳳笑夢).txt"
+},
+{
+"type": "file",
+"name": "167-10 帶來笑容的表演.txt"
+},
+{
+"type": "file",
+"name": "167-11 因為是四個人.txt"
 }
 ]
 }
