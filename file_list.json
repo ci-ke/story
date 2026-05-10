@@ -11931,7 +11931,7 @@
 },
 {
 "type": "file",
-"name": "mmj_01_10 引退.txt"
+"name": "mmj_01_10 隐退.txt"
 },
 {
 "type": "file",
@@ -27566,6 +27566,10 @@
 {
 "type": "file",
 "name": "sp068 ワールドリンクイベント前日譚ログインストーリー.txt"
+},
+{
+"type": "file",
+"name": "sp069 コネクトライブ Parallel Paaaarty!!!! 前日ストーリー.txt"
 }
 ]
 }
