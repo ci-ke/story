@@ -40133,6 +40133,192 @@
 "children": [
 {
 "type": "dir",
+"name": "area",
+"children": [
+{
+"type": "file",
+"name": "talk_area_item_01 咖啡厅.txt"
+},
+{
+"type": "file",
+"name": "talk_area_item_04 CiRCLE.txt"
+},
+{
+"type": "file",
+"name": "talk_area_item_17 CHU²的公寓.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_01 咖啡厅.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_03 江户川乐器店.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_04 CiRCLE.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_05 购物中心.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_06 快餐店.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_07 花咲川女子学园.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_08 商店街.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_09 羽丘女子学园.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_15 月之森女子学园.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_16 车站前.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_17 CHU²的公寓.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_01 咖啡厅.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_02 流星堂.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_03 江户川乐器店.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_04 CiRCLE.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_05 购物中心.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_06 快餐店.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_07 花咲川女子学园.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_08 商店街.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_09 羽丘女子学园.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_15 月之森女子学园.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_16 车站前.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_17 CHU²的公寓.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_21 RiNG.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_22 主要街区.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_23 大学路.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_01 咖啡厅.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_04 CiRCLE.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_06 快餐店.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_07 花咲川女子学园.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_08 商店街.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_09 羽丘女子学园.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_10 活动大厅.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_11 弦卷家派对会场.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_12 神社.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_16 车站前.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_17 CHU²的公寓.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_20 圣诞广场.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_21 RiNG.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_23 大学路.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_24 邦邦幼儿园.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_25 梦幻世界.txt"
+}
+]
+},
+{
+"type": "dir",
 "name": "band",
 "children": [
 {
@@ -60481,6 +60667,152 @@
 "type": "dir",
 "name": "story_jp",
 "children": [
+{
+"type": "dir",
+"name": "area",
+"children": [
+{
+"type": "file",
+"name": "talk_area_item_01 カフェテリア.txt"
+},
+{
+"type": "file",
+"name": "talk_area_item_04 ＣｉＲＣＬＥ.txt"
+},
+{
+"type": "file",
+"name": "talk_area_item_17 チュチュのマンション.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_01 カフェテリア.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_03 江戸川楽器店.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_04 ＣｉＲＣＬＥ.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_05 ショッピングモール.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_06 ファーストフード店.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_07 花咲川女子学園.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_08 商店街.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_09 羽丘女子学園.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_15 月ノ森女子学園.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_16 駅前.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_17 チュチュのマンション.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_01 カフェテリア.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_02 流星堂.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_03 江戸川楽器店.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_04 ＣｉＲＣＬＥ.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_05 ショッピングモール.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_06 ファーストフード店.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_07 花咲川女子学園.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_08 商店街.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_09 羽丘女子学園.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_15 月ノ森女子学園.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_16 駅前.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_17 チュチュのマンション.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_21 ＲｉＮＧ.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_22 メインストリート.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_23 キャンパス通り.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_10 イベントホール.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_11 弦巻家パーティ会場.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_12 神社.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_20 クリスマス広場.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_24 がるぱ幼稚園.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_25 ゆめのせかい.txt"
+}
+]
+},
 {
 "type": "dir",
 "name": "band",
@@ -81823,6 +82155,148 @@
 "type": "dir",
 "name": "story_tw",
 "children": [
+{
+"type": "dir",
+"name": "area",
+"children": [
+{
+"type": "file",
+"name": "talk_area_item_01 自助餐廳.txt"
+},
+{
+"type": "file",
+"name": "talk_area_item_04 ＣｉＲＣＬＥ.txt"
+},
+{
+"type": "file",
+"name": "talk_area_item_17 CHU²的公寓.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_01 自助餐廳.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_03 江戶川樂器行.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_04 ＣｉＲＣＬＥ.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_05 購物中心.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_06 速食店.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_07 花咲川女子學園.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_08 商店街.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_09 羽丘女子學園.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_15 月森女子學園.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_16 車站前.txt"
+},
+{
+"type": "file",
+"name": "talk_birthday_17 CHU²的公寓.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_01 自助餐廳.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_02 流星堂.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_03 江戶川樂器行.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_04 ＣｉＲＣＬＥ.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_05 購物中心.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_06 速食店.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_07 花咲川女子學園.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_08 商店街.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_09 羽丘女子學園.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_15 月森女子學園.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_16 車站前.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_17 CHU²的公寓.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_21 ＲｉＮＧ.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_22 主要街區.txt"
+},
+{
+"type": "file",
+"name": "talk_normal_23 大學路.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_10 活動會場.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_11 None.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_12 神社.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_20 聖誕廣場.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_24 GARUPA幼稚園.txt"
+}
+]
+},
 {
 "type": "dir",
 "name": "band",
