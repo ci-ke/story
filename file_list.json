@@ -86052,6 +86052,10 @@
 {
 "type": "file",
 "name": "2214_宇田川巴_R5 尚未見過的大海彼端.txt"
+},
+{
+"type": "file",
+"name": "2314_宇田川巴_R5 尋找屬於我的色彩.txt"
 }
 ]
 },
@@ -86710,6 +86714,10 @@
 {
 "type": "file",
 "name": "2198_瀨田薰_R5 Runway Magic.txt"
+},
+{
+"type": "file",
+"name": "2315_瀨田薰_R5 通往新世界的門扉.txt"
 }
 ]
 },
@@ -87860,6 +87868,10 @@
 {
 "type": "file",
 "name": "2274_冰川日菜_R4 夏日慶典，雀躍的心.txt"
+},
+{
+"type": "file",
+"name": "2310_冰川日菜_R5 說出來了，也聽到了.txt"
 }
 ]
 },
@@ -88998,6 +89010,10 @@
 {
 "type": "file",
 "name": "2253_冰川紗夜_R5 繞遠路的盡頭.txt"
+},
+{
+"type": "file",
+"name": "2309_冰川紗夜_R5 兩個拼圖.txt"
 }
 ]
 },
@@ -89228,6 +89244,10 @@
 {
 "type": "file",
 "name": "2183_今井莉莎_R5 隨櫻影搖曳的光芒.txt"
+},
+{
+"type": "file",
+"name": "2313_今井莉莎_R4 花與星閃耀的地方.txt"
 }
 ]
 },
@@ -102318,6 +102338,40 @@
 {
 "type": "file",
 "name": "event310-07 結尾 我也想要傳達給你.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "311 交叉點上，兩顆星微笑著",
+"children": [
+{
+"type": "file",
+"name": "event311-01 開場 拼圖的碎片，兩個.txt"
+},
+{
+"type": "file",
+"name": "event311-02 第１話 被稱呼為「姐姐」.txt"
+},
+{
+"type": "file",
+"name": "event311-03 第２話 告訴我你的聲音.txt"
+},
+{
+"type": "file",
+"name": "event311-04 第３話 無法拼合的碎片.txt"
+},
+{
+"type": "file",
+"name": "event311-05 第４話 嚕♪.txt"
+},
+{
+"type": "file",
+"name": "event311-06 第５話 寒冷又冰涼的早晨.txt"
+},
+{
+"type": "file",
+"name": "event311-07 結尾 星星大人的軌跡.txt"
 }
 ]
 }
