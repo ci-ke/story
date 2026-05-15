@@ -1,0 +1,12538 @@
+[
+{
+"type": "dir",
+"name": "area",
+"children": [
+{
+"type": "file",
+"name": "talk_aprilfool2022.txt"
+},
+{
+"type": "file",
+"name": "talk_aprilfool2023.txt"
+},
+{
+"type": "file",
+"name": "talk_aprilfool2024.txt"
+},
+{
+"type": "file",
+"name": "talk_aprilfool2025.txt"
+},
+{
+"type": "file",
+"name": "talk_event_002.txt"
+},
+{
+"type": "file",
+"name": "talk_event_003.txt"
+},
+{
+"type": "file",
+"name": "talk_event_004.txt"
+},
+{
+"type": "file",
+"name": "talk_event_007.txt"
+},
+{
+"type": "file",
+"name": "talk_event_008.txt"
+},
+{
+"type": "file",
+"name": "talk_event_009.txt"
+},
+{
+"type": "file",
+"name": "talk_event_010.txt"
+},
+{
+"type": "file",
+"name": "talk_event_011.txt"
+},
+{
+"type": "file",
+"name": "talk_event_012.txt"
+},
+{
+"type": "file",
+"name": "talk_event_013.txt"
+},
+{
+"type": "file",
+"name": "talk_event_014.txt"
+},
+{
+"type": "file",
+"name": "talk_event_015.txt"
+},
+{
+"type": "file",
+"name": "talk_event_016.txt"
+},
+{
+"type": "file",
+"name": "talk_event_017.txt"
+},
+{
+"type": "file",
+"name": "talk_event_018.txt"
+},
+{
+"type": "file",
+"name": "talk_event_019.txt"
+},
+{
+"type": "file",
+"name": "talk_event_020.txt"
+},
+{
+"type": "file",
+"name": "talk_event_021.txt"
+},
+{
+"type": "file",
+"name": "talk_event_022.txt"
+},
+{
+"type": "file",
+"name": "talk_event_023.txt"
+},
+{
+"type": "file",
+"name": "talk_event_024.txt"
+},
+{
+"type": "file",
+"name": "talk_event_025.txt"
+},
+{
+"type": "file",
+"name": "talk_event_026.txt"
+},
+{
+"type": "file",
+"name": "talk_event_027.txt"
+},
+{
+"type": "file",
+"name": "talk_event_028.txt"
+},
+{
+"type": "file",
+"name": "talk_event_029.txt"
+},
+{
+"type": "file",
+"name": "talk_event_030.txt"
+},
+{
+"type": "file",
+"name": "talk_event_031.txt"
+},
+{
+"type": "file",
+"name": "talk_event_032.txt"
+},
+{
+"type": "file",
+"name": "talk_event_033.txt"
+},
+{
+"type": "file",
+"name": "talk_event_034.txt"
+},
+{
+"type": "file",
+"name": "talk_event_035.txt"
+},
+{
+"type": "file",
+"name": "talk_event_036.txt"
+},
+{
+"type": "file",
+"name": "talk_event_037.txt"
+},
+{
+"type": "file",
+"name": "talk_event_038.txt"
+},
+{
+"type": "file",
+"name": "talk_event_039.txt"
+},
+{
+"type": "file",
+"name": "talk_event_040.txt"
+},
+{
+"type": "file",
+"name": "talk_event_041.txt"
+},
+{
+"type": "file",
+"name": "talk_event_042.txt"
+},
+{
+"type": "file",
+"name": "talk_event_043.txt"
+},
+{
+"type": "file",
+"name": "talk_event_044.txt"
+},
+{
+"type": "file",
+"name": "talk_event_045.txt"
+},
+{
+"type": "file",
+"name": "talk_event_046.txt"
+},
+{
+"type": "file",
+"name": "talk_event_047.txt"
+},
+{
+"type": "file",
+"name": "talk_event_048.txt"
+},
+{
+"type": "file",
+"name": "talk_event_049.txt"
+},
+{
+"type": "file",
+"name": "talk_event_050.txt"
+},
+{
+"type": "file",
+"name": "talk_event_051.txt"
+},
+{
+"type": "file",
+"name": "talk_event_052.txt"
+},
+{
+"type": "file",
+"name": "talk_event_053.txt"
+},
+{
+"type": "file",
+"name": "talk_event_054.txt"
+},
+{
+"type": "file",
+"name": "talk_event_055.txt"
+},
+{
+"type": "file",
+"name": "talk_event_056.txt"
+},
+{
+"type": "file",
+"name": "talk_event_057.txt"
+},
+{
+"type": "file",
+"name": "talk_event_058.txt"
+},
+{
+"type": "file",
+"name": "talk_event_059.txt"
+},
+{
+"type": "file",
+"name": "talk_event_060.txt"
+},
+{
+"type": "file",
+"name": "talk_event_061.txt"
+},
+{
+"type": "file",
+"name": "talk_event_062.txt"
+},
+{
+"type": "file",
+"name": "talk_event_063.txt"
+},
+{
+"type": "file",
+"name": "talk_event_064.txt"
+},
+{
+"type": "file",
+"name": "talk_event_065.txt"
+},
+{
+"type": "file",
+"name": "talk_event_066.txt"
+},
+{
+"type": "file",
+"name": "talk_event_067.txt"
+},
+{
+"type": "file",
+"name": "talk_event_068.txt"
+},
+{
+"type": "file",
+"name": "talk_event_069.txt"
+},
+{
+"type": "file",
+"name": "talk_event_070.txt"
+},
+{
+"type": "file",
+"name": "talk_event_071.txt"
+},
+{
+"type": "file",
+"name": "talk_event_072.txt"
+},
+{
+"type": "file",
+"name": "talk_event_073.txt"
+},
+{
+"type": "file",
+"name": "talk_event_074.txt"
+},
+{
+"type": "file",
+"name": "talk_event_075.txt"
+},
+{
+"type": "file",
+"name": "talk_event_076.txt"
+},
+{
+"type": "file",
+"name": "talk_event_077.txt"
+},
+{
+"type": "file",
+"name": "talk_event_078.txt"
+},
+{
+"type": "file",
+"name": "talk_event_079.txt"
+},
+{
+"type": "file",
+"name": "talk_event_080.txt"
+},
+{
+"type": "file",
+"name": "talk_event_081.txt"
+},
+{
+"type": "file",
+"name": "talk_event_082.txt"
+},
+{
+"type": "file",
+"name": "talk_event_083.txt"
+},
+{
+"type": "file",
+"name": "talk_event_084.txt"
+},
+{
+"type": "file",
+"name": "talk_event_085.txt"
+},
+{
+"type": "file",
+"name": "talk_event_086.txt"
+},
+{
+"type": "file",
+"name": "talk_event_087.txt"
+},
+{
+"type": "file",
+"name": "talk_event_088.txt"
+},
+{
+"type": "file",
+"name": "talk_event_089.txt"
+},
+{
+"type": "file",
+"name": "talk_event_090.txt"
+},
+{
+"type": "file",
+"name": "talk_event_091.txt"
+},
+{
+"type": "file",
+"name": "talk_event_092.txt"
+},
+{
+"type": "file",
+"name": "talk_event_093.txt"
+},
+{
+"type": "file",
+"name": "talk_event_094.txt"
+},
+{
+"type": "file",
+"name": "talk_event_095.txt"
+},
+{
+"type": "file",
+"name": "talk_event_096.txt"
+},
+{
+"type": "file",
+"name": "talk_event_097.txt"
+},
+{
+"type": "file",
+"name": "talk_event_098.txt"
+},
+{
+"type": "file",
+"name": "talk_event_099.txt"
+},
+{
+"type": "file",
+"name": "talk_event_100.txt"
+},
+{
+"type": "file",
+"name": "talk_event_101.txt"
+},
+{
+"type": "file",
+"name": "talk_event_102.txt"
+},
+{
+"type": "file",
+"name": "talk_event_103.txt"
+},
+{
+"type": "file",
+"name": "talk_event_104.txt"
+},
+{
+"type": "file",
+"name": "talk_event_105.txt"
+},
+{
+"type": "file",
+"name": "talk_event_106.txt"
+},
+{
+"type": "file",
+"name": "talk_event_107.txt"
+},
+{
+"type": "file",
+"name": "talk_event_108.txt"
+},
+{
+"type": "file",
+"name": "talk_event_109.txt"
+},
+{
+"type": "file",
+"name": "talk_event_110.txt"
+},
+{
+"type": "file",
+"name": "talk_event_111.txt"
+},
+{
+"type": "file",
+"name": "talk_event_112.txt"
+},
+{
+"type": "file",
+"name": "talk_event_113.txt"
+},
+{
+"type": "file",
+"name": "talk_event_114.txt"
+},
+{
+"type": "file",
+"name": "talk_event_115.txt"
+},
+{
+"type": "file",
+"name": "talk_event_116.txt"
+},
+{
+"type": "file",
+"name": "talk_event_117.txt"
+},
+{
+"type": "file",
+"name": "talk_event_118.txt"
+},
+{
+"type": "file",
+"name": "talk_event_119.txt"
+},
+{
+"type": "file",
+"name": "talk_event_120.txt"
+},
+{
+"type": "file",
+"name": "talk_event_121.txt"
+},
+{
+"type": "file",
+"name": "talk_event_122.txt"
+},
+{
+"type": "file",
+"name": "talk_event_123.txt"
+},
+{
+"type": "file",
+"name": "talk_event_124.txt"
+},
+{
+"type": "file",
+"name": "talk_event_125.txt"
+},
+{
+"type": "file",
+"name": "talk_event_126.txt"
+},
+{
+"type": "file",
+"name": "talk_event_127.txt"
+},
+{
+"type": "file",
+"name": "talk_event_128.txt"
+},
+{
+"type": "file",
+"name": "talk_event_129.txt"
+},
+{
+"type": "file",
+"name": "talk_event_130.txt"
+},
+{
+"type": "file",
+"name": "talk_event_131.txt"
+},
+{
+"type": "file",
+"name": "talk_event_132.txt"
+},
+{
+"type": "file",
+"name": "talk_event_133.txt"
+},
+{
+"type": "file",
+"name": "talk_event_134.txt"
+},
+{
+"type": "file",
+"name": "talk_event_135.txt"
+},
+{
+"type": "file",
+"name": "talk_event_136.txt"
+},
+{
+"type": "file",
+"name": "talk_event_137.txt"
+},
+{
+"type": "file",
+"name": "talk_event_138.txt"
+},
+{
+"type": "file",
+"name": "talk_event_139.txt"
+},
+{
+"type": "file",
+"name": "talk_event_140.txt"
+},
+{
+"type": "file",
+"name": "talk_event_141.txt"
+},
+{
+"type": "file",
+"name": "talk_event_142.txt"
+},
+{
+"type": "file",
+"name": "talk_event_143.txt"
+},
+{
+"type": "file",
+"name": "talk_event_144.txt"
+},
+{
+"type": "file",
+"name": "talk_event_145.txt"
+},
+{
+"type": "file",
+"name": "talk_event_146.txt"
+},
+{
+"type": "file",
+"name": "talk_event_147.txt"
+},
+{
+"type": "file",
+"name": "talk_event_148.txt"
+},
+{
+"type": "file",
+"name": "talk_event_149.txt"
+},
+{
+"type": "file",
+"name": "talk_event_150.txt"
+},
+{
+"type": "file",
+"name": "talk_event_151.txt"
+},
+{
+"type": "file",
+"name": "talk_event_152.txt"
+},
+{
+"type": "file",
+"name": "talk_event_153.txt"
+},
+{
+"type": "file",
+"name": "talk_event_154.txt"
+},
+{
+"type": "file",
+"name": "talk_event_155.txt"
+},
+{
+"type": "file",
+"name": "talk_event_156.txt"
+},
+{
+"type": "file",
+"name": "talk_event_157.txt"
+},
+{
+"type": "file",
+"name": "talk_event_158.txt"
+},
+{
+"type": "file",
+"name": "talk_event_159.txt"
+},
+{
+"type": "file",
+"name": "talk_event_160.txt"
+},
+{
+"type": "file",
+"name": "talk_event_161.txt"
+},
+{
+"type": "file",
+"name": "talk_event_162.txt"
+},
+{
+"type": "file",
+"name": "talk_event_163.txt"
+},
+{
+"type": "file",
+"name": "talk_event_164.txt"
+},
+{
+"type": "file",
+"name": "talk_event_165.txt"
+},
+{
+"type": "file",
+"name": "talk_event_167.txt"
+},
+{
+"type": "file",
+"name": "talk_grade1.txt"
+},
+{
+"type": "file",
+"name": "talk_grade2.txt"
+},
+{
+"type": "file",
+"name": "talk_limited_14 恶之大罪系列「世界」.txt"
+},
+{
+"type": "file",
+"name": "talk_limited_22 彩虹乐园「世界」.txt"
+},
+{
+"type": "file",
+"name": "talk_limited_26 ASTRO FES会场.txt"
+},
+{
+"type": "file",
+"name": "talk_theater.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "card",
+"children": [
+{
+"type": "dir",
+"name": "01 Ln_星乃一歌",
+"children": [
+{
+"type": "file",
+"name": "0001_星乃一歌_R1 外表帅气且为朋友着想.txt"
+},
+{
+"type": "file",
+"name": "0002_星乃一歌_R2 Leo／need.txt"
+},
+{
+"type": "file",
+"name": "0003_星乃一歌_R3 仰望天空尽头.txt"
+},
+{
+"type": "file",
+"name": "0004_星乃一歌_R4 黎明前的倾诉.txt"
+},
+{
+"type": "file",
+"name": "0113_星乃一歌_R2 星之舞步 (event_1).txt"
+},
+{
+"type": "file",
+"name": "0157_星乃一歌_R4 重拾笑容 (event_10).txt"
+},
+{
+"type": "file",
+"name": "0197_星乃一歌_R4 祈愿天晴 (event_18).txt"
+},
+{
+"type": "file",
+"name": "0210_星乃一歌_R3 传递我的心愿 (event_20).txt"
+},
+{
+"type": "file",
+"name": "0248_星乃一歌_R2 等待雨晴的雨伞 (event_27).txt"
+},
+{
+"type": "file",
+"name": "0279_星乃一歌_R4 串连彼此心愿的星星手势 (event_34).txt"
+},
+{
+"type": "file",
+"name": "0290_星乃一歌_R4 过去仰望的星空.txt"
+},
+{
+"type": "file",
+"name": "0316_星乃一歌_R3 新歌的方向 (event_40).txt"
+},
+{
+"type": "file",
+"name": "0325_星乃一歌_R4 CD带来的邂逅 (event_42).txt"
+},
+{
+"type": "file",
+"name": "0381_星乃一歌_R4 你听到我说的话了？！ (event_50).txt"
+},
+{
+"type": "file",
+"name": "0416_星乃一歌_R4 不假思索的举动 (event_56).txt"
+},
+{
+"type": "file",
+"name": "0462_星乃一歌_R2 一定要主动些才行 (event_63).txt"
+},
+{
+"type": "file",
+"name": "0470_星乃一歌_R4 倾听你的歌声 (event_65).txt"
+},
+{
+"type": "file",
+"name": "0480_星乃一歌_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0494_星乃一歌_R4 等待灵感 (event_69).txt"
+},
+{
+"type": "file",
+"name": "0535_星乃一歌_R4 相连的音色 (event_76).txt"
+},
+{
+"type": "file",
+"name": "0580_星乃一歌_R2 紧张的感谢消息 (event_83).txt"
+},
+{
+"type": "file",
+"name": "0583_星乃一歌_R4 暮色中的温暖 (event_84).txt"
+},
+{
+"type": "file",
+"name": "0627_星乃一歌_R3 期待已久的消息 (event_91).txt"
+},
+{
+"type": "file",
+"name": "0643_星乃一歌_R4 水上躲藏 (event_94).txt"
+},
+{
+"type": "file",
+"name": "0683_星乃一歌_R4 深藏心中的誓言 (event_101).txt"
+},
+{
+"type": "file",
+"name": "0699_星乃一歌_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0724_星乃一歌_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0762_星乃一歌_R4 新事物的开始 (event_108).txt"
+},
+{
+"type": "file",
+"name": "0776_星乃一歌_R3 为了传递动听的声音 (event_110).txt"
+},
+{
+"type": "file",
+"name": "0831_星乃一歌_R3 小心被抢走！ (event_115).txt"
+},
+{
+"type": "file",
+"name": "0868_星乃一歌_R4 慢慢来没事的 (event_121).txt"
+},
+{
+"type": "file",
+"name": "0879_星乃一歌_R4 在烦恼的两人面前 (event_123).txt"
+},
+{
+"type": "file",
+"name": "0912_星乃一歌_R3 在陷入僵局的夜晚 (event_128).txt"
+},
+{
+"type": "file",
+"name": "0961_星乃一歌_R4 我们的旅程 (event_137).txt"
+},
+{
+"type": "file",
+"name": "0978_星乃一歌_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "0998_星乃一歌_R4 和未来的相遇 (event_143).txt"
+},
+{
+"type": "file",
+"name": "1023_星乃一歌_R4 和平时不一样的自己 (event_147).txt"
+},
+{
+"type": "file",
+"name": "1101_星乃一歌_R2 绘出闪耀 (event_155).txt"
+},
+{
+"type": "file",
+"name": "1125_星乃一歌_R3 夸赞要直截了当 (event_158).txt"
+},
+{
+"type": "file",
+"name": "1147_星乃一歌_R4 倾尽全力传递音乐 (event_162).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "02 Ln_天马咲希",
+"children": [
+{
+"type": "file",
+"name": "0005_天马咲希_R1 永远活泼的开心果.txt"
+},
+{
+"type": "file",
+"name": "0006_天马咲希_R2 Leo／need.txt"
+},
+{
+"type": "file",
+"name": "0007_天马咲希_R3 想做的100件事.txt"
+},
+{
+"type": "file",
+"name": "0109_天马咲希_R4 雨的距离 (event_1).txt"
+},
+{
+"type": "file",
+"name": "0128_天马咲希_R2 我是体育节组织委员！ (event_4).txt"
+},
+{
+"type": "file",
+"name": "0153_天马咲希_R3 无比重要的愿望 (event_9).txt"
+},
+{
+"type": "file",
+"name": "0158_天马咲希_R3 暗中支持 (event_10).txt"
+},
+{
+"type": "file",
+"name": "0185_天马咲希_R4 最棒的女儿节！ (event_16).txt"
+},
+{
+"type": "file",
+"name": "0209_天马咲希_R4 窗边谈心 (event_20).txt"
+},
+{
+"type": "file",
+"name": "0244_天马咲希_R4 触及到的心愿 (event_27).txt"
+},
+{
+"type": "file",
+"name": "0260_天马咲希_R4 魔术表演的助手！ (event_30).txt"
+},
+{
+"type": "file",
+"name": "0283_天马咲希_R2 曲奇饼干声援 (event_34).txt"
+},
+{
+"type": "file",
+"name": "0315_天马咲希_R4 为了下一场演出！ (event_40).txt"
+},
+{
+"type": "file",
+"name": "0369_天马咲希_R4 意外的电话 (event_48).txt"
+},
+{
+"type": "file",
+"name": "0383_天马咲希_R3 未来之星的教导 (event_50).txt"
+},
+{
+"type": "file",
+"name": "0417_天马咲希_R4 举杯畅饮最棒的饮料！ (event_56).txt"
+},
+{
+"type": "file",
+"name": "0427_天马咲希_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0469_天马咲希_R4 记忆的深渊 (event_65).txt"
+},
+{
+"type": "file",
+"name": "0495_天马咲希_R4 长出一身肌肉了？！ (event_69).txt"
+},
+{
+"type": "file",
+"name": "0538_天马咲希_R3 相信大家的温柔 (event_76).txt"
+},
+{
+"type": "file",
+"name": "0577_天马咲希_R4 迷迷糊糊的美术课 (event_83).txt"
+},
+{
+"type": "file",
+"name": "0604_天马咲希_R2 倾注心意，精心准备 (event_87).txt"
+},
+{
+"type": "file",
+"name": "0624_天马咲希_R4 做好接受一切的觉悟 (event_91).txt"
+},
+{
+"type": "file",
+"name": "0641_天马咲希_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0645_天马咲希_R3 感觉像是乔装的艺人？ (event_94).txt"
+},
+{
+"type": "file",
+"name": "0687_天马咲希_R2 大家集合～！感谢演出！ (event_101).txt"
+},
+{
+"type": "file",
+"name": "0690_天马咲希_R4 在隔板背后 (event_102).txt"
+},
+{
+"type": "file",
+"name": "0714_天马咲希_R4 拥抱回忆 (event_106).txt"
+},
+{
+"type": "file",
+"name": "0725_天马咲希_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0777_天马咲希_R2 充满了欢乐♪ (event_110).txt"
+},
+{
+"type": "file",
+"name": "0802_天马咲希_R4 feat.布丁狗.txt"
+},
+{
+"type": "file",
+"name": "0846_天马咲希_R2 带着一年来的感谢 (event_117).txt"
+},
+{
+"type": "file",
+"name": "0871_天马咲希_R2 想让队长做的事？ (event_121).txt"
+},
+{
+"type": "file",
+"name": "0895_天马咲希_R4 飞向天空的祈祷.txt"
+},
+{
+"type": "file",
+"name": "0909_天马咲希_R4 只剩一人的房间 (event_128).txt"
+},
+{
+"type": "file",
+"name": "0920_天马咲希_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "0962_天马咲希_R4 因为四个人在一起 (event_137).txt"
+},
+{
+"type": "file",
+"name": "0977_天马咲希_R2 令人怀念的联弹 (event_139).txt"
+},
+{
+"type": "file",
+"name": "0999_天马咲希_R4 那天的憧憬 (event_143).txt"
+},
+{
+"type": "file",
+"name": "1022_天马咲希_R4 充满着快乐和幸福的演奏 (event_147).txt"
+},
+{
+"type": "file",
+"name": "1031_天马咲希_R3 睡脸和梦话 (event_148).txt"
+},
+{
+"type": "file",
+"name": "1098_天马咲希_R4 谢意满满！ (event_155).txt"
+},
+{
+"type": "file",
+"name": "1127_天马咲希_R4 举步维艰！策划会议 (event_159).txt"
+},
+{
+"type": "file",
+"name": "1149_天马咲希_R3 享受如梦似幻般的欢乐时光 (event_162).txt"
+},
+{
+"type": "file",
+"name": "1168_天马咲希_RB Happy Birthday！！2026.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "03 Ln_望月穗波",
+"children": [
+{
+"type": "file",
+"name": "0009_望月穗波_R1 对所有人温柔的优等生.txt"
+},
+{
+"type": "file",
+"name": "0010_望月穗波_R2 Leo／need.txt"
+},
+{
+"type": "file",
+"name": "0011_望月穗波_R3 味道没变.txt"
+},
+{
+"type": "file",
+"name": "0112_望月穗波_R3 好好休息 (event_1).txt"
+},
+{
+"type": "file",
+"name": "0155_望月穗波_R4 谢谢，勇气 (event_10).txt"
+},
+{
+"type": "file",
+"name": "0172_望月穗波_R4 欢迎来到噩梦之中 (event_13).txt"
+},
+{
+"type": "file",
+"name": "0189_望月穗波_R2 虽然不该那样做…… (event_16).txt"
+},
+{
+"type": "file",
+"name": "0208_望月穗波_R4 看不见的心意 (event_20).txt"
+},
+{
+"type": "file",
+"name": "0247_望月穗波_R3 想着伙伴 (event_27).txt"
+},
+{
+"type": "file",
+"name": "0259_望月穗波_R4 海上游泳课 (event_30).txt"
+},
+{
+"type": "file",
+"name": "0281_望月穗波_R4 探寻自己力所能及的事 (event_34).txt"
+},
+{
+"type": "file",
+"name": "0306_望月穗波_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0313_望月穗波_R4 因为你是我们最重要的朋友 (event_40).txt"
+},
+{
+"type": "file",
+"name": "0328_望月穗波_R2 为了重要的儿时伙伴 (event_42).txt"
+},
+{
+"type": "file",
+"name": "0351_望月穗波_R4 度过一年最后一天 (event_45).txt"
+},
+{
+"type": "file",
+"name": "0384_望月穗波_R2 帅气女骑手 (event_50).txt"
+},
+{
+"type": "file",
+"name": "0418_望月穗波_R4 温柔体贴之举 (event_56).txt"
+},
+{
+"type": "file",
+"name": "0456_望月穗波_R4 日积月累的勇气.txt"
+},
+{
+"type": "file",
+"name": "0497_望月穗波_R2 信赖的力量 (event_69).txt"
+},
+{
+"type": "file",
+"name": "0500_望月穗波_R4 为什么会变成这样？ (event_70).txt"
+},
+{
+"type": "file",
+"name": "0515_望月穗波_R3 为了让更多人认识我们 (event_72).txt"
+},
+{
+"type": "file",
+"name": "0527_望月穗波_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0536_望月穗波_R4 包含关怀 (event_76).txt"
+},
+{
+"type": "file",
+"name": "0576_望月穗波_R4 勇气过后 (event_83).txt"
+},
+{
+"type": "file",
+"name": "0586_望月穗波_R3 在微笑前面的是 (event_84).txt"
+},
+{
+"type": "file",
+"name": "0625_望月穗波_R4 克服这份想法 (event_91).txt"
+},
+{
+"type": "file",
+"name": "0654_望月穗波_R4 在感谢与祝福的钟声下 (event_96).txt"
+},
+{
+"type": "file",
+"name": "0686_望月穗波_R3 和支持我们的大家一起 (event_101).txt"
+},
+{
+"type": "file",
+"name": "0726_望月穗波_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0774_望月穗波_R4 寻找答案的同时 (event_110).txt"
+},
+{
+"type": "file",
+"name": "0778_望月穗波_RB Happy Birthday！！Dessert.txt"
+},
+{
+"type": "file",
+"name": "0867_望月穗波_R4 引导的决心 (event_121).txt"
+},
+{
+"type": "file",
+"name": "0899_望月穗波_R4 毛茸茸的休息时间 (event_126).txt"
+},
+{
+"type": "file",
+"name": "0913_望月穗波_R2 大家和睦相处最重要♪ (event_128).txt"
+},
+{
+"type": "file",
+"name": "0963_望月穗波_R4 未曾说出口的话语 (event_137).txt"
+},
+{
+"type": "file",
+"name": "0989_望月穗波_R4 第二次试胆？！ (event_141).txt"
+},
+{
+"type": "file",
+"name": "1001_望月穗波_R3 感受架子鼓的乐趣 (event_143).txt"
+},
+{
+"type": "file",
+"name": "1021_望月穗波_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "1024_望月穗波_R4 努力拍摄MV中 (event_147).txt"
+},
+{
+"type": "file",
+"name": "1122_望月穗波_R4 翻阅回忆中的图画书 (event_158).txt"
+},
+{
+"type": "file",
+"name": "1144_望月穗波_R4 那时的“我”们.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "04 Ln_日野森志步",
+"children": [
+{
+"type": "file",
+"name": "0013_日野森志步_R1 不合群的独狼.txt"
+},
+{
+"type": "file",
+"name": "0014_日野森志步_R2 Leo／need.txt"
+},
+{
+"type": "file",
+"name": "0015_日野森志步_R3 难忘的旋律.txt"
+},
+{
+"type": "file",
+"name": "0111_日野森志步_R4 隐藏在表面下的热度 (event_1).txt"
+},
+{
+"type": "file",
+"name": "0159_日野森志步_R2 各种各样的温柔 (event_10).txt"
+},
+{
+"type": "file",
+"name": "0170_日野森志步_R4 友情与忧郁 (event_13).txt"
+},
+{
+"type": "file",
+"name": "0207_日野森志步_R4 豁然开朗的答案 (event_20).txt"
+},
+{
+"type": "file",
+"name": "0246_日野森志步_R4 午休时的谈心 (event_27).txt"
+},
+{
+"type": "file",
+"name": "0275_日野森志步_R4 扫清孤独感的是…… (event_33).txt"
+},
+{
+"type": "file",
+"name": "0282_日野森志步_R3 接下来是总结会 (event_34).txt"
+},
+{
+"type": "file",
+"name": "0314_日野森志步_R4 尖锐的话语 (event_40).txt"
+},
+{
+"type": "file",
+"name": "0354_日野森志步_R2 不管是音乐之路还是书法之路 (event_45).txt"
+},
+{
+"type": "file",
+"name": "0355_日野森志步_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0380_日野森志步_R4 曾经心怀的愿望 (event_50).txt"
+},
+{
+"type": "file",
+"name": "0388_日野森志步_R3 饱含感谢之情 (event_51).txt"
+},
+{
+"type": "file",
+"name": "0419_日野森志步_R3 接下来的展开 (event_56).txt"
+},
+{
+"type": "file",
+"name": "0457_日野森志步_R4 我所追求的道路.txt"
+},
+{
+"type": "file",
+"name": "0473_日野森志步_R2 昂首挺胸一雪前耻 (event_65).txt"
+},
+{
+"type": "file",
+"name": "0493_日野森志步_R4 全力以赴的舞台 (event_69).txt"
+},
+{
+"type": "file",
+"name": "0529_日野森志步_R4 在文化节缩短距离 (event_75).txt"
+},
+{
+"type": "file",
+"name": "0560_日野森志步_R2 Leo／need一起玩雪 (event_80).txt"
+},
+{
+"type": "file",
+"name": "0570_日野森志步_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0578_日野森志步_R4 重要的准备 (event_83).txt"
+},
+{
+"type": "file",
+"name": "0619_日野森志步_R4 让乐声共鸣 (event_90).txt"
+},
+{
+"type": "file",
+"name": "0628_日野森志步_R2 技术专家 (event_91).txt"
+},
+{
+"type": "file",
+"name": "0684_日野森志步_R4 毕竟今天很特别 (event_101).txt"
+},
+{
+"type": "file",
+"name": "0715_日野森志步_R4 无法战胜的眼神 (event_106).txt"
+},
+{
+"type": "file",
+"name": "0727_日野森志步_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0773_日野森志步_R4 开始的声音 (event_110).txt"
+},
+{
+"type": "file",
+"name": "0829_日野森志步_R4 掩饰内心的激动 (event_115).txt"
+},
+{
+"type": "file",
+"name": "0843_日野森志步_R4 略带羞涩 (event_117).txt"
+},
+{
+"type": "file",
+"name": "0847_日野森志步_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "0870_日野森志步_R3 想起喜悦的表情 (event_121).txt"
+},
+{
+"type": "file",
+"name": "0910_日野森志步_R4 带上慰问品 (event_128).txt"
+},
+{
+"type": "file",
+"name": "0936_日野森志步_R3 让人忍俊不禁的有趣对话？ (event_132).txt"
+},
+{
+"type": "file",
+"name": "0964_日野森志步_R4 上这辆电车时 (event_137).txt"
+},
+{
+"type": "file",
+"name": "1002_日野森志步_R2 未曾改变的心愿 (event_143).txt"
+},
+{
+"type": "file",
+"name": "1006_日野森志步_R4 让人不自在的化妆 (event_144).txt"
+},
+{
+"type": "file",
+"name": "1026_日野森志步_R2 等待演出正式开始时 (event_147).txt"
+},
+{
+"type": "file",
+"name": "1028_日野森志步_R4 夕阳西下，秋风吹拂 (event_148).txt"
+},
+{
+"type": "file",
+"name": "1064_日野森志步_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1130_日野森志步_R3 更加亲密无间♪ (event_159).txt"
+},
+{
+"type": "file",
+"name": "1146_日野森志步_R4 顺从这份冲动 (event_162).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "05 MMJ_花里实乃理",
+"children": [
+{
+"type": "file",
+"name": "0017_花里实乃理_R1 向着偶像努力！.txt"
+},
+{
+"type": "file",
+"name": "0018_花里实乃理_R2 MORE MORE JUMP！.txt"
+},
+{
+"type": "file",
+"name": "0019_花里实乃理_R3 演唱会前夜的决心.txt"
+},
+{
+"type": "file",
+"name": "0130_花里实乃理_R4 哎呀呀呀呀？！ (event_5).txt"
+},
+{
+"type": "file",
+"name": "0164_花里实乃理_R2 积极的小花 (event_11).txt"
+},
+{
+"type": "file",
+"name": "0190_花里实乃理_R4 为了“你” (event_17).txt"
+},
+{
+"type": "file",
+"name": "0200_花里实乃理_R3 扩大交友圈 (event_18).txt"
+},
+{
+"type": "file",
+"name": "0224_花里实乃理_R4 热情的应援！ (event_23).txt"
+},
+{
+"type": "file",
+"name": "0268_花里实乃理_R2 冒失的信使 (event_31).txt"
+},
+{
+"type": "file",
+"name": "0291_花里实乃理_R4 伙伴们送上的祝福 (event_36).txt"
+},
+{
+"type": "file",
+"name": "0330_花里实乃理_R4 一起筹备粉丝见面会吧！ (event_43).txt"
+},
+{
+"type": "file",
+"name": "0392_花里实乃理_R4 激情的演讲！ (event_52).txt"
+},
+{
+"type": "file",
+"name": "0415_花里实乃理_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0423_花里实乃理_R4 第一次音域测试！ (event_57).txt"
+},
+{
+"type": "file",
+"name": "0459_花里实乃理_R4 摔得光荣 (event_63).txt"
+},
+{
+"type": "file",
+"name": "0484_花里实乃理_R3 寄托心愿的冰沙 (event_67).txt"
+},
+{
+"type": "file",
+"name": "0517_花里实乃理_R4 站到聚光灯下 (event_73).txt"
+},
+{
+"type": "file",
+"name": "0530_花里实乃理_R4 脖子要断了！ (event_75).txt"
+},
+{
+"type": "file",
+"name": "0548_花里实乃理_R3 深夜的MC特训 (event_78).txt"
+},
+{
+"type": "file",
+"name": "0590_花里实乃理_R4 美食时间！ (event_85).txt"
+},
+{
+"type": "file",
+"name": "0629_花里实乃理_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0634_花里实乃理_R2 被友情化解 (event_92).txt"
+},
+{
+"type": "file",
+"name": "0664_花里实乃理_R4 是我一辈子的宝物哦！ (event_98).txt"
+},
+{
+"type": "file",
+"name": "0692_花里实乃理_R3 “好吃”的三段活用 (event_102).txt"
+},
+{
+"type": "file",
+"name": "0728_花里实乃理_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0763_花里实乃理_R4 让人在意的背影 (event_108).txt"
+},
+{
+"type": "file",
+"name": "0783_花里实乃理_R2 前辈们的背影 (event_111).txt"
+},
+{
+"type": "file",
+"name": "0828_花里实乃理_R4 干净利落地 (event_115).txt"
+},
+{
+"type": "file",
+"name": "0840_花里实乃理_R4 梦想会孕育新的梦想.txt"
+},
+{
+"type": "file",
+"name": "0873_花里实乃理_R4 触动心弦的真心话 (event_122).txt"
+},
+{
+"type": "file",
+"name": "0881_花里实乃理_R3 还有这种类型哦！ (event_123).txt"
+},
+{
+"type": "file",
+"name": "0901_花里实乃理_R3 玩累了 (event_126).txt"
+},
+{
+"type": "file",
+"name": "0908_花里实乃理_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "0921_花里实乃理_R4 日积月累的心愿 (event_130).txt"
+},
+{
+"type": "file",
+"name": "0933_花里实乃理_R4 准备，变身！ (event_132).txt"
+},
+{
+"type": "file",
+"name": "0972_花里实乃理_R2 因为想要更加闪耀 (event_138).txt"
+},
+{
+"type": "file",
+"name": "1046_花里实乃理_R4 无法言喻的感动 (event_151).txt"
+},
+{
+"type": "file",
+"name": "1111_花里实乃理_R4 重要的会议！ (event_157).txt"
+},
+{
+"type": "file",
+"name": "1137_花里实乃理_R2 能成为朋友吗？ (event_160).txt"
+},
+{
+"type": "file",
+"name": "1155_花里实乃理_RB Happy Birthday！！2026.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "06 MMJ_桐谷遥",
+"children": [
+{
+"type": "file",
+"name": "0021_桐谷遥_R1 曾经的国民级偶像少女.txt"
+},
+{
+"type": "file",
+"name": "0022_桐谷遥_R2 MORE MORE JUMP！.txt"
+},
+{
+"type": "file",
+"name": "0023_桐谷遥_R3 不是偶像的我.txt"
+},
+{
+"type": "file",
+"name": "0125_桐谷遥_R4 满满的祝福 (event_4).txt"
+},
+{
+"type": "file",
+"name": "0133_桐谷遥_R2 喜悦之蓝 (event_5).txt"
+},
+{
+"type": "file",
+"name": "0163_桐谷遥_R3 偶像的责任 (event_11).txt"
+},
+{
+"type": "file",
+"name": "0191_桐谷遥_R4 献给努力的你 (event_17).txt"
+},
+{
+"type": "file",
+"name": "0222_桐谷遥_R4 近在眼前的“最爱” (event_23).txt"
+},
+{
+"type": "file",
+"name": "0242_桐谷遥_R4 希望有朝一日能传达.txt"
+},
+{
+"type": "file",
+"name": "0266_桐谷遥_R4 与小粉丝一起 (event_31).txt"
+},
+{
+"type": "file",
+"name": "0295_桐谷遥_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0321_桐谷遥_R4 街头风偶像？！ (event_41).txt"
+},
+{
+"type": "file",
+"name": "0334_桐谷遥_R2 Present for you！ (event_43).txt"
+},
+{
+"type": "file",
+"name": "0350_桐谷遥_R4 共同祈愿的未来 (event_45).txt"
+},
+{
+"type": "file",
+"name": "0394_桐谷遥_R3 为了突出“我们” (event_52).txt"
+},
+{
+"type": "file",
+"name": "0422_桐谷遥_R4 预感成真 (event_57).txt"
+},
+{
+"type": "file",
+"name": "0485_桐谷遥_R2 夏天！集训！泳装！ (event_67).txt"
+},
+{
+"type": "file",
+"name": "0516_桐谷遥_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0518_桐谷遥_R4 与大家心意相通 (event_73).txt"
+},
+{
+"type": "file",
+"name": "0531_桐谷遥_R3 闪耀无比的洪水？！ (event_75).txt"
+},
+{
+"type": "file",
+"name": "0545_桐谷遥_R4 世上最棒的笑容 (event_78).txt"
+},
+{
+"type": "file",
+"name": "0592_桐谷遥_R3 回到这个地方 (event_85).txt"
+},
+{
+"type": "file",
+"name": "0631_桐谷遥_R4 可能会发生变化的日常 (event_92).txt"
+},
+{
+"type": "file",
+"name": "0642_桐谷遥_R4 回忆与甜甜圈一起 (event_94).txt"
+},
+{
+"type": "file",
+"name": "0668_桐谷遥_R2 惊喜的背后 (event_98).txt"
+},
+{
+"type": "file",
+"name": "0716_桐谷遥_R4 必杀！配合攻击 (event_106).txt"
+},
+{
+"type": "file",
+"name": "0729_桐谷遥_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0767_桐谷遥_RB Happy Birthday！！Dessert.txt"
+},
+{
+"type": "file",
+"name": "0780_桐谷遥_R4 过于奢侈的夜晚 (event_111).txt"
+},
+{
+"type": "file",
+"name": "0832_桐谷遥_R2 惊喜计划 (event_115).txt"
+},
+{
+"type": "file",
+"name": "0862_桐谷遥_R4 用深色系展现帅气 (event_120).txt"
+},
+{
+"type": "file",
+"name": "0874_桐谷遥_R4 令人惊讶的房龄 (event_122).txt"
+},
+{
+"type": "file",
+"name": "0922_桐谷遥_R4 接受的希望 (event_130).txt"
+},
+{
+"type": "file",
+"name": "0938_桐谷遥_R4 拉近心灵，一起 (event_133).txt"
+},
+{
+"type": "file",
+"name": "0969_桐谷遥_R4 嚣张的学妹！ (event_138).txt"
+},
+{
+"type": "file",
+"name": "0993_桐谷遥_R4 将助威化为翅膀 (event_142).txt"
+},
+{
+"type": "file",
+"name": "1010_桐谷遥_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "1048_桐谷遥_R3 尽心尽力 (event_151).txt"
+},
+{
+"type": "file",
+"name": "1057_桐谷遥_R4 成为大家引以为豪的偶像.txt"
+},
+{
+"type": "file",
+"name": "1108_桐谷遥_R2 MORE MORE HOUSE的惊喜 (event_156).txt"
+},
+{
+"type": "file",
+"name": "1110_桐谷遥_R4 摆在眼前的现实 (event_157).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "07 MMJ_桃井爱莉",
+"children": [
+{
+"type": "file",
+"name": "0025_桃井爱莉_R1 不屈不挠的偶像之魂.txt"
+},
+{
+"type": "file",
+"name": "0026_桃井爱莉_R2 MORE MORE JUMP！.txt"
+},
+{
+"type": "file",
+"name": "0027_桃井爱莉_R3 为梦想加油！.txt"
+},
+{
+"type": "file",
+"name": "0129_桃井爱莉_R4 永远乐观向上 (event_5).txt"
+},
+{
+"type": "file",
+"name": "0162_桃井爱莉_R4 片刻甜蜜 (event_11).txt"
+},
+{
+"type": "file",
+"name": "0194_桃井爱莉_R2 能为后辈做的事 (event_17).txt"
+},
+{
+"type": "file",
+"name": "0218_桃井爱莉_R4 坚定不屈的心 (event_22).txt"
+},
+{
+"type": "file",
+"name": "0226_桃井爱莉_R2 完美甜品 (event_23).txt"
+},
+{
+"type": "file",
+"name": "0243_桃井爱莉_R4 献给渴望成为偶像的你.txt"
+},
+{
+"type": "file",
+"name": "0257_桃井爱莉_R3 那太狡猾了吧！ (event_29).txt"
+},
+{
+"type": "file",
+"name": "0264_桃井爱莉_R4 全力以赴！快乐每一天！ (event_31).txt"
+},
+{
+"type": "file",
+"name": "0331_桃井爱莉_R4 与粉丝一起！ (event_43).txt"
+},
+{
+"type": "file",
+"name": "0368_桃井爱莉_R4 偷偷制作点心 (event_48).txt"
+},
+{
+"type": "file",
+"name": "0395_桃井爱莉_R2 神秘之心·女巫 (event_52).txt"
+},
+{
+"type": "file",
+"name": "0396_桃井爱莉_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0443_桃井爱莉_R3 用可爱捕获你的视线 (event_60).txt"
+},
+{
+"type": "file",
+"name": "0481_桃井爱莉_R4 最强的偶像笑容 (event_67).txt"
+},
+{
+"type": "file",
+"name": "0519_桃井爱莉_R4 专场演唱会作战会议！ (event_73).txt"
+},
+{
+"type": "file",
+"name": "0546_桃井爱莉_R4 想要表达的无数想法 (event_78).txt"
+},
+{
+"type": "file",
+"name": "0559_桃井爱莉_R3 第一次体验茶道 (event_80).txt"
+},
+{
+"type": "file",
+"name": "0591_桃井爱莉_R4 不要勉强 (event_85).txt"
+},
+{
+"type": "file",
+"name": "0611_桃井爱莉_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0630_桃井爱莉_R4 拉开的距离 (event_92).txt"
+},
+{
+"type": "file",
+"name": "0665_桃井爱莉_R4 为了更好的直播效果 (event_98).txt"
+},
+{
+"type": "file",
+"name": "0676_桃井爱莉_R2 我也很期待啦 (event_99).txt"
+},
+{
+"type": "file",
+"name": "0689_桃井爱莉_R4 充满魅力的快乐美食家！ (event_102).txt"
+},
+{
+"type": "file",
+"name": "0718_桃井爱莉_R2 为重要的学妹送上满～满的爱 (event_106).txt"
+},
+{
+"type": "file",
+"name": "0730_桃井爱莉_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0781_桃井爱莉_R4 私下拍摄的特别照片！ (event_111).txt"
+},
+{
+"type": "file",
+"name": "0803_桃井爱莉_R4 feat.美乐蒂.txt"
+},
+{
+"type": "file",
+"name": "0876_桃井爱莉_R3 带着笑容去关心 (event_122).txt"
+},
+{
+"type": "file",
+"name": "0882_桃井爱莉_R2 至少要把话语传递出去 (event_123).txt"
+},
+{
+"type": "file",
+"name": "0889_桃井爱莉_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "0923_桃井爱莉_R4 日常的一页 (event_130).txt"
+},
+{
+"type": "file",
+"name": "0941_桃井爱莉_R3 互相请教专业人士的意见 (event_133).txt"
+},
+{
+"type": "file",
+"name": "0968_桃井爱莉_R4 Shine on Me (event_138).txt"
+},
+{
+"type": "file",
+"name": "1007_桃井爱莉_R4 传递勇气之歌 (event_144).txt"
+},
+{
+"type": "file",
+"name": "1049_桃井爱莉_R2 作为一个粉丝 (event_151).txt"
+},
+{
+"type": "file",
+"name": "1060_桃井爱莉_R4 同款的穿搭♥ (event_153).txt"
+},
+{
+"type": "file",
+"name": "1114_桃井爱莉_R2 准备烹饪直播中 (event_157).txt"
+},
+{
+"type": "file",
+"name": "1134_桃井爱莉_R4 恶作剧姐妹，登场！ (event_160).txt"
+},
+{
+"type": "file",
+"name": "1138_桃井爱莉_RB Happy Birthday！！2026.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "08 MMJ_日野森雫",
+"children": [
+{
+"type": "file",
+"name": "0029_日野森雫_R1 美丽的当红偶像.txt"
+},
+{
+"type": "file",
+"name": "0030_日野森雫_R2 MORE MORE JUMP！.txt"
+},
+{
+"type": "file",
+"name": "0031_日野森雫_R3 在华丽的舞台上.txt"
+},
+{
+"type": "file",
+"name": "0132_日野森雫_R3 我想成为的是…… (event_5).txt"
+},
+{
+"type": "file",
+"name": "0160_日野森雫_R4 世上独一无二的“我” (event_11).txt"
+},
+{
+"type": "file",
+"name": "0192_日野森雫_R4 喵～？ (event_17).txt"
+},
+{
+"type": "file",
+"name": "0223_日野森雫_R4 邀你享受闲暇时光 (event_23).txt"
+},
+{
+"type": "file",
+"name": "0267_日野森雫_R3 秘密交涉 (event_31).txt"
+},
+{
+"type": "file",
+"name": "0274_日野森雫_R4 再次品尝那天的团子 (event_33).txt"
+},
+{
+"type": "file",
+"name": "0323_日野森雫_R2 菲尼乐园的夜晚约会 (event_41).txt"
+},
+{
+"type": "file",
+"name": "0329_日野森雫_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0332_日野森雫_R4 尝尝我亲手做的饭团吧♪ (event_43).txt"
+},
+{
+"type": "file",
+"name": "0372_日野森雫_R2 情人节淑女 (event_48).txt"
+},
+{
+"type": "file",
+"name": "0391_日野森雫_R4 宛如魔法 (event_52).txt"
+},
+{
+"type": "file",
+"name": "0426_日野森雫_R2 完成报告！ (event_57).txt"
+},
+{
+"type": "file",
+"name": "0441_日野森雫_R4 抓紧我别跌倒 (event_60).txt"
+},
+{
+"type": "file",
+"name": "0482_日野森雫_R4 是掉地上了吗？ (event_67).txt"
+},
+{
+"type": "file",
+"name": "0512_日野森雫_R4 吃豆沙包放松一下♪ (event_72).txt"
+},
+{
+"type": "file",
+"name": "0520_日野森雫_R3 激动人心的开箱♪ (event_73).txt"
+},
+{
+"type": "file",
+"name": "0549_日野森雫_R2 看清未来 (event_78).txt"
+},
+{
+"type": "file",
+"name": "0550_日野森雫_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0556_日野森雫_R4 专心射出每一支箭 (event_80).txt"
+},
+{
+"type": "file",
+"name": "0589_日野森雫_R4 和不中用的自己告别 (event_85).txt"
+},
+{
+"type": "file",
+"name": "0632_日野森雫_R4 活力满满地方外景！ (event_92).txt"
+},
+{
+"type": "file",
+"name": "0667_日野森雫_R3 中午的学习会 (event_98).txt"
+},
+{
+"type": "file",
+"name": "0673_日野森雫_R4 违反季节的飞雪 (event_99).txt"
+},
+{
+"type": "file",
+"name": "0731_日野森雫_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0779_日野森雫_R4 带来梦想的手 (event_111).txt"
+},
+{
+"type": "file",
+"name": "0827_日野森雫_RB Happy Birthday！！Dessert.txt"
+},
+{
+"type": "file",
+"name": "0841_日野森雫_R4 不能忘却的昔日之蝶.txt"
+},
+{
+"type": "file",
+"name": "0877_日野森雫_R2 开心地设计 (event_122).txt"
+},
+{
+"type": "file",
+"name": "0924_日野森雫_R4 指尖所触碰的事物 (event_130).txt"
+},
+{
+"type": "file",
+"name": "0939_日野森雫_R4 用饭菜为大家送上活力♪ (event_133).txt"
+},
+{
+"type": "file",
+"name": "0970_日野森雫_R4 特别的咒语 (event_138).txt"
+},
+{
+"type": "file",
+"name": "0990_日野森雫_R3 寄托心意的一针 (event_141).txt"
+},
+{
+"type": "file",
+"name": "1029_日野森雫_R4 与你最幸福的一刻 (event_148).txt"
+},
+{
+"type": "file",
+"name": "1044_日野森雫_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "1045_日野森雫_R4 坚定决心的光芒 (event_151).txt"
+},
+{
+"type": "file",
+"name": "1104_日野森雫_R4 迷恋刺绣之花 (event_156).txt"
+},
+{
+"type": "file",
+"name": "1113_日野森雫_R3 试用护肤品 (event_157).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "09 VBS_小豆泽心羽",
+"children": [
+{
+"type": "file",
+"name": "0033_小豆泽心羽_R1 腼腆的小动物.txt"
+},
+{
+"type": "file",
+"name": "0034_小豆泽心羽_R2 Vivid BAD SQUAD.txt"
+},
+{
+"type": "file",
+"name": "0035_小豆泽心羽_R3 在「世界」小憩.txt"
+},
+{
+"type": "file",
+"name": "0135_小豆泽心羽_R4 再次与你并肩 (event_6).txt"
+},
+{
+"type": "file",
+"name": "0168_小豆泽心羽_R3 忧郁之夜 (event_12).txt"
+},
+{
+"type": "file",
+"name": "0199_小豆泽心羽_R4 追逐大家的背影 (event_18).txt"
+},
+{
+"type": "file",
+"name": "0215_小豆泽心羽_R3 渴望共同进步 (event_21).txt"
+},
+{
+"type": "file",
+"name": "0249_小豆泽心羽_R4 觉醒隐藏的力量 (event_28).txt"
+},
+{
+"type": "file",
+"name": "0263_小豆泽心羽_R2 寄托心愿的海玻璃 (event_30).txt"
+},
+{
+"type": "file",
+"name": "0292_小豆泽心羽_R4 笑梦流？舞蹈秘诀！ (event_36).txt"
+},
+{
+"type": "file",
+"name": "0319_小豆泽心羽_R4 两人之间的秘密 (event_41).txt"
+},
+{
+"type": "file",
+"name": "0345_小豆泽心羽_R2 温暖的露营风 (event_44).txt"
+},
+{
+"type": "file",
+"name": "0352_小豆泽心羽_R4 迎接第一道曙光 (event_45).txt"
+},
+{
+"type": "file",
+"name": "0373_小豆泽心羽_R4 了解那场“传奇” (event_49).txt"
+},
+{
+"type": "file",
+"name": "0390_小豆泽心羽_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0435_小豆泽心羽_R4 获得表扬了♪ (event_59).txt"
+},
+{
+"type": "file",
+"name": "0444_小豆泽心羽_R2 美丽伴娘 (event_60).txt"
+},
+{
+"type": "file",
+"name": "0466_小豆泽心羽_R3 喝杯柠檬水放松一下♪ (event_64).txt"
+},
+{
+"type": "file",
+"name": "0505_小豆泽心羽_R4 午夜创作 (event_71).txt"
+},
+{
+"type": "file",
+"name": "0528_小豆泽心羽_R4 我会保护你 (event_75).txt"
+},
+{
+"type": "file",
+"name": "0554_小豆泽心羽_R3 圣诞节已近在眼前 (event_79).txt"
+},
+{
+"type": "file",
+"name": "0595_小豆泽心羽_R4 巅峰之后 (event_86).txt"
+},
+{
+"type": "file",
+"name": "0605_小豆泽心羽_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0663_小豆泽心羽_R2 最后的练习 (event_97).txt"
+},
+{
+"type": "file",
+"name": "0670_小豆泽心羽_R4 足迹万花筒.txt"
+},
+{
+"type": "file",
+"name": "0694_小豆泽心羽_R4 用我自己的语言 (event_103).txt"
+},
+{
+"type": "file",
+"name": "0732_小豆泽心羽_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0766_小豆泽心羽_R3 向着新的早晨 (event_108).txt"
+},
+{
+"type": "file",
+"name": "0769_小豆泽心羽_R4 不能睡着 (event_109).txt"
+},
+{
+"type": "file",
+"name": "0848_小豆泽心羽_R4 迈向激动人心的未来 (event_118).txt"
+},
+{
+"type": "file",
+"name": "0861_小豆泽心羽_R4 为伙伴们送上最棒的巧克力 (event_120).txt"
+},
+{
+"type": "file",
+"name": "0883_小豆泽心羽_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "0894_小豆泽心羽_R2 有很多话可以说！ (event_125).txt"
+},
+{
+"type": "file",
+"name": "0916_小豆泽心羽_R4 接受你的一切 (event_129).txt"
+},
+{
+"type": "file",
+"name": "0951_小豆泽心羽_R4 激动人心的世界 (event_135).txt"
+},
+{
+"type": "file",
+"name": "1017_小豆泽心羽_R4 为了能配得上 (event_146).txt"
+},
+{
+"type": "file",
+"name": "1051_小豆泽心羽_R4 因为是我期待已久的演出 (event_152).txt"
+},
+{
+"type": "file",
+"name": "1066_小豆泽心羽_R4 拼尽全力的一口 (event_154).txt"
+},
+{
+"type": "file",
+"name": "1100_小豆泽心羽_R3 美式风格？ (event_155).txt"
+},
+{
+"type": "file",
+"name": "1132_小豆泽心羽_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1151_小豆泽心羽_R4 暮色中的笑容 (event_163).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "10 VBS_白石杏",
+"children": [
+{
+"type": "file",
+"name": "0037_白石杏_R1 魅力超凡的歌手.txt"
+},
+{
+"type": "file",
+"name": "0038_白石杏_R2 Vivid BAD SQUAD.txt"
+},
+{
+"type": "file",
+"name": "0039_白石杏_R3 热火朝天助人为乐！.txt"
+},
+{
+"type": "file",
+"name": "0134_白石杏_R4 不称职的搭档 (event_6).txt"
+},
+{
+"type": "file",
+"name": "0167_白石杏_R4 体贴的心意 (event_12).txt"
+},
+{
+"type": "file",
+"name": "0213_白石杏_R4 因为我们是伙伴 (event_21).txt"
+},
+{
+"type": "file",
+"name": "0231_白石杏_R2 即兴加入的舞者 (event_24).txt"
+},
+{
+"type": "file",
+"name": "0250_白石杏_R4 献给搭档的肺腑之言 (event_28).txt"
+},
+{
+"type": "file",
+"name": "0296_白石杏_R4 铁网之外 (event_37).txt"
+},
+{
+"type": "file",
+"name": "0322_白石杏_R3 激动的最高峰！ (event_41).txt"
+},
+{
+"type": "file",
+"name": "0343_白石杏_R4 大家一起来烧烤♪ (event_44).txt"
+},
+{
+"type": "file",
+"name": "0376_白石杏_R3 现在开始营业！ (event_49).txt"
+},
+{
+"type": "file",
+"name": "0402_白石杏_R4 曾经的狂热.txt"
+},
+{
+"type": "file",
+"name": "0438_白石杏_R2 一丝后悔 (event_59).txt"
+},
+{
+"type": "file",
+"name": "0440_白石杏_R4 身穿纯白色的婚纱 (event_60).txt"
+},
+{
+"type": "file",
+"name": "0463_白石杏_R4 温暖的回忆 (event_64).txt"
+},
+{
+"type": "file",
+"name": "0474_白石杏_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0507_白石杏_R3 模糊不清的语言 (event_71).txt"
+},
+{
+"type": "file",
+"name": "0555_白石杏_R2 限定餐单问卷调查！ (event_79).txt"
+},
+{
+"type": "file",
+"name": "0566_白石杏_R4 照亮银色的滑雪场 (event_81).txt"
+},
+{
+"type": "file",
+"name": "0596_白石杏_R4 远处的景色 (event_86).txt"
+},
+{
+"type": "file",
+"name": "0620_白石杏_R4 跑腿时的邂逅 (event_90).txt"
+},
+{
+"type": "file",
+"name": "0659_白石杏_R4 满载的回忆 (event_97).txt"
+},
+{
+"type": "file",
+"name": "0688_白石杏_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0697_白石杏_R3 偶尔有这么一天也不错 (event_103).txt"
+},
+{
+"type": "file",
+"name": "0719_白石杏_R4 笑容也能得小红花 (event_107).txt"
+},
+{
+"type": "file",
+"name": "0733_白石杏_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0772_白石杏_R2 快上车！ (event_109).txt"
+},
+{
+"type": "file",
+"name": "0799_白石杏_R3 剧本帮手 (event_114).txt"
+},
+{
+"type": "file",
+"name": "0849_白石杏_R4 前往未曾抵达的地方 (event_118).txt"
+},
+{
+"type": "file",
+"name": "0891_白石杏_R4 在夜路中颠簸 (event_125).txt"
+},
+{
+"type": "file",
+"name": "0915_白石杏_R4 决战之时 (event_129).txt"
+},
+{
+"type": "file",
+"name": "0954_白石杏_R3 想和你说的话 (event_135).txt"
+},
+{
+"type": "file",
+"name": "0967_白石杏_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "0975_白石杏_R4 笑容是标配 (event_139).txt"
+},
+{
+"type": "file",
+"name": "0997_白石杏_R2 为了不后悔 (event_142).txt"
+},
+{
+"type": "file",
+"name": "1018_白石杏_R4 目标，成为英语高手！ (event_146).txt"
+},
+{
+"type": "file",
+"name": "1058_白石杏_R4 无可替代的人们.txt"
+},
+{
+"type": "file",
+"name": "1069_白石杏_R2 麻烦的背后 (event_154).txt"
+},
+{
+"type": "file",
+"name": "1152_白石杏_R4 接纳这份悲伤 (event_163).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "11 VBS_东云彰人",
+"children": [
+{
+"type": "file",
+"name": "0041_东云彰人_R1 令人佩服的实力派.txt"
+},
+{
+"type": "file",
+"name": "0042_东云彰人_R2 Vivid BAD SQUAD.txt"
+},
+{
+"type": "file",
+"name": "0043_东云彰人_R3 藏不住的焦躁.txt"
+},
+{
+"type": "file",
+"name": "0136_东云彰人_R4 因为我是你的搭档 (event_6).txt"
+},
+{
+"type": "file",
+"name": "0166_东云彰人_R4 等待那一天的到来 (event_12).txt"
+},
+{
+"type": "file",
+"name": "0212_东云彰人_R4 败北之夜 (event_21).txt"
+},
+{
+"type": "file",
+"name": "0230_东云彰人_R3 回味幸福 (event_24).txt"
+},
+{
+"type": "file",
+"name": "0254_东云彰人_R4 不曾改变的夏日庆典 (event_29).txt"
+},
+{
+"type": "file",
+"name": "0300_东云彰人_R2 自豪的选择 (event_37).txt"
+},
+{
+"type": "file",
+"name": "0318_东云彰人_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0342_东云彰人_R4 冬夜谈心 (event_44).txt"
+},
+{
+"type": "file",
+"name": "0377_东云彰人_R2 走向传奇 (event_49).txt"
+},
+{
+"type": "file",
+"name": "0386_东云彰人_R4 做巧克力也要追求完美 (event_51).txt"
+},
+{
+"type": "file",
+"name": "0431_东云彰人_R3 管不了那么多了！ (event_58).txt"
+},
+{
+"type": "file",
+"name": "0434_东云彰人_R4 洞察到的热情 (event_59).txt"
+},
+{
+"type": "file",
+"name": "0464_东云彰人_R4 晨练的片段 (event_64).txt"
+},
+{
+"type": "file",
+"name": "0478_东云彰人_R3 与玩偶们一起 (event_66).txt"
+},
+{
+"type": "file",
+"name": "0508_东云彰人_R2 各自的休憩时间 (event_71).txt"
+},
+{
+"type": "file",
+"name": "0513_东云彰人_R4 沉浸于欢呼声的海洋 (event_72).txt"
+},
+{
+"type": "file",
+"name": "0534_东云彰人_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0551_东云彰人_R4 那番话的含义 (event_79).txt"
+},
+{
+"type": "file",
+"name": "0569_东云彰人_R2 移动途中也很重要 (event_81).txt"
+},
+{
+"type": "file",
+"name": "0597_东云彰人_R4 作战会议与芝士蛋糕 (event_86).txt"
+},
+{
+"type": "file",
+"name": "0662_东云彰人_R3 被堵上的出路 (event_97).txt"
+},
+{
+"type": "file",
+"name": "0671_东云彰人_R4 渴求的流浪者.txt"
+},
+{
+"type": "file",
+"name": "0695_东云彰人_R4 正在穿搭中！ (event_103).txt"
+},
+{
+"type": "file",
+"name": "0723_东云彰人_R2 夜晚的学习 (event_107).txt"
+},
+{
+"type": "file",
+"name": "0734_东云彰人_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0768_东云彰人_R4 继承火焰 (event_109).txt"
+},
+{
+"type": "file",
+"name": "0790_东云彰人_RB Happy Birthday！！Dessert.txt"
+},
+{
+"type": "file",
+"name": "0797_东云彰人_R4 与角色融为一体的觉悟 (event_114).txt"
+},
+{
+"type": "file",
+"name": "0850_东云彰人_R4 坚定不移的决心 (event_118).txt"
+},
+{
+"type": "file",
+"name": "0898_东云彰人_R4 恐怖的追逐 (event_126).txt"
+},
+{
+"type": "file",
+"name": "0919_东云彰人_R2 决不再忽视 (event_129).txt"
+},
+{
+"type": "file",
+"name": "0952_东云彰人_R4 围成圈宣告决心 (event_135).txt"
+},
+{
+"type": "file",
+"name": "0994_东云彰人_R4 大赛之后要多吃点 (event_142).txt"
+},
+{
+"type": "file",
+"name": "1016_东云彰人_R4 萦绕心头的思绪 (event_146).txt"
+},
+{
+"type": "file",
+"name": "1033_东云彰人_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "1053_东云彰人_R3 白热化！打雪仗！ (event_152).txt"
+},
+{
+"type": "file",
+"name": "1059_东云彰人_R4 意想不到的饯别礼物 (event_153).txt"
+},
+{
+"type": "file",
+"name": "1068_东云彰人_R3 舷窗外的风景 (event_154).txt"
+},
+{
+"type": "file",
+"name": "1115_东云彰人_R4 共鸣的斗志.txt"
+},
+{
+"type": "file",
+"name": "1153_东云彰人_R4 出乎意料的话语 (event_163).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "12 VBS_青柳冬弥",
+"children": [
+{
+"type": "file",
+"name": "0045_青柳冬弥_R1 古典音乐才子.txt"
+},
+{
+"type": "file",
+"name": "0046_青柳冬弥_R2 Vivid BAD SQUAD.txt"
+},
+{
+"type": "file",
+"name": "0047_青柳冬弥_R3 断绝的情谊.txt"
+},
+{
+"type": "file",
+"name": "0137_青柳冬弥_R3 悠闲的咖啡时光 (event_6).txt"
+},
+{
+"type": "file",
+"name": "0143_青柳冬弥_R2 意料之外的才能？ (event_7).txt"
+},
+{
+"type": "file",
+"name": "0165_青柳冬弥_R4 有朝一日，再次…… (event_12).txt"
+},
+{
+"type": "file",
+"name": "0187_青柳冬弥_R4 手足之情 (event_16).txt"
+},
+{
+"type": "file",
+"name": "0216_青柳冬弥_R2 身为搭档 (event_21).txt"
+},
+{
+"type": "file",
+"name": "0227_青柳冬弥_R4 献给你的情歌 (event_24).txt"
+},
+{
+"type": "file",
+"name": "0252_青柳冬弥_R3 对伙伴的敬畏 (event_28).txt"
+},
+{
+"type": "file",
+"name": "0297_青柳冬弥_R4 相互信任 (event_37).txt"
+},
+{
+"type": "file",
+"name": "0341_青柳冬弥_R4 户外烹饪！ (event_44).txt"
+},
+{
+"type": "file",
+"name": "0374_青柳冬弥_R4 将内心的澎湃化为言语 (event_49).txt"
+},
+{
+"type": "file",
+"name": "0403_青柳冬弥_R4 默默埋藏的心愿.txt"
+},
+{
+"type": "file",
+"name": "0437_青柳冬弥_R3 肚子是不会骗人的 (event_59).txt"
+},
+{
+"type": "file",
+"name": "0439_青柳冬弥_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0467_青柳冬弥_R2 那些感受究竟是 (event_64).txt"
+},
+{
+"type": "file",
+"name": "0477_青柳冬弥_R4 令人目不暇接的魔法气泡高手 (event_66).txt"
+},
+{
+"type": "file",
+"name": "0504_青柳冬弥_R4 从今往后直到永远 (event_71).txt"
+},
+{
+"type": "file",
+"name": "0552_青柳冬弥_R4 青柳家的圣诞派对 (event_79).txt"
+},
+{
+"type": "file",
+"name": "0598_青柳冬弥_R3 无可挑剔的图书委员 (event_86).txt"
+},
+{
+"type": "file",
+"name": "0600_青柳冬弥_R4 在不变的温暖中 (event_87).txt"
+},
+{
+"type": "file",
+"name": "0653_青柳冬弥_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0660_青柳冬弥_R4 了解我们之间的差距 (event_97).txt"
+},
+{
+"type": "file",
+"name": "0696_青柳冬弥_R4 久违的探望 (event_103).txt"
+},
+{
+"type": "file",
+"name": "0735_青柳冬弥_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0771_青柳冬弥_R3 短暂的休息 (event_109).txt"
+},
+{
+"type": "file",
+"name": "0800_青柳冬弥_R2 前往服装组！ (event_114).txt"
+},
+{
+"type": "file",
+"name": "0804_青柳冬弥_R4 feat.帕恰狗.txt"
+},
+{
+"type": "file",
+"name": "0851_青柳冬弥_R4 黑白的色彩 (event_118).txt"
+},
+{
+"type": "file",
+"name": "0864_青柳冬弥_R3 挑战当模特！ (event_120).txt"
+},
+{
+"type": "file",
+"name": "0890_青柳冬弥_R4 解开枷锁 (event_125).txt"
+},
+{
+"type": "file",
+"name": "0917_青柳冬弥_R4 害怕之情 (event_129).txt"
+},
+{
+"type": "file",
+"name": "0932_青柳冬弥_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "0955_青柳冬弥_R2 再多感受一下这个气氛 (event_135).txt"
+},
+{
+"type": "file",
+"name": "0973_青柳冬弥_R4 伴随心中的憧憬 (event_139).txt"
+},
+{
+"type": "file",
+"name": "1008_青柳冬弥_R4 放学后帮个小忙 (event_144).txt"
+},
+{
+"type": "file",
+"name": "1020_青柳冬弥_R2 即使看不见，但它依然存在 (event_146).txt"
+},
+{
+"type": "file",
+"name": "1062_青柳冬弥_R3 新的挑战 (event_153).txt"
+},
+{
+"type": "file",
+"name": "1065_青柳冬弥_R4 在异国的街角 (event_154).txt"
+},
+{
+"type": "file",
+"name": "1116_青柳冬弥_R4 运用各自的武器.txt"
+},
+{
+"type": "file",
+"name": "1154_青柳冬弥_R4 追寻闪耀的记忆 (event_163).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "13 WxS_天马司",
+"children": [
+{
+"type": "file",
+"name": "0049_天马司_R1 终将成为明星！.txt"
+},
+{
+"type": "file",
+"name": "0050_天马司_R2 Wonderlands×Showtime.txt"
+},
+{
+"type": "file",
+"name": "0051_天马司_R3 来自玩偶装的问候.txt"
+},
+{
+"type": "file",
+"name": "0120_天马司_R4 担惊受怕？！落荒而逃！ (event_3).txt"
+},
+{
+"type": "file",
+"name": "0141_天马司_R4 我是主角！ (event_7).txt"
+},
+{
+"type": "file",
+"name": "0154_天马司_R2 新年全员出动 (event_9).txt"
+},
+{
+"type": "file",
+"name": "0173_天马司_R3 介绍一下吧！！ (event_13).txt"
+},
+{
+"type": "file",
+"name": "0184_天马司_R2 气球艺术表演者 (event_15).txt"
+},
+{
+"type": "file",
+"name": "0186_天马司_R4 哥哥的烦恼 (event_16).txt"
+},
+{
+"type": "file",
+"name": "0232_天马司_R4 何去何从 (event_25).txt"
+},
+{
+"type": "file",
+"name": "0293_天马司_R4 后台的鼓励 (event_36).txt"
+},
+{
+"type": "file",
+"name": "0304_天马司_R3 军官的危机 (event_38).txt"
+},
+{
+"type": "file",
+"name": "0357_天马司_R4 Dance！and！sing！ (event_46).txt"
+},
+{
+"type": "file",
+"name": "0385_天马司_R4 紧急会议？！ (event_51).txt"
+},
+{
+"type": "file",
+"name": "0410_天马司_R4 星星的旋律 (event_55).txt"
+},
+{
+"type": "file",
+"name": "0433_天马司_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0451_天马司_R4 执着的追逐 (event_62).txt"
+},
+{
+"type": "file",
+"name": "0523_天马司_R4 受到刺激 (event_74).txt"
+},
+{
+"type": "file",
+"name": "0565_天马司_R4 恭贺新年的男人 (event_81).txt"
+},
+{
+"type": "file",
+"name": "0574_天马司_R3 永不言败 (event_82).txt"
+},
+{
+"type": "file",
+"name": "0606_天马司_R4 映于泪目中的不死鸟 (event_88).txt"
+},
+{
+"type": "file",
+"name": "0647_天马司_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0652_天马司_R2 一步一个脚印 (event_95).txt"
+},
+{
+"type": "file",
+"name": "0674_天马司_R4 一决胜负！ (event_99).txt"
+},
+{
+"type": "file",
+"name": "0704_天马司_R2 发表自己的感谢之前 (event_104).txt"
+},
+{
+"type": "file",
+"name": "0722_天马司_R3 交给我吧！ (event_107).txt"
+},
+{
+"type": "file",
+"name": "0736_天马司_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0764_天马司_R4 出乎意料的同学 (event_108).txt"
+},
+{
+"type": "file",
+"name": "0791_天马司_R4 和小小主角一起 (event_113).txt"
+},
+{
+"type": "file",
+"name": "0857_天马司_R3 肉是力量之源！ (event_119).txt"
+},
+{
+"type": "file",
+"name": "0884_天马司_R4 向更高的目标伸手 (event_124).txt"
+},
+{
+"type": "file",
+"name": "0896_天马司_R4 你和我的回家之路.txt"
+},
+{
+"type": "file",
+"name": "0926_天马司_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "0928_天马司_R4 以明星为目标全力冲刺！ (event_131).txt"
+},
+{
+"type": "file",
+"name": "0956_天马司_R4 别有风味的时刻 (event_136).txt"
+},
+{
+"type": "file",
+"name": "0995_天马司_R4 相亲相爱体能训练！ (event_142).txt"
+},
+{
+"type": "file",
+"name": "1032_天马司_R2 激动人心的伴手礼时间 (event_148).txt"
+},
+{
+"type": "file",
+"name": "1037_天马司_R3 桔梗组的课程 (event_149).txt"
+},
+{
+"type": "file",
+"name": "1117_天马司_R4 创造星光璀璨的舞台.txt"
+},
+{
+"type": "file",
+"name": "1133_天马司_R4 从英雄到英雄 (event_160).txt"
+},
+{
+"type": "file",
+"name": "1160_天马司_R2 充满魅力的举止 (event_164).txt"
+},
+{
+"type": "file",
+"name": "1169_天马司_R4 心怀决心 (event_167).txt"
+},
+{
+"type": "file",
+"name": "1173_天马司_RB Happy Birthday！！2026.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "14 WxS_凤笑梦",
+"children": [
+{
+"type": "file",
+"name": "0053_凤笑梦_R1 超级无敌★乐观向上.txt"
+},
+{
+"type": "file",
+"name": "0054_凤笑梦_R2 Wonderlands×Showtime.txt"
+},
+{
+"type": "file",
+"name": "0055_凤笑梦_R3 作战会议开始！.txt"
+},
+{
+"type": "file",
+"name": "0122_凤笑梦_R3 骑上熊猫 (event_3).txt"
+},
+{
+"type": "file",
+"name": "0124_凤笑梦_R4 冲刺！最后一棒☆ (event_4).txt"
+},
+{
+"type": "file",
+"name": "0148_凤笑梦_R2 闪亮驯鹿发箍☆ (event_8).txt"
+},
+{
+"type": "file",
+"name": "0180_凤笑梦_R4 无可替代的笑容 (event_15).txt"
+},
+{
+"type": "file",
+"name": "0233_凤笑梦_R4 合而为一的心愿 (event_25).txt"
+},
+{
+"type": "file",
+"name": "0261_凤笑梦_R4 烧烤专家？！ (event_30).txt"
+},
+{
+"type": "file",
+"name": "0273_凤笑梦_R2 想要守护的笑容 (event_32).txt"
+},
+{
+"type": "file",
+"name": "0302_凤笑梦_R4 我跳我跳我跳跳跳！ (event_38).txt"
+},
+{
+"type": "file",
+"name": "0356_凤笑梦_R4 笑梦队员埋头调查！ (event_46).txt"
+},
+{
+"type": "file",
+"name": "0370_凤笑梦_R4 给☆家人的☆惊喜 (event_48).txt"
+},
+{
+"type": "file",
+"name": "0413_凤笑梦_R3 微笑作战圆满成功 (event_55).txt"
+},
+{
+"type": "file",
+"name": "0452_凤笑梦_R4 暴风雨前的垂钓 (event_62).txt"
+},
+{
+"type": "file",
+"name": "0476_凤笑梦_R4 眼睛正闪闪发光呢☆ (event_66).txt"
+},
+{
+"type": "file",
+"name": "0498_凤笑梦_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0501_凤笑梦_R4 和小章鱼的表情一样☆ (event_70).txt"
+},
+{
+"type": "file",
+"name": "0526_凤笑梦_R2 一起即兴表演♪ (event_74).txt"
+},
+{
+"type": "file",
+"name": "0571_凤笑梦_R4 呈现于眼中的光辉 (event_82).txt"
+},
+{
+"type": "file",
+"name": "0607_凤笑梦_R4 嘎嘎☆挑战演鸭鸭！ (event_88).txt"
+},
+{
+"type": "file",
+"name": "0651_凤笑梦_R3 梦想的背后 (event_95).txt"
+},
+{
+"type": "file",
+"name": "0655_凤笑梦_R4 凤伯爵驾到！ (event_96).txt"
+},
+{
+"type": "file",
+"name": "0693_凤笑梦_R2 和姐姐一起☆ (event_102).txt"
+},
+{
+"type": "file",
+"name": "0700_凤笑梦_R4 向着笑容的世界 (event_104).txt"
+},
+{
+"type": "file",
+"name": "0713_凤笑梦_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0717_凤笑梦_R3 甜甜～的回忆 (event_106).txt"
+},
+{
+"type": "file",
+"name": "0737_凤笑梦_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0794_凤笑梦_R3 这么一来，我也是摩登女孩♪ (event_113).txt"
+},
+{
+"type": "file",
+"name": "0805_凤笑梦_R4 feat.大耳狗.txt"
+},
+{
+"type": "file",
+"name": "0858_凤笑梦_R2 一起办电影赏析大会☆ (event_119).txt"
+},
+{
+"type": "file",
+"name": "0885_凤笑梦_R4 一起想办法吧 (event_124).txt"
+},
+{
+"type": "file",
+"name": "0897_凤笑梦_R4 如梦似幻般的重逢.txt"
+},
+{
+"type": "file",
+"name": "0927_凤笑梦_R4 笑傲天下之人 (event_131).txt"
+},
+{
+"type": "file",
+"name": "0959_凤笑梦_R3 小心小偷！ (event_136).txt"
+},
+{
+"type": "file",
+"name": "0987_凤笑梦_R4 我是喵喵叫的妖怪！ (event_141).txt"
+},
+{
+"type": "file",
+"name": "0992_凤笑梦_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "1035_凤笑梦_R4 做梦也在学习？ (event_149).txt"
+},
+{
+"type": "file",
+"name": "1054_凤笑梦_R2 激动人心♪制作点心小镇！ (event_152).txt"
+},
+{
+"type": "file",
+"name": "1128_凤笑梦_R4 一起，倾注感谢之情 (event_159).txt"
+},
+{
+"type": "file",
+"name": "1156_凤笑梦_R4 坚定地讲述未来 (event_164).txt"
+},
+{
+"type": "file",
+"name": "1170_凤笑梦_R4 在充满笑容的舞台 (event_167).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "15 WxS_草薙宁宁",
+"children": [
+{
+"type": "file",
+"name": "0057_草薙宁宁_R1 爱损人的社交恐惧者.txt"
+},
+{
+"type": "file",
+"name": "0058_草薙宁宁_R2 Wonderlands×Showtime.txt"
+},
+{
+"type": "file",
+"name": "0059_草薙宁宁_R3 正在后台工作.txt"
+},
+{
+"type": "file",
+"name": "0123_草薙宁宁_R2 奇幻手杖 (event_3).txt"
+},
+{
+"type": "file",
+"name": "0142_草薙宁宁_R3 动物棉花糖♪ (event_7).txt"
+},
+{
+"type": "file",
+"name": "0144_草薙宁宁_R4 来自天上的礼物 (event_8).txt"
+},
+{
+"type": "file",
+"name": "0181_草薙宁宁_R4 心愿信使 (event_15).txt"
+},
+{
+"type": "file",
+"name": "0234_草薙宁宁_R4 你给予我的自信 (event_25).txt"
+},
+{
+"type": "file",
+"name": "0269_草薙宁宁_R4 放烟花庆祝 (event_32).txt"
+},
+{
+"type": "file",
+"name": "0303_草薙宁宁_R4 怕生的来客 (event_38).txt"
+},
+{
+"type": "file",
+"name": "0348_草薙宁宁_R4 光辉灿烂的梦幻舞台.txt"
+},
+{
+"type": "file",
+"name": "0359_草薙宁宁_R3 我还以为我要不行了 (event_46).txt"
+},
+{
+"type": "file",
+"name": "0411_草薙宁宁_R4 小松鼠们的邀约 (event_55).txt"
+},
+{
+"type": "file",
+"name": "0450_草薙宁宁_R4 玩耍的回礼 (event_62).txt"
+},
+{
+"type": "file",
+"name": "0468_草薙宁宁_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0475_草薙宁宁_R4 不放过任何一个目标 (event_66).txt"
+},
+{
+"type": "file",
+"name": "0524_草薙宁宁_R4 儿时朋友的目光 (event_74).txt"
+},
+{
+"type": "file",
+"name": "0568_草薙宁宁_R3 汽车之旅GO！GO！ (event_81).txt"
+},
+{
+"type": "file",
+"name": "0575_草薙宁宁_R2 靠自己学到的内容 (event_82).txt"
+},
+{
+"type": "file",
+"name": "0584_草薙宁宁_R4 去想象对方 (event_84).txt"
+},
+{
+"type": "file",
+"name": "0608_草薙宁宁_R4 感受到的差距 (event_88).txt"
+},
+{
+"type": "file",
+"name": "0623_草薙宁宁_R3 为了接近金丝雀 (event_90).txt"
+},
+{
+"type": "file",
+"name": "0646_草薙宁宁_R2 就算分隔两地，也要默默在背后 (event_94).txt"
+},
+{
+"type": "file",
+"name": "0648_草薙宁宁_R4 因为我还不够优秀 (event_95).txt"
+},
+{
+"type": "file",
+"name": "0682_草薙宁宁_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0701_草薙宁宁_R4 连悲伤也一起 (event_104).txt"
+},
+{
+"type": "file",
+"name": "0738_草薙宁宁_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0795_草薙宁宁_R2 紧张的出门？ (event_113).txt"
+},
+{
+"type": "file",
+"name": "0796_草薙宁宁_R4 为了最棒的电影 (event_114).txt"
+},
+{
+"type": "file",
+"name": "0855_草薙宁宁_R4 已经习惯做准备了 (event_119).txt"
+},
+{
+"type": "file",
+"name": "0886_草薙宁宁_R4 面对憧憬 (event_124).txt"
+},
+{
+"type": "file",
+"name": "0931_草薙宁宁_R2 为了理解常盘御前的想法 (event_131).txt"
+},
+{
+"type": "file",
+"name": "0934_草薙宁宁_R4 穿上心心念念的婚纱 (event_132).txt"
+},
+{
+"type": "file",
+"name": "0960_草薙宁宁_R2 被江户的街道吞没 (event_136).txt"
+},
+{
+"type": "file",
+"name": "0966_草薙宁宁_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "1005_草薙宁宁_R4 承载梦想的旋律 (event_144).txt"
+},
+{
+"type": "file",
+"name": "1034_草薙宁宁_R4 坚定的眼神 (event_149).txt"
+},
+{
+"type": "file",
+"name": "1123_草薙宁宁_R4 投影在幕布上的尾巴 (event_158).txt"
+},
+{
+"type": "file",
+"name": "1136_草薙宁宁_R3 学会可爱 (event_160).txt"
+},
+{
+"type": "file",
+"name": "1157_草薙宁宁_R4 把情感寄托到舞步中 (event_164).txt"
+},
+{
+"type": "file",
+"name": "1171_草薙宁宁_R4 心中的焦虑 (event_167).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "16 WxS_神代类",
+"children": [
+{
+"type": "file",
+"name": "0061_神代类_R1 我行我素的天才导演.txt"
+},
+{
+"type": "file",
+"name": "0062_神代类_R2 Wonderlands×Showtime.txt"
+},
+{
+"type": "file",
+"name": "0063_神代类_R3 神出鬼没的表演者.txt"
+},
+{
+"type": "file",
+"name": "0119_神代类_R4 意想不到的肺腑之言 (event_3).txt"
+},
+{
+"type": "file",
+"name": "0147_神代类_R3 安眠一夜 (event_8).txt"
+},
+{
+"type": "file",
+"name": "0174_神代类_R2 疯狂的怪物 (event_13).txt"
+},
+{
+"type": "file",
+"name": "0182_神代类_R4 心底的烈火 (event_15).txt"
+},
+{
+"type": "file",
+"name": "0220_神代类_R3 脱缰的构思与失控 (event_22).txt"
+},
+{
+"type": "file",
+"name": "0228_神代类_R4 梦幻策划人 (event_24).txt"
+},
+{
+"type": "file",
+"name": "0270_神代类_R4 后台的炼金术师 (event_32).txt"
+},
+{
+"type": "file",
+"name": "0301_神代类_R4 昔日的憧憬 (event_38).txt"
+},
+{
+"type": "file",
+"name": "0349_神代类_R4 无尽的想象与挑战.txt"
+},
+{
+"type": "file",
+"name": "0360_神代类_R2 Rainbow☆Cast (event_46).txt"
+},
+{
+"type": "file",
+"name": "0412_神代类_R4 欣赏你的态度 (event_55).txt"
+},
+{
+"type": "file",
+"name": "0428_神代类_R4 照亮黄昏的光辉 (event_58).txt"
+},
+{
+"type": "file",
+"name": "0454_神代类_R2 挑战野外求生！ (event_62).txt"
+},
+{
+"type": "file",
+"name": "0455_神代类_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0514_神代类_R4 点醒的话语 (event_72).txt"
+},
+{
+"type": "file",
+"name": "0522_神代类_R4 晚风吹拂 (event_74).txt"
+},
+{
+"type": "file",
+"name": "0572_神代类_R4 绝对不能输啊 (event_82).txt"
+},
+{
+"type": "file",
+"name": "0601_神代类_R4 突如其来的试炼 (event_87).txt"
+},
+{
+"type": "file",
+"name": "0609_神代类_R3 秘密武器！凤凰机器人 (event_88).txt"
+},
+{
+"type": "file",
+"name": "0649_神代类_R4 随时都能找我商量哦 (event_95).txt"
+},
+{
+"type": "file",
+"name": "0669_神代类_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0672_神代类_R4 为内心，拍一张 (event_99).txt"
+},
+{
+"type": "file",
+"name": "0703_神代类_R3 半夜的纠葛 (event_104).txt"
+},
+{
+"type": "file",
+"name": "0720_神代类_R4 夕阳下的对话 (event_107).txt"
+},
+{
+"type": "file",
+"name": "0739_神代类_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0792_神代类_R4 被勾起的好奇心 (event_113).txt"
+},
+{
+"type": "file",
+"name": "0854_神代类_R4 无意间听到的只言片语 (event_119).txt"
+},
+{
+"type": "file",
+"name": "0887_神代类_R4 回礼的招呼 (event_124).txt"
+},
+{
+"type": "file",
+"name": "0902_神代类_R2 偶然发现了好东西！ (event_126).txt"
+},
+{
+"type": "file",
+"name": "0930_神代类_R3 天狗的太刀技 (event_131).txt"
+},
+{
+"type": "file",
+"name": "0948_神代类_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "0957_神代类_R4 帅气的反派？ (event_136).txt"
+},
+{
+"type": "file",
+"name": "1003_神代类_R4 注视宝物.txt"
+},
+{
+"type": "file",
+"name": "1038_神代类_R2 欢迎来看海中演出！ (event_149).txt"
+},
+{
+"type": "file",
+"name": "1050_神代类_R4 一定要见到圣诞老人！大作战 (event_152).txt"
+},
+{
+"type": "file",
+"name": "1118_神代类_R4 魔法与发明交织而成的演出.txt"
+},
+{
+"type": "file",
+"name": "1126_神代类_R2 导演的坚持 (event_158).txt"
+},
+{
+"type": "file",
+"name": "1159_神代类_R3 硬塞蔬菜被抓现行 (event_164).txt"
+},
+{
+"type": "file",
+"name": "1172_神代类_R4 向梦想迈出的一步 (event_167).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "17 N25_宵崎奏",
+"children": [
+{
+"type": "file",
+"name": "0065_宵崎奏_R1 被音乐之神眷顾的少女.txt"
+},
+{
+"type": "file",
+"name": "0066_宵崎奏_R2 25点，Nightcord见。.txt"
+},
+{
+"type": "file",
+"name": "0067_宵崎奏_R3 屏幕的另一边…….txt"
+},
+{
+"type": "file",
+"name": "0115_宵崎奏_R4 栩栩如生 (event_2).txt"
+},
+{
+"type": "file",
+"name": "0177_宵崎奏_R4 将心愿化作旋律…… (event_14).txt"
+},
+{
+"type": "file",
+"name": "0195_宵崎奏_R4 重温旧梦.txt"
+},
+{
+"type": "file",
+"name": "0201_宵崎奏_R2 今春与你共赏…… (event_18).txt"
+},
+{
+"type": "file",
+"name": "0205_宵崎奏_R3 虚幻与美丽 (event_19).txt"
+},
+{
+"type": "file",
+"name": "0237_宵崎奏_R4 回忆中的花坛 (event_26).txt"
+},
+{
+"type": "file",
+"name": "0288_宵崎奏_R2 笨拙的下午茶 (event_35).txt"
+},
+{
+"type": "file",
+"name": "0294_宵崎奏_R3 音乐为我展现的世界 (event_36).txt"
+},
+{
+"type": "file",
+"name": "0309_宵崎奏_R4 倒吊少女眼中的世界 (event_39).txt"
+},
+{
+"type": "file",
+"name": "0327_宵崎奏_R3 一如往常的拉面 (event_42).txt"
+},
+{
+"type": "file",
+"name": "0361_宵崎奏_R4 散发微光的厄尔庇斯 (event_47).txt"
+},
+{
+"type": "file",
+"name": "0378_宵崎奏_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0398_宵崎奏_R4 找到最佳旋律的瞬间 (event_53).txt"
+},
+{
+"type": "file",
+"name": "0449_宵崎奏_R2 不要松开紧握的手 (event_61).txt"
+},
+{
+"type": "file",
+"name": "0458_宵崎奏_R4 用这一球……！ (event_63).txt"
+},
+{
+"type": "file",
+"name": "0487_宵崎奏_R4 眯眼感受朝阳 (event_68).txt"
+},
+{
+"type": "file",
+"name": "0503_宵崎奏_R2 连接友谊的桥梁 (event_70).txt"
+},
+{
+"type": "file",
+"name": "0541_宵崎奏_R4 这条街上最受欢迎的专卖店 (event_77).txt"
+},
+{
+"type": "file",
+"name": "0585_宵崎奏_R4 为了大家传递出去 (event_84).txt"
+},
+{
+"type": "file",
+"name": "0588_宵崎奏_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0612_宵崎奏_R4 点燃决心 (event_89).txt"
+},
+{
+"type": "file",
+"name": "0656_宵崎奏_R4 给我温暖的人 (event_96).txt"
+},
+{
+"type": "file",
+"name": "0678_宵崎奏_R4 温柔安抚颤抖的身影 (event_100).txt"
+},
+{
+"type": "file",
+"name": "0740_宵崎奏_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0765_宵崎奏_R4 在教室的开学典礼 (event_108).txt"
+},
+{
+"type": "file",
+"name": "0785_宵崎奏_R4 让心愿和她交织在一起 (event_112).txt"
+},
+{
+"type": "file",
+"name": "0833_宵崎奏_R4 回忆中温柔的音色 (event_116).txt"
+},
+{
+"type": "file",
+"name": "0866_宵崎奏_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "0878_宵崎奏_R4 为你而泡的一杯茶 (event_123).txt"
+},
+{
+"type": "file",
+"name": "0906_宵崎奏_R3 不习惯的早起 (event_127).txt"
+},
+{
+"type": "file",
+"name": "0947_宵崎奏_R2 愿今晚平静安宁 (event_134).txt"
+},
+{
+"type": "file",
+"name": "0949_宵崎奏_R4 找回回忆.txt"
+},
+{
+"type": "file",
+"name": "0974_宵崎奏_R4 试炼！吹嘴 (event_139).txt"
+},
+{
+"type": "file",
+"name": "1015_宵崎奏_R2 被遗忘的事 (event_145).txt"
+},
+{
+"type": "file",
+"name": "1042_宵崎奏_R3 尚且一无所知 (event_150).txt"
+},
+{
+"type": "file",
+"name": "1097_宵崎奏_R4 镜中陌生的我 (event_155).txt"
+},
+{
+"type": "file",
+"name": "1109_宵崎奏_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1139_宵崎奏_R4 无形之声 (event_161).txt"
+},
+{
+"type": "file",
+"name": "1163_宵崎奏_R4 变得空荡荡的房间 (event_165).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "18 N25_朝比奈真冬",
+"children": [
+{
+"type": "file",
+"name": "0069_朝比奈真冬_R1 被当作“好孩子”的优等生.txt"
+},
+{
+"type": "file",
+"name": "0070_朝比奈真冬_R2 25点，Nightcord见。.txt"
+},
+{
+"type": "file",
+"name": "0071_朝比奈真冬_R3 我是“好孩子”.txt"
+},
+{
+"type": "file",
+"name": "0114_朝比奈真冬_R4 拘束的化装舞会 (event_2).txt"
+},
+{
+"type": "file",
+"name": "0127_朝比奈真冬_R3 欢乐满分的两人三足？ (event_4).txt"
+},
+{
+"type": "file",
+"name": "0176_朝比奈真冬_R4 吐露的言语 (event_14).txt"
+},
+{
+"type": "file",
+"name": "0196_朝比奈真冬_R4 探寻我的内心深处.txt"
+},
+{
+"type": "file",
+"name": "0206_朝比奈真冬_R2 废弃校舍的邂逅 (event_19).txt"
+},
+{
+"type": "file",
+"name": "0239_朝比奈真冬_R4 洋溢的微笑 (event_26).txt"
+},
+{
+"type": "file",
+"name": "0278_朝比奈真冬_R2 抬头看到的月亮是同一个 (event_33).txt"
+},
+{
+"type": "file",
+"name": "0284_朝比奈真冬_R4 记忆中的温情 (event_35).txt"
+},
+{
+"type": "file",
+"name": "0311_朝比奈真冬_R2 引导之杖 (event_39).txt"
+},
+{
+"type": "file",
+"name": "0324_朝比奈真冬_R4 初雪之中 (event_42).txt"
+},
+{
+"type": "file",
+"name": "0362_朝比奈真冬_R4 绝望深渊的厄尔庇斯 (event_47).txt"
+},
+{
+"type": "file",
+"name": "0366_朝比奈真冬_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0400_朝比奈真冬_R3 被想起的色彩 (event_53).txt"
+},
+{
+"type": "file",
+"name": "0445_朝比奈真冬_R4 在落日余晖的暖意中 (event_61).txt"
+},
+{
+"type": "file",
+"name": "0488_朝比奈真冬_R4 遥远的温暖 (event_68).txt"
+},
+{
+"type": "file",
+"name": "0511_朝比奈真冬_R4 温柔的魔咒 (event_72).txt"
+},
+{
+"type": "file",
+"name": "0542_朝比奈真冬_R4 氛围略异的餐桌 (event_77).txt"
+},
+{
+"type": "file",
+"name": "0557_朝比奈真冬_R4 只有你知晓的静谧 (event_80).txt"
+},
+{
+"type": "file",
+"name": "0581_朝比奈真冬_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0616_朝比奈真冬_R2 无法压抑的心意 (event_89).txt"
+},
+{
+"type": "file",
+"name": "0637_朝比奈真冬_R4 渐渐被切断的路 (event_93).txt"
+},
+{
+"type": "file",
+"name": "0675_朝比奈真冬_R3 休息时间 (event_99).txt"
+},
+{
+"type": "file",
+"name": "0677_朝比奈真冬_R4 说出真正的心愿 (event_100).txt"
+},
+{
+"type": "file",
+"name": "0741_朝比奈真冬_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0786_朝比奈真冬_R4 拾起的“心” (event_112).txt"
+},
+{
+"type": "file",
+"name": "0834_朝比奈真冬_R4 流露的真心 (event_116).txt"
+},
+{
+"type": "file",
+"name": "0845_朝比奈真冬_R3 前往更远一点的地方 (event_117).txt"
+},
+{
+"type": "file",
+"name": "0859_朝比奈真冬_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "0880_朝比奈真冬_R4 泡沫的安宁 (event_123).txt"
+},
+{
+"type": "file",
+"name": "0904_朝比奈真冬_R4 安静地准备 (event_127).txt"
+},
+{
+"type": "file",
+"name": "0943_朝比奈真冬_R4 温暖的手 (event_134).txt"
+},
+{
+"type": "file",
+"name": "0976_朝比奈真冬_R3 意想不到的双人票 (event_139).txt"
+},
+{
+"type": "file",
+"name": "0988_朝比奈真冬_R4 猫耳妖怪领路人 (event_141).txt"
+},
+{
+"type": "file",
+"name": "1014_朝比奈真冬_R3 品尝正宗的烤鱿鱼 (event_145).txt"
+},
+{
+"type": "file",
+"name": "1043_朝比奈真冬_R2 所待之人仍在远方 (event_150).txt"
+},
+{
+"type": "file",
+"name": "1102_朝比奈真冬_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1105_朝比奈真冬_R4 在宁静的图书室 (event_156).txt"
+},
+{
+"type": "file",
+"name": "1140_朝比奈真冬_R4 寂静的厨房 (event_161).txt"
+},
+{
+"type": "file",
+"name": "1162_朝比奈真冬_R4 温暖的时光 (event_165).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "19 N25_东云绘名",
+"children": [
+{
+"type": "file",
+"name": "0073_东云绘名_R1 伴有社交网络依赖症的画师.txt"
+},
+{
+"type": "file",
+"name": "0074_东云绘名_R2 25点，Nightcord见。.txt"
+},
+{
+"type": "file",
+"name": "0075_东云绘名_R3 最佳角度.txt"
+},
+{
+"type": "file",
+"name": "0118_东云绘名_R2 提线木偶的礼服 (event_2).txt"
+},
+{
+"type": "file",
+"name": "0152_东云绘名_R4 东云家的年末 (event_9).txt"
+},
+{
+"type": "file",
+"name": "0175_东云绘名_R4 不想放弃 (event_14).txt"
+},
+{
+"type": "file",
+"name": "0204_东云绘名_R4 神秘之旅的洗礼？ (event_19).txt"
+},
+{
+"type": "file",
+"name": "0217_东云绘名_R4 向我伸出的援手 (event_22).txt"
+},
+{
+"type": "file",
+"name": "0241_东云绘名_R2 希望说出来 (event_26).txt"
+},
+{
+"type": "file",
+"name": "0255_东云绘名_R4 曾经的夏日庆典 (event_29).txt"
+},
+{
+"type": "file",
+"name": "0287_东云绘名_R3 取消的消息 (event_35).txt"
+},
+{
+"type": "file",
+"name": "0308_东云绘名_R4 隐士·探索者 (event_39).txt"
+},
+{
+"type": "file",
+"name": "0364_东云绘名_R3 为了做出相符的东西 (event_47).txt"
+},
+{
+"type": "file",
+"name": "0397_东云绘名_R4 无论痛苦，还是惨淡 (event_53).txt"
+},
+{
+"type": "file",
+"name": "0421_东云绘名_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0432_东云绘名_R2 体育节的幕后工作 (event_58).txt"
+},
+{
+"type": "file",
+"name": "0448_东云绘名_R3 最吸引人的角度 (event_61).txt"
+},
+{
+"type": "file",
+"name": "0460_东云绘名_R4 钩爪力道太弱！ (event_63).txt"
+},
+{
+"type": "file",
+"name": "0489_东云绘名_R3 想要完成最好的作品 (event_68).txt"
+},
+{
+"type": "file",
+"name": "0499_东云绘名_R4 记忆中的动物 (event_70).txt"
+},
+{
+"type": "file",
+"name": "0540_东云绘名_R4 想画的表情 (event_77).txt"
+},
+{
+"type": "file",
+"name": "0563_东云绘名_R4 无尽的懊悔.txt"
+},
+{
+"type": "file",
+"name": "0613_东云绘名_R4 至少度过这平静的时光 (event_89).txt"
+},
+{
+"type": "file",
+"name": "0621_东云绘名_R4 将感受融入画中 (event_90).txt"
+},
+{
+"type": "file",
+"name": "0635_东云绘名_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0640_东云绘名_R2 沮丧、后悔和感谢 (event_93).txt"
+},
+{
+"type": "file",
+"name": "0679_东云绘名_R4 看不见的影子 (event_100).txt"
+},
+{
+"type": "file",
+"name": "0742_东云绘名_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0787_东云绘名_R4 愉快的午后与迷茫的未来 (event_112).txt"
+},
+{
+"type": "file",
+"name": "0806_东云绘名_R4 feat.酷洛米.txt"
+},
+{
+"type": "file",
+"name": "0836_东云绘名_R3 忧郁的午后 (event_116).txt"
+},
+{
+"type": "file",
+"name": "0863_东云绘名_R4 奢华的美妆 (event_120).txt"
+},
+{
+"type": "file",
+"name": "0903_东云绘名_R4 想从画中看到的情感 (event_127).txt"
+},
+{
+"type": "file",
+"name": "0914_东云绘名_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "0937_东云绘名_R2 别人给的门票 (event_132).txt"
+},
+{
+"type": "file",
+"name": "0946_东云绘名_R3 传递的心愿与努力 (event_134).txt"
+},
+{
+"type": "file",
+"name": "1009_东云绘名_R3 Let's·买东西吧！ (event_144).txt"
+},
+{
+"type": "file",
+"name": "1012_东云绘名_R4 在痛彻心扉的黄昏中 (event_145).txt"
+},
+{
+"type": "file",
+"name": "1039_东云绘名_R4 就算遍体鳞伤 (event_150).txt"
+},
+{
+"type": "file",
+"name": "1063_东云绘名_R2 25点迎新年 (event_153).txt"
+},
+{
+"type": "file",
+"name": "1141_东云绘名_R4 背包里的万千思绪 (event_161).txt"
+},
+{
+"type": "file",
+"name": "1161_东云绘名_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1166_东云绘名_R2 佩戴同款手链 (event_165).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "20 N25_晓山瑞希",
+"children": [
+{
+"type": "file",
+"name": "0077_晓山瑞希_R1 执着于“可爱”的自由人.txt"
+},
+{
+"type": "file",
+"name": "0078_晓山瑞希_R2 25点，Nightcord见。.txt"
+},
+{
+"type": "file",
+"name": "0079_晓山瑞希_R3 无法妥协的态度.txt"
+},
+{
+"type": "file",
+"name": "0117_晓山瑞希_R3 片刻嬉戏 (event_2).txt"
+},
+{
+"type": "file",
+"name": "0139_晓山瑞希_R4 天台友谊 (event_7).txt"
+},
+{
+"type": "file",
+"name": "0179_晓山瑞希_R2 相信你 (event_14).txt"
+},
+{
+"type": "file",
+"name": "0202_晓山瑞希_R4 无法忽视的心愿 (event_19).txt"
+},
+{
+"type": "file",
+"name": "0219_晓山瑞希_R4 在心愿与现实的狭缝中 (event_22).txt"
+},
+{
+"type": "file",
+"name": "0240_晓山瑞希_R3 牵起迷惑的手 (event_26).txt"
+},
+{
+"type": "file",
+"name": "0258_晓山瑞希_R2 仲夏夜庆典 (event_29).txt"
+},
+{
+"type": "file",
+"name": "0285_晓山瑞希_R4 片刻的安宁 (event_35).txt"
+},
+{
+"type": "file",
+"name": "0307_晓山瑞希_R4 隐士·逆位 (event_39).txt"
+},
+{
+"type": "file",
+"name": "0363_晓山瑞希_R4 习以为常的庆功宴 (event_47).txt"
+},
+{
+"type": "file",
+"name": "0387_晓山瑞希_R4 和孩子们一起制作 (event_51).txt"
+},
+{
+"type": "file",
+"name": "0401_晓山瑞希_R2 只有三人的夜晚 (event_53).txt"
+},
+{
+"type": "file",
+"name": "0429_晓山瑞希_R4 我先走啦！ (event_58).txt"
+},
+{
+"type": "file",
+"name": "0446_晓山瑞希_R4 不用怕哦 (event_61).txt"
+},
+{
+"type": "file",
+"name": "0486_晓山瑞希_R4 给予勇气的宝物 (event_68).txt"
+},
+{
+"type": "file",
+"name": "0491_晓山瑞希_RB Happy Birthday！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0543_晓山瑞希_R3 也去问问绘名弟弟吧——！ (event_77).txt"
+},
+{
+"type": "file",
+"name": "0564_晓山瑞希_R4 孤独的乌托邦.txt"
+},
+{
+"type": "file",
+"name": "0614_晓山瑞希_R4 逛逛街散散心 (event_89).txt"
+},
+{
+"type": "file",
+"name": "0636_晓山瑞希_R4 只有我才能说出的话 (event_93).txt"
+},
+{
+"type": "file",
+"name": "0658_晓山瑞希_R2 想象着传闻中的她 (event_96).txt"
+},
+{
+"type": "file",
+"name": "0680_晓山瑞希_R3 等待已久的通知 (event_100).txt"
+},
+{
+"type": "file",
+"name": "0691_晓山瑞希_R4 摆盘非常顺利！ (event_102).txt"
+},
+{
+"type": "file",
+"name": "0705_晓山瑞希_RB Happy Birthday！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0721_晓山瑞希_R4 两个人闲逛 (event_107).txt"
+},
+{
+"type": "file",
+"name": "0743_晓山瑞希_R2 Brand New Style.txt"
+},
+{
+"type": "file",
+"name": "0788_晓山瑞希_R4 不来可不行！ (event_112).txt"
+},
+{
+"type": "file",
+"name": "0842_晓山瑞希_R4 被温柔所激励 (event_117).txt"
+},
+{
+"type": "file",
+"name": "0907_晓山瑞希_R2 想让你品尝的味道 (event_127).txt"
+},
+{
+"type": "file",
+"name": "0944_晓山瑞希_R4 想当面告诉你 (event_134).txt"
+},
+{
+"type": "file",
+"name": "0985_晓山瑞希_RB Happy Birthday！！2025.txt"
+},
+{
+"type": "file",
+"name": "0991_晓山瑞希_R2 目标是打造快乐的试胆！ (event_141).txt"
+},
+{
+"type": "file",
+"name": "1011_晓山瑞希_R4 失去的东西 (event_145).txt"
+},
+{
+"type": "file",
+"name": "1040_晓山瑞希_R4 流露的心愿 (event_150).txt"
+},
+{
+"type": "file",
+"name": "1107_晓山瑞希_R3 欢乐的刺绣时间 (event_156).txt"
+},
+{
+"type": "file",
+"name": "1135_晓山瑞希_R4 甜甜圈和“耶”的手势！ (event_160).txt"
+},
+{
+"type": "file",
+"name": "1143_晓山瑞希_R2 “大家”一起举办庆功会 (event_161).txt"
+},
+{
+"type": "file",
+"name": "1165_晓山瑞希_R3 为了能陪伴在你身边 (event_165).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "21 VS_初音未来",
+"children": [
+{
+"type": "file",
+"name": "0081_初音未来_R1 人尽皆知的歌手.txt"
+},
+{
+"type": "file",
+"name": "0082_初音未来 (Ln)_R2 教室「世界」.txt"
+},
+{
+"type": "file",
+"name": "0083_初音未来 (MMJ)_R2 舞台「世界」.txt"
+},
+{
+"type": "file",
+"name": "0084_初音未来 (VBS)_R2 街头「世界」.txt"
+},
+{
+"type": "file",
+"name": "0085_初音未来 (WxS)_R2 奇幻乐园「世界」.txt"
+},
+{
+"type": "file",
+"name": "0086_初音未来 (N25)_R2 无人「世界」.txt"
+},
+{
+"type": "file",
+"name": "0087_初音未来 (N25)_R3 守护的目光.txt"
+},
+{
+"type": "file",
+"name": "0088_初音未来 (MMJ)_R4 向大家呈献首演.txt"
+},
+{
+"type": "file",
+"name": "0116_初音未来 (N25)_R4 被剪断的线 (event_2).txt"
+},
+{
+"type": "file",
+"name": "0126_初音未来 (WxS)_R4 为大家加油吧！ (event_4).txt"
+},
+{
+"type": "file",
+"name": "0145_初音未来 (WxS)_R4 奇幻☆圣诞节！ (event_8).txt"
+},
+{
+"type": "file",
+"name": "0149_初音未来 (VBS)_R4 强者的笑容 (event_9).txt"
+},
+{
+"type": "file",
+"name": "0198_初音未来 (Ln)_R4 逐渐成长的音色 (event_18).txt"
+},
+{
+"type": "file",
+"name": "0262_初音未来 (WxS)_R3 大大的贝壳在哪里？ (event_30).txt"
+},
+{
+"type": "file",
+"name": "0277_初音未来 (Ln)_R3 在天台的交谈 (event_33).txt"
+},
+{
+"type": "file",
+"name": "0289_初音未来_R4 在心愿合一的地方.txt"
+},
+{
+"type": "file",
+"name": "0298_初音未来 (VBS)_R4 哪怕是逆耳之言 (event_37).txt"
+},
+{
+"type": "file",
+"name": "0326_初音未来 (N25)_R4 坦率的歌词 (event_42).txt"
+},
+{
+"type": "file",
+"name": "0353_初音未来 (MMJ)_R3 歌牌界的顶尖偶像 (event_45).txt"
+},
+{
+"type": "file",
+"name": "0365_初音未来 (N25)_R2 守护初始的心愿 (event_47).txt"
+},
+{
+"type": "file",
+"name": "0393_初音未来 (MMJ)_R4 带你看看「世界」的换衣间♪ (event_52).txt"
+},
+{
+"type": "file",
+"name": "0404_初音未来 (N25)_R4 置身于漫天飞舞的樱花中 (event_54).txt"
+},
+{
+"type": "file",
+"name": "0414_初音未来 (WxS)_R2 挑战代演！ (event_55).txt"
+},
+{
+"type": "file",
+"name": "0425_初音未来 (MMJ)_R3 挠痒痒怎么样？ (event_57).txt"
+},
+{
+"type": "file",
+"name": "0479_初音未来 (WxS)_R2 未来未来☆神枪手！ (event_66).txt"
+},
+{
+"type": "file",
+"name": "0492_初音未来_RB Happy Anniversary！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0509_初音未来_R4 请交给我来保管吧.txt"
+},
+{
+"type": "file",
+"name": "0525_初音未来 (WxS)_R3 超级超级失落 (event_74).txt"
+},
+{
+"type": "file",
+"name": "0537_初音未来 (Ln)_R4 重合的歌声 (event_76).txt"
+},
+{
+"type": "file",
+"name": "0579_初音未来 (Ln)_R3 学姐的目光 (event_83).txt"
+},
+{
+"type": "file",
+"name": "0603_初音未来 (VBS)_R3 很擅长料理？ (event_87).txt"
+},
+{
+"type": "file",
+"name": "0622_初音未来 (Ln)_R4 第一次踏上的街道！ (event_90).txt"
+},
+{
+"type": "file",
+"name": "0644_初音未来 (MMJ)_R4 横滨郊游指南满眼是美食♪ (event_94).txt"
+},
+{
+"type": "file",
+"name": "0698_初音未来 (VBS)_R2 就是要光彩夺目 (event_103).txt"
+},
+{
+"type": "file",
+"name": "0706_初音未来_RB Happy Anniversary！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0707_初音未来 (WxS)_R4 获得闪亮笑容的魔法 (event_105).txt"
+},
+{
+"type": "file",
+"name": "0744_初音未来_R2 Origin Style.txt"
+},
+{
+"type": "file",
+"name": "0750_初音未来 (Ln)_R2 Brand New Classroom.txt"
+},
+{
+"type": "file",
+"name": "0751_初音未来 (MMJ)_R2 Brand New Stage.txt"
+},
+{
+"type": "file",
+"name": "0752_初音未来 (VBS)_R2 Brand New Street.txt"
+},
+{
+"type": "file",
+"name": "0753_初音未来 (WxS)_R2 Brand New Wonderland.txt"
+},
+{
+"type": "file",
+"name": "0754_初音未来 (N25)_R2 Brand New Empty.txt"
+},
+{
+"type": "file",
+"name": "0789_初音未来 (N25)_R2 在湖畔 (event_112).txt"
+},
+{
+"type": "file",
+"name": "0801_初音未来_R4 feat.凯蒂猫.txt"
+},
+{
+"type": "file",
+"name": "0875_初音未来 (MMJ)_R4 能感受到轨迹的伤痕 (event_122).txt"
+},
+{
+"type": "file",
+"name": "0953_初音未来 (VBS)_R4 在门的另一边 (event_135).txt"
+},
+{
+"type": "file",
+"name": "0979_初音未来_R4 寄托心愿 (event_140).txt"
+},
+{
+"type": "file",
+"name": "0986_初音未来_RB Happy Anniversary！！2025.txt"
+},
+{
+"type": "file",
+"name": "1047_初音未来 (MMJ)_R4 感受到的目光 (event_151).txt"
+},
+{
+"type": "file",
+"name": "1148_初音未来 (Ln)_R4 被回响的心愿包围 (event_162).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "22 VS_镜音铃",
+"children": [
+{
+"type": "file",
+"name": "0089_镜音铃_R1 迸发的活力！.txt"
+},
+{
+"type": "file",
+"name": "0090_镜音铃 (MMJ)_R2 舞台「世界」.txt"
+},
+{
+"type": "file",
+"name": "0091_镜音铃 (MMJ)_R3 耀眼的舞台.txt"
+},
+{
+"type": "file",
+"name": "0092_镜音铃 (VBS)_R4 激烈对抗.txt"
+},
+{
+"type": "file",
+"name": "0131_镜音铃 (MMJ)_R4 为了让你露出笑脸 (event_5).txt"
+},
+{
+"type": "file",
+"name": "0171_镜音铃 (WxS)_R4 友情丘比特 (event_13).txt"
+},
+{
+"type": "file",
+"name": "0178_镜音铃 (N25)_R3 寻找邂逅的意义 (event_14).txt"
+},
+{
+"type": "file",
+"name": "0235_镜音铃 (WxS)_R3 微笑狂欢之夜！ (event_25).txt"
+},
+{
+"type": "file",
+"name": "0245_镜音铃 (Ln)_R4 俏皮的旋律 (event_27).txt"
+},
+{
+"type": "file",
+"name": "0253_镜音铃 (VBS)_R2 跳出「世界」 (event_28).txt"
+},
+{
+"type": "file",
+"name": "0286_镜音铃 (N25)_R4 相册中的女孩 (event_35).txt"
+},
+{
+"type": "file",
+"name": "0305_镜音铃 (WxS)_R2 聪颖女孩 (event_38).txt"
+},
+{
+"type": "file",
+"name": "0335_镜音铃_R4 傲慢的公主.txt"
+},
+{
+"type": "file",
+"name": "0346_镜音铃_RB Happy Anniversary！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0371_镜音铃 (MMJ)_R3 蛋糕上的偶像♪ (event_48).txt"
+},
+{
+"type": "file",
+"name": "0399_镜音铃 (N25)_R4 想要传递的歌声 (event_53).txt"
+},
+{
+"type": "file",
+"name": "0409_镜音铃 (MMJ)_R2 如樱花般怒放的偶像♪ (event_54).txt"
+},
+{
+"type": "file",
+"name": "0424_镜音铃 (MMJ)_R4 要多多依靠我哦♪ (event_57).txt"
+},
+{
+"type": "file",
+"name": "0465_镜音铃 (VBS)_R4 看录像的时候不要说话！ (event_64).txt"
+},
+{
+"type": "file",
+"name": "0496_镜音铃 (Ln)_R3 无法说出口的话 (event_69).txt"
+},
+{
+"type": "file",
+"name": "0532_镜音铃 (VBS)_R2 尽情享受文化节♪ (event_75).txt"
+},
+{
+"type": "file",
+"name": "0561_镜音铃_RB Happy Anniversary！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0567_镜音铃 (WxS)_R4 和舞狮机器人玩抓人游戏 (event_81).txt"
+},
+{
+"type": "file",
+"name": "0617_镜音铃_R4 重归于好的桥梁.txt"
+},
+{
+"type": "file",
+"name": "0657_镜音铃 (Ln)_R3 作战成功，击掌！ (event_96).txt"
+},
+{
+"type": "file",
+"name": "0661_镜音铃 (VBS)_R4 放心交给我们吧！ (event_97).txt"
+},
+{
+"type": "file",
+"name": "0708_镜音铃 (N25)_R4 另一个我 (event_105).txt"
+},
+{
+"type": "file",
+"name": "0745_镜音铃_R2 Origin Style.txt"
+},
+{
+"type": "file",
+"name": "0756_镜音铃 (MMJ)_R2 Brand New Stage.txt"
+},
+{
+"type": "file",
+"name": "0775_镜音铃 (Ln)_R4 让我聆听你的回忆 (event_110).txt"
+},
+{
+"type": "file",
+"name": "0837_镜音铃 (N25)_R2 绘出「世界」，染上色彩 (event_116).txt"
+},
+{
+"type": "file",
+"name": "0838_镜音铃_RB Happy Anniversary！！Dessert.txt"
+},
+{
+"type": "file",
+"name": "0856_镜音铃 (WxS)_R4 被银幕照亮 (event_119).txt"
+},
+{
+"type": "file",
+"name": "0925_镜音铃 (MMJ)_R2 发现神秘的路？！ (event_130).txt"
+},
+{
+"type": "file",
+"name": "0945_镜音铃 (N25)_R4 第一次听到雷鸣 (event_134).txt"
+},
+{
+"type": "file",
+"name": "0971_镜音铃 (MMJ)_R3 寄托想要传递的情感！ (event_138).txt"
+},
+{
+"type": "file",
+"name": "0980_镜音铃_R4 在最前排应援！ (event_140).txt"
+},
+{
+"type": "file",
+"name": "1004_镜音铃_R4 我所不知道的“我”们.txt"
+},
+{
+"type": "file",
+"name": "1030_镜音铃 (Ln)_R4 让人畅想的葡萄小山 (event_148).txt"
+},
+{
+"type": "file",
+"name": "1055_镜音铃_RB Happy Anniversary！！2025.txt"
+},
+{
+"type": "file",
+"name": "1099_镜音铃 (N25)_R4 梳妆打扮不容易 (event_155).txt"
+},
+{
+"type": "file",
+"name": "1129_镜音铃 (Ln)_R4 乖啦乖啦，No thank you！ (event_159).txt"
+},
+{
+"type": "file",
+"name": "1142_镜音铃 (N25)_R3 传达不到的声音 (event_161).txt"
+},
+{
+"type": "file",
+"name": "1150_镜音铃 (Ln)_R2 缓解紧张的小魔法 (event_162).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "23 VS_镜音连",
+"children": [
+{
+"type": "file",
+"name": "0093_镜音连_R1 迸发的强大力量！.txt"
+},
+{
+"type": "file",
+"name": "0094_镜音连 (VBS)_R2 街头「世界」.txt"
+},
+{
+"type": "file",
+"name": "0095_镜音连 (VBS)_R3 困难的“和好”.txt"
+},
+{
+"type": "file",
+"name": "0096_镜音连 (WxS)_R4 新团员登场！.txt"
+},
+{
+"type": "file",
+"name": "0150_镜音连 (VBS)_R4 最棒最强的搭档？！ (event_9).txt"
+},
+{
+"type": "file",
+"name": "0169_镜音连 (VBS)_R2 感伤的旋律 (event_12).txt"
+},
+{
+"type": "file",
+"name": "0183_镜音连 (WxS)_R3 用最擅长的方法！ (event_15).txt"
+},
+{
+"type": "file",
+"name": "0229_镜音连 (WxS)_R4 闪闪发光的好奇心☆ (event_24).txt"
+},
+{
+"type": "file",
+"name": "0256_镜音连 (VBS)_R4 我的舞鞋！ (event_29).txt"
+},
+{
+"type": "file",
+"name": "0265_镜音连 (MMJ)_R4 舞台上的王子殿下 (event_31).txt"
+},
+{
+"type": "file",
+"name": "0299_镜音连 (VBS)_R3 明明是我的搭档 (event_37).txt"
+},
+{
+"type": "file",
+"name": "0317_镜音连 (Ln)_R2 碰撞心愿的坚强 (event_40).txt"
+},
+{
+"type": "file",
+"name": "0336_镜音连_R4 双生子侍从.txt"
+},
+{
+"type": "file",
+"name": "0347_镜音连_RB Happy Anniversary！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0375_镜音连 (VBS)_R4 难以抑制的好奇心 (event_49).txt"
+},
+{
+"type": "file",
+"name": "0389_镜音连 (WxS)_R2 圣洁的侍从骑士 (event_51).txt"
+},
+{
+"type": "file",
+"name": "0405_镜音连 (VBS)_R4 在春色甜点的包围下 (event_54).txt"
+},
+{
+"type": "file",
+"name": "0447_镜音连 (N25)_R4 腼腆的招呼 (event_61).txt"
+},
+{
+"type": "file",
+"name": "0471_镜音连 (Ln)_R4 放学后的小憩 (event_65).txt"
+},
+{
+"type": "file",
+"name": "0502_镜音连 (Ln)_R3 我眼中最酷炫的表现！ (event_70).txt"
+},
+{
+"type": "file",
+"name": "0544_镜音连 (N25)_R2 各自的方法 (event_77).txt"
+},
+{
+"type": "file",
+"name": "0562_镜音连_RB Happy Anniversary！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0573_镜音连 (WxS)_R4 充满欢乐的宝箱 (event_82).txt"
+},
+{
+"type": "file",
+"name": "0587_镜音连 (N25)_R2 将寄托的心愿化为现实 (event_84).txt"
+},
+{
+"type": "file",
+"name": "0618_镜音连_R4 为你发出的声援.txt"
+},
+{
+"type": "file",
+"name": "0639_镜音连 (N25)_R3 倾注在蝴蝶结中的关怀 (event_93).txt"
+},
+{
+"type": "file",
+"name": "0666_镜音连 (MMJ)_R4 只有我们才能说的事 (event_98).txt"
+},
+{
+"type": "file",
+"name": "0709_镜音连 (Ln)_R4 寄托心愿的演奏 (event_105).txt"
+},
+{
+"type": "file",
+"name": "0746_镜音连_R2 Origin Style.txt"
+},
+{
+"type": "file",
+"name": "0757_镜音连 (VBS)_R2 Brand New Street.txt"
+},
+{
+"type": "file",
+"name": "0782_镜音连 (MMJ)_R3 对旅行的期待 (event_111).txt"
+},
+{
+"type": "file",
+"name": "0798_镜音连 (WxS)_R4 崇拜的主角 (event_114).txt"
+},
+{
+"type": "file",
+"name": "0839_镜音连_RB Happy Anniversary！！Dessert.txt"
+},
+{
+"type": "file",
+"name": "0852_镜音连 (VBS)_R2 为了能帮到大家 (event_118).txt"
+},
+{
+"type": "file",
+"name": "0905_镜音连 (N25)_R4 有趣的个展 (event_127).txt"
+},
+{
+"type": "file",
+"name": "0929_镜音连 (WxS)_R4 一起特训！ (event_131).txt"
+},
+{
+"type": "file",
+"name": "0942_镜音连 (MMJ)_R2 让个性更加出彩 (event_133).txt"
+},
+{
+"type": "file",
+"name": "0981_镜音连_R4 在哪里都是最棒的搭档 (event_140).txt"
+},
+{
+"type": "file",
+"name": "1000_镜音连 (Ln)_R4 被气泡水包围 (event_143).txt"
+},
+{
+"type": "file",
+"name": "1036_镜音连 (WxS)_R4 为☆你☆加油！ (event_149).txt"
+},
+{
+"type": "file",
+"name": "1056_镜音连_RB Happy Anniversary！！2025.txt"
+},
+{
+"type": "file",
+"name": "1067_镜音连 (VBS)_R4 丰盛的早餐 (event_154).txt"
+},
+{
+"type": "file",
+"name": "1106_镜音连 (MMJ)_R4 为你送上最棒的爱心 (event_156).txt"
+},
+{
+"type": "file",
+"name": "1164_镜音连 (N25)_R4 伴你度过苦痛 (event_165).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "24 VS_巡音流歌",
+"children": [
+{
+"type": "file",
+"name": "0097_巡音流歌_R1 冰山美人.txt"
+},
+{
+"type": "file",
+"name": "0098_巡音流歌 (Ln)_R2 教室「世界」.txt"
+},
+{
+"type": "file",
+"name": "0099_巡音流歌 (Ln)_R3 指引者.txt"
+},
+{
+"type": "file",
+"name": "0110_巡音流歌 (Ln)_R4 拭去黄昏之雨 (event_1).txt"
+},
+{
+"type": "file",
+"name": "0151_巡音流歌 (Ln)_R4 优雅的微笑 (event_9).txt"
+},
+{
+"type": "file",
+"name": "0161_巡音流歌 (MMJ)_R4 新成员登场♪ (event_11).txt"
+},
+{
+"type": "file",
+"name": "0188_巡音流歌 (WxS)_R3 快乐的女儿节♪ (event_16).txt"
+},
+{
+"type": "file",
+"name": "0193_巡音流歌 (MMJ)_R3 偶像的心得 (event_17).txt"
+},
+{
+"type": "file",
+"name": "0221_巡音流歌 (MMJ)_R2 精灵灯笼♪ (event_22).txt"
+},
+{
+"type": "file",
+"name": "0238_巡音流歌 (N25)_R4 我行我素 (event_26).txt"
+},
+{
+"type": "file",
+"name": "0271_巡音流歌 (WxS)_R4 思绪畅游大海 (event_32).txt"
+},
+{
+"type": "file",
+"name": "0320_巡音流歌 (MMJ)_R4 可靠的话语 (event_41).txt"
+},
+{
+"type": "file",
+"name": "0337_巡音流歌_R4 善妒的裁缝师.txt"
+},
+{
+"type": "file",
+"name": "0344_巡音流歌 (VBS)_R3 自由人登场！ (event_44).txt"
+},
+{
+"type": "file",
+"name": "0367_巡音流歌_RB Happy Anniversary！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0406_巡音流歌 (Ln)_R4 盛开于黑板的樱花 (event_54).txt"
+},
+{
+"type": "file",
+"name": "0420_巡音流歌 (Ln)_R2 可靠的建议 (event_56).txt"
+},
+{
+"type": "file",
+"name": "0430_巡音流歌 (WxS)_R4 河童最爱吃的食物？ (event_58).txt"
+},
+{
+"type": "file",
+"name": "0461_巡音流歌 (N25)_R3 烈日下的鼓励 (event_63).txt"
+},
+{
+"type": "file",
+"name": "0490_巡音流歌 (N25)_R2 可以选择等待 (event_68).txt"
+},
+{
+"type": "file",
+"name": "0510_巡音流歌_R4 对“你”，诉说心愿.txt"
+},
+{
+"type": "file",
+"name": "0553_巡音流歌 (VBS)_R4 火速赶往伙伴身边！ (event_79).txt"
+},
+{
+"type": "file",
+"name": "0582_巡音流歌_RB Happy Anniversary！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0599_巡音流歌 (VBS)_R2 随意但丰富的回响 (event_86).txt"
+},
+{
+"type": "file",
+"name": "0638_巡音流歌 (N25)_R4 换一种思维 (event_93).txt"
+},
+{
+"type": "file",
+"name": "0681_巡音流歌 (N25)_R2 逐渐高涨的恐惧 (event_100).txt"
+},
+{
+"type": "file",
+"name": "0710_巡音流歌 (MMJ)_R4 为了展示光彩 (event_105).txt"
+},
+{
+"type": "file",
+"name": "0747_巡音流歌_R2 Origin Style.txt"
+},
+{
+"type": "file",
+"name": "0755_巡音流歌 (Ln)_R2 Brand New Classroom.txt"
+},
+{
+"type": "file",
+"name": "0770_巡音流歌 (VBS)_R4 突如其来的挑衅 (event_109).txt"
+},
+{
+"type": "file",
+"name": "0830_巡音流歌 (MMJ)_R4 打招呼是偶像的基本要求 (event_115).txt"
+},
+{
+"type": "file",
+"name": "0860_巡音流歌_RB Happy Anniversary！！2025.txt"
+},
+{
+"type": "file",
+"name": "0865_巡音流歌 (VBS)_R2 在「世界」举办摄影大赛！ (event_120).txt"
+},
+{
+"type": "file",
+"name": "0918_巡音流歌 (VBS)_R3 把你的真心 (event_129).txt"
+},
+{
+"type": "file",
+"name": "0935_巡音流歌 (WxS)_R4 软绵绵的梦幻婚礼 (event_132).txt"
+},
+{
+"type": "file",
+"name": "0958_巡音流歌 (WxS)_R4 从望火楼上 (event_136).txt"
+},
+{
+"type": "file",
+"name": "0965_巡音流歌 (Ln)_R2 作为开始的地方 (event_137).txt"
+},
+{
+"type": "file",
+"name": "0982_巡音流歌_R4 感受心愿 (event_140).txt"
+},
+{
+"type": "file",
+"name": "1025_巡音流歌 (Ln)_R3 大家的MV (event_147).txt"
+},
+{
+"type": "file",
+"name": "1052_巡音流歌 (VBS)_R4 兴致勃勃做提灯！ (event_152).txt"
+},
+{
+"type": "file",
+"name": "1103_巡音流歌_RB Happy Anniversary！！2026.txt"
+},
+{
+"type": "file",
+"name": "1112_巡音流歌 (MMJ)_R4 连悔恨之情也要接受 (event_157).txt"
+},
+{
+"type": "file",
+"name": "1145_巡音流歌_R4 巡回「世界」，交汇心愿.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "25 VS_MEIKO",
+"children": [
+{
+"type": "file",
+"name": "0101_MEIKO_R1 疾驰的红色旋律.txt"
+},
+{
+"type": "file",
+"name": "0102_MEIKO (VBS)_R2 街头「世界」.txt"
+},
+{
+"type": "file",
+"name": "0103_MEIKO (VBS)_R3 精益求精的饮品.txt"
+},
+{
+"type": "file",
+"name": "0138_MEIKO (VBS)_R2 温暖的目光 (event_6).txt"
+},
+{
+"type": "file",
+"name": "0146_MEIKO (WxS)_R4 告诉我！大家的圣诞节♪ (event_8).txt"
+},
+{
+"type": "file",
+"name": "0156_MEIKO (Ln)_R4 第三位学姐！ (event_10).txt"
+},
+{
+"type": "file",
+"name": "0203_MEIKO (N25)_R4 保持必要距离 (event_19).txt"
+},
+{
+"type": "file",
+"name": "0211_MEIKO (Ln)_R2 寻找答案 (event_20).txt"
+},
+{
+"type": "file",
+"name": "0225_MEIKO (MMJ)_R3 与红色相衬的新面孔！ (event_23).txt"
+},
+{
+"type": "file",
+"name": "0251_MEIKO (VBS)_R4 喝杯咖啡聊聊天 (event_28).txt"
+},
+{
+"type": "file",
+"name": "0276_MEIKO (MMJ)_R4 策划会议的建议是兔子？！ (event_33).txt"
+},
+{
+"type": "file",
+"name": "0310_MEIKO (N25)_R3 正确的天平 (event_39).txt"
+},
+{
+"type": "file",
+"name": "0312_MEIKO_RB Happy Anniversary！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0338_MEIKO_R4 恶食的恶魔.txt"
+},
+{
+"type": "file",
+"name": "0358_MEIKO (WxS)_R4 哭声是从哪里传来的？ (event_46).txt"
+},
+{
+"type": "file",
+"name": "0408_MEIKO (VBS)_R3 试吃春季新餐品 (event_54).txt"
+},
+{
+"type": "file",
+"name": "0442_MEIKO (VBS)_R4 赠予努力的你 (event_60).txt"
+},
+{
+"type": "file",
+"name": "0453_MEIKO (WxS)_R3 挑战的心得 (event_62).txt"
+},
+{
+"type": "file",
+"name": "0483_MEIKO (MMJ)_R4 先强化腹肌吧！ (event_67).txt"
+},
+{
+"type": "file",
+"name": "0533_MEIKO_RB Happy Anniversary！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0547_MEIKO (MMJ)_R4 作为一个粉丝 (event_78).txt"
+},
+{
+"type": "file",
+"name": "0593_MEIKO (MMJ)_R2 为了更好地支持大家 (event_85).txt"
+},
+{
+"type": "file",
+"name": "0610_MEIKO (WxS)_R2 温柔才是力量的源泉 (event_88).txt"
+},
+{
+"type": "file",
+"name": "0626_MEIKO (Ln)_R4 可靠的温暖 (event_91).txt"
+},
+{
+"type": "file",
+"name": "0702_MEIKO (WxS)_R4 讲述幸福之人 (event_104).txt"
+},
+{
+"type": "file",
+"name": "0711_MEIKO (N25)_R3 哪怕能尽一点力 (event_105).txt"
+},
+{
+"type": "file",
+"name": "0748_MEIKO_R2 Origin Style.txt"
+},
+{
+"type": "file",
+"name": "0758_MEIKO (VBS)_R2 Brand New Street.txt"
+},
+{
+"type": "file",
+"name": "0760_MEIKO_R4 把那名字刻在心中.txt"
+},
+{
+"type": "file",
+"name": "0784_MEIKO_RB Happy Anniversary！！Dessert.txt"
+},
+{
+"type": "file",
+"name": "0793_MEIKO (WxS)_R4 Let's☆三轮汽车 (event_113).txt"
+},
+{
+"type": "file",
+"name": "0844_MEIKO (Ln)_R4 教教我吧！志步老师 (event_117).txt"
+},
+{
+"type": "file",
+"name": "0853_MEIKO (VBS)_R2 相同的激动心情 (event_118).txt"
+},
+{
+"type": "file",
+"name": "0892_MEIKO (VBS)_R4 正因为重视 (event_125).txt"
+},
+{
+"type": "file",
+"name": "0911_MEIKO (Ln)_R4 我们存在的意义 (event_128).txt"
+},
+{
+"type": "file",
+"name": "0950_MEIKO_R4 感受“我”的心愿.txt"
+},
+{
+"type": "file",
+"name": "0983_MEIKO_R4 与温和的香气一起 (event_140).txt"
+},
+{
+"type": "file",
+"name": "0996_MEIKO (MMJ)_R3 接近梦想的体能训练♪ (event_142).txt"
+},
+{
+"type": "file",
+"name": "1027_MEIKO_RB Happy Anniversary！！2025.txt"
+},
+{
+"type": "file",
+"name": "1041_MEIKO (N25)_R4 我应该做的事 (event_150).txt"
+},
+{
+"type": "file",
+"name": "1124_MEIKO (Ln)_R4 悄悄眨个眼！ (event_158).txt"
+},
+{
+"type": "file",
+"name": "1131_MEIKO (WxS)_R2 绝妙的点子 (event_159).txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "26 VS_KAITO",
+"children": [
+{
+"type": "file",
+"name": "0105_KAITO_R1 凉爽的蓝色旋律.txt"
+},
+{
+"type": "file",
+"name": "0106_KAITO (WxS)_R2 奇幻乐园「世界」.txt"
+},
+{
+"type": "file",
+"name": "0107_KAITO (WxS)_R3 剧团成员招募中！.txt"
+},
+{
+"type": "file",
+"name": "0121_KAITO (WxS)_R4 和迷茫的人谈心 (event_3).txt"
+},
+{
+"type": "file",
+"name": "0140_KAITO (WxS)_R4 秘密的演技指导 (event_7).txt"
+},
+{
+"type": "file",
+"name": "0214_KAITO (VBS)_R4 开朗DJ现身？ (event_21).txt"
+},
+{
+"type": "file",
+"name": "0236_KAITO (WxS)_R2 柴郡猫与微笑 (event_25).txt"
+},
+{
+"type": "file",
+"name": "0272_KAITO (WxS)_R3 团长的休假日 (event_32).txt"
+},
+{
+"type": "file",
+"name": "0280_KAITO (Ln)_R4 诉诸于音乐的合奏 (event_34).txt"
+},
+{
+"type": "file",
+"name": "0333_KAITO (MMJ)_R3 偶像兼经纪人？！ (event_43).txt"
+},
+{
+"type": "file",
+"name": "0339_KAITO_R4 贪婪的法官.txt"
+},
+{
+"type": "file",
+"name": "0379_KAITO_RB Happy Anniversary！！Flower.txt"
+},
+{
+"type": "file",
+"name": "0382_KAITO (Ln)_R4 不太习惯的热闹景象 (event_50).txt"
+},
+{
+"type": "file",
+"name": "0407_KAITO (WxS)_R4 没事了，放心吧 (event_54).txt"
+},
+{
+"type": "file",
+"name": "0436_KAITO (VBS)_R4 大家都能变成美味的松饼！ (event_59).txt"
+},
+{
+"type": "file",
+"name": "0472_KAITO (Ln)_R3 直面心愿之歌 (event_65).txt"
+},
+{
+"type": "file",
+"name": "0506_KAITO (VBS)_R4 这不就是执着吗？ (event_71).txt"
+},
+{
+"type": "file",
+"name": "0521_KAITO (MMJ)_R2 可靠的前辈们 (event_73).txt"
+},
+{
+"type": "file",
+"name": "0539_KAITO (Ln)_R2 用演奏鼓励 (event_76).txt"
+},
+{
+"type": "file",
+"name": "0558_KAITO (MMJ)_R4 改成什么样比较好呢？ (event_80).txt"
+},
+{
+"type": "file",
+"name": "0594_KAITO_RB Happy Anniversary！！Stamp.txt"
+},
+{
+"type": "file",
+"name": "0602_KAITO (VBS)_R4 蓬松感的关键是搅拌方式！ (event_87).txt"
+},
+{
+"type": "file",
+"name": "0615_KAITO (N25)_R3 冲动的显现 (event_89).txt"
+},
+{
+"type": "file",
+"name": "0633_KAITO (MMJ)_R3 相信不会消失的感情 (event_92).txt"
+},
+{
+"type": "file",
+"name": "0650_KAITO (WxS)_R4 相信支持的力量 (event_95).txt"
+},
+{
+"type": "file",
+"name": "0685_KAITO (Ln)_R4 守望至今的轨迹 (event_101).txt"
+},
+{
+"type": "file",
+"name": "0712_KAITO (VBS)_R2 秘密的期望 (event_105).txt"
+},
+{
+"type": "file",
+"name": "0749_KAITO_R2 Origin Style.txt"
+},
+{
+"type": "file",
+"name": "0759_KAITO (WxS)_R2 Brand New Wonderland.txt"
+},
+{
+"type": "file",
+"name": "0761_KAITO_R4 抚慰焦躁不安的歌.txt"
+},
+{
+"type": "file",
+"name": "0835_KAITO (N25)_R4 不容忽视的心愿 (event_116).txt"
+},
+{
+"type": "file",
+"name": "0869_KAITO (Ln)_R4 你赞成哪一方？！ (event_121).txt"
+},
+{
+"type": "file",
+"name": "0872_KAITO_RB Happy Anniversary！！2025.txt"
+},
+{
+"type": "file",
+"name": "0888_KAITO (WxS)_R2 守望至今的心愿 (event_124).txt"
+},
+{
+"type": "file",
+"name": "0893_KAITO (VBS)_R3 提供支持 (event_125).txt"
+},
+{
+"type": "file",
+"name": "0900_KAITO (Ln)_R4 调皮的发现者 (event_126).txt"
+},
+{
+"type": "file",
+"name": "0940_KAITO (MMJ)_R4 为了献上最精彩的表演 (event_133).txt"
+},
+{
+"type": "file",
+"name": "0984_KAITO_R4 在背后支持的心愿 (event_140).txt"
+},
+{
+"type": "file",
+"name": "1013_KAITO (N25)_R4 冰冷的争执 (event_145).txt"
+},
+{
+"type": "file",
+"name": "1019_KAITO (VBS)_R3 对追求“热情”的你 (event_146).txt"
+},
+{
+"type": "file",
+"name": "1061_KAITO (MMJ)_R4 抛沙包得心应手！ (event_153).txt"
+},
+{
+"type": "file",
+"name": "1121_KAITO_RB Happy Anniversary！！2026.txt"
+},
+{
+"type": "file",
+"name": "1158_KAITO (WxS)_R4 体贴的笑容 (event_164).txt"
+}
+]
+}
+]
+},
+{
+"type": "dir",
+"name": "event",
+"children": [
+{
+"type": "dir",
+"name": "001 雨过天晴的启明星 (Ln_天马咲希)",
+"children": [
+{
+"type": "file",
+"name": "001-01 孤独的雨.txt"
+},
+{
+"type": "file",
+"name": "001-02 和大家一起.txt"
+},
+{
+"type": "file",
+"name": "001-03 舍星星而求贝斯.txt"
+},
+{
+"type": "file",
+"name": "001-04 直到约会那天.txt"
+},
+{
+"type": "file",
+"name": "001-05 不是什么时候都能.txt"
+},
+{
+"type": "file",
+"name": "001-06 雨滴与黄昏.txt"
+},
+{
+"type": "file",
+"name": "001-07 慢慢前进吧.txt"
+},
+{
+"type": "file",
+"name": "001-08 我们的星空.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "002 被囚禁的提线木偶 (N25_朝比奈真冬)",
+"children": [
+{
+"type": "file",
+"name": "002-01 感受.txt"
+},
+{
+"type": "file",
+"name": "002-02 收到的门票.txt"
+},
+{
+"type": "file",
+"name": "002-03 想要更加了解.txt"
+},
+{
+"type": "file",
+"name": "002-04 笼中的提线木偶.txt"
+},
+{
+"type": "file",
+"name": "002-05 同类相斥.txt"
+},
+{
+"type": "file",
+"name": "002-06 做梦的人偶.txt"
+},
+{
+"type": "file",
+"name": "002-07 厌恶与疼痛.txt"
+},
+{
+"type": "file",
+"name": "002-08 尽管还是不明白.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "003 全力以赴！奇幻万圣节！ (WxS_神代类)",
+"children": [
+{
+"type": "file",
+"name": "003-01 崭新的日子.txt"
+},
+{
+"type": "file",
+"name": "003-02 表演大赛！.txt"
+},
+{
+"type": "file",
+"name": "003-03 出人意料的台仓.txt"
+},
+{
+"type": "file",
+"name": "003-04 看不见的变化.txt"
+},
+{
+"type": "file",
+"name": "003-05 最棒的舞台效果.txt"
+},
+{
+"type": "file",
+"name": "003-06 演员与导演.txt"
+},
+{
+"type": "file",
+"name": "003-07 让我们竭尽全力.txt"
+},
+{
+"type": "file",
+"name": "003-08 不管有没有点心.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "004 奔跑吧！体育节！～组织委员晕头转向～ (Mix_凤笑梦)",
+"children": [
+{
+"type": "file",
+"name": "004-01 组织委员的推荐.txt"
+},
+{
+"type": "file",
+"name": "004-02 等一下～～～！.txt"
+},
+{
+"type": "file",
+"name": "004-03 开始行动！.txt"
+},
+{
+"type": "file",
+"name": "004-04 和学姐一起.txt"
+},
+{
+"type": "file",
+"name": "004-05 「世界」的啦啦队！.txt"
+},
+{
+"type": "file",
+"name": "004-06 把接力棒传下去.txt"
+},
+{
+"type": "file",
+"name": "004-07 数不清的“恭喜”.txt"
+},
+{
+"type": "file",
+"name": "004-08 明天也要绽放笑容.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "005 此时此地再次启程！ (MMJ_桃井爱莉)",
+"children": [
+{
+"type": "file",
+"name": "005-01 我也要成为偶像！.txt"
+},
+{
+"type": "file",
+"name": "005-02 四个人一起开始.txt"
+},
+{
+"type": "file",
+"name": "005-03 令人不安的传闻.txt"
+},
+{
+"type": "file",
+"name": "005-04 最后的希望.txt"
+},
+{
+"type": "file",
+"name": "005-05 理想与现实.txt"
+},
+{
+"type": "file",
+"name": "005-06 无论何时都要面带笑容.txt"
+},
+{
+"type": "file",
+"name": "005-07 新的选项.txt"
+},
+{
+"type": "file",
+"name": "005-08 我们选择的道路.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "006 总有一天为你献上心连心的抒情诗 (VBS_白石杏)",
+"children": [
+{
+"type": "file",
+"name": "006-01 “STAY GOLD”.txt"
+},
+{
+"type": "file",
+"name": "006-02 突然消失的声音.txt"
+},
+{
+"type": "file",
+"name": "006-03 不和谐的声音.txt"
+},
+{
+"type": "file",
+"name": "006-04 失败.txt"
+},
+{
+"type": "file",
+"name": "006-05 儿时伙伴的建议.txt"
+},
+{
+"type": "file",
+"name": "006-06 同为新手.txt"
+},
+{
+"type": "file",
+"name": "006-07 小小的一步.txt"
+},
+{
+"type": "file",
+"name": "006-08 为了成为搭档.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "007 神山高校校园庆典！ (Mix_晓山瑞希)",
+"children": [
+{
+"type": "file",
+"name": "007-01 我与文化节.txt"
+},
+{
+"type": "file",
+"name": "007-02 发现绘名弟弟了！.txt"
+},
+{
+"type": "file",
+"name": "007-03 去看演出吧！.txt"
+},
+{
+"type": "file",
+"name": "007-04 寻找学长！.txt"
+},
+{
+"type": "file",
+"name": "007-05 同款T恤.txt"
+},
+{
+"type": "file",
+"name": "007-06 昔日的文化节.txt"
+},
+{
+"type": "file",
+"name": "007-07 在只有两个人的天台.txt"
+},
+{
+"type": "file",
+"name": "007-08 我的文化节.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "008 让歌声响彻，神圣之夜 (WxS_草薙宁宁)",
+"children": [
+{
+"type": "file",
+"name": "008-01 “微笑圣诞节”.txt"
+},
+{
+"type": "file",
+"name": "008-02 侦察！菲尼克斯舞台.txt"
+},
+{
+"type": "file",
+"name": "008-03 做不到那样.txt"
+},
+{
+"type": "file",
+"name": "008-04 我曾经的歌唱方式.txt"
+},
+{
+"type": "file",
+"name": "008-05 那天观看的演出.txt"
+},
+{
+"type": "file",
+"name": "008-06 施个魔法.txt"
+},
+{
+"type": "file",
+"name": "008-07 「世界」的新成员？！.txt"
+},
+{
+"type": "file",
+"name": "008-08 圣诞快乐！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "009 「世界」的Happy New Year！ (Mix_初音未来-VBS)",
+"children": [
+{
+"type": "file",
+"name": "009-01 「世界」的狭缝中.txt"
+},
+{
+"type": "file",
+"name": "009-02 度过一年最后一天.txt"
+},
+{
+"type": "file",
+"name": "009-03 倒计时派对！.txt"
+},
+{
+"type": "file",
+"name": "009-04 偶像们的新年♪.txt"
+},
+{
+"type": "file",
+"name": "009-05 偶尔清闲一下.txt"
+},
+{
+"type": "file",
+"name": "009-06 板羽球大战！.txt"
+},
+{
+"type": "file",
+"name": "009-07 最强团队登场？.txt"
+},
+{
+"type": "file",
+"name": "009-08 与舞狮机器人玩耍！.txt"
+},
+{
+"type": "file",
+"name": "009-09 抓捕舞狮机器人大作战！.txt"
+},
+{
+"type": "file",
+"name": "009-10 和未来一起去新年参拜.txt"
+},
+{
+"type": "file",
+"name": "009-11 今年，以及明年.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "010 即使摇摆不定，但毅然勇往直前 (Ln_望月穗波)",
+"children": [
+{
+"type": "file",
+"name": "010-01 另一位学姐.txt"
+},
+{
+"type": "file",
+"name": "010-02 乐队的支柱.txt"
+},
+{
+"type": "file",
+"name": "010-03 曲折的合唱节？！.txt"
+},
+{
+"type": "file",
+"name": "010-04 动摇的心.txt"
+},
+{
+"type": "file",
+"name": "010-05 温柔与勇敢.txt"
+},
+{
+"type": "file",
+"name": "010-06 我能做到的事.txt"
+},
+{
+"type": "file",
+"name": "010-07 向前迈进一步.txt"
+},
+{
+"type": "file",
+"name": "010-08 心中的光.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "011 Color of Myself! (MMJ_日野森雫)",
+"children": [
+{
+"type": "file",
+"name": "011-01 开始直播！.txt"
+},
+{
+"type": "file",
+"name": "011-02 「世界」的新偶像？！.txt"
+},
+{
+"type": "file",
+"name": "011-03 崩塌的“完美”.txt"
+},
+{
+"type": "file",
+"name": "011-04 捏造的人设.txt"
+},
+{
+"type": "file",
+"name": "011-05 不被期待的“我”.txt"
+},
+{
+"type": "file",
+"name": "011-06 不加修饰的话语.txt"
+},
+{
+"type": "file",
+"name": "011-07 做出决定.txt"
+},
+{
+"type": "file",
+"name": "011-08 做最真实的自己.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "012 Period of NOCTURNE (VBS_青柳冬弥)",
+"children": [
+{
+"type": "file",
+"name": "012-01 不相交的五线谱.txt"
+},
+{
+"type": "file",
+"name": "012-02 被束缚的旋律.txt"
+},
+{
+"type": "file",
+"name": "012-03 欠缺之物.txt"
+},
+{
+"type": "file",
+"name": "012-04 无法传达的话语.txt"
+},
+{
+"type": "file",
+"name": "012-05 彼此坚信的事物.txt"
+},
+{
+"type": "file",
+"name": "012-06 激励的话语.txt"
+},
+{
+"type": "file",
+"name": "012-07 破晓的旋律.txt"
+},
+{
+"type": "file",
+"name": "012-08 那只手抓住的光芒.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "013 回响于耳畔的暮色巡游 (Mix_日野森志步)",
+"children": [
+{
+"type": "file",
+"name": "013-01 难以抉择.txt"
+},
+{
+"type": "file",
+"name": "013-02 交叉的邂逅.txt"
+},
+{
+"type": "file",
+"name": "013-03 初次见面？！Wonderhoi!.txt"
+},
+{
+"type": "file",
+"name": "013-04 给大家带来笑容的地方.txt"
+},
+{
+"type": "file",
+"name": "013-05 创造回忆吧！.txt"
+},
+{
+"type": "file",
+"name": "013-06 用歌声带来笑容.txt"
+},
+{
+"type": "file",
+"name": "013-07 我选择这里的原因.txt"
+},
+{
+"type": "file",
+"name": "013-08 不断膨胀的迷茫.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "014 饱和不了的黯淡色彩 (N25_东云绘名)",
+"children": [
+{
+"type": "file",
+"name": "014-01 无法满足的心.txt"
+},
+{
+"type": "file",
+"name": "014-02 让他刮目相看.txt"
+},
+{
+"type": "file",
+"name": "014-03 平庸之辈.txt"
+},
+{
+"type": "file",
+"name": "014-04 一个人的「世界」.txt"
+},
+{
+"type": "file",
+"name": "014-05 想要帮助你.txt"
+},
+{
+"type": "file",
+"name": "014-06 最重要的事.txt"
+},
+{
+"type": "file",
+"name": "014-07 若想获得认可.txt"
+},
+{
+"type": "file",
+"name": "014-08 我画画的意义.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "015 梦想家的笑容 (WxS_凤笑梦)",
+"children": [
+{
+"type": "file",
+"name": "015-01 笑容背后.txt"
+},
+{
+"type": "file",
+"name": "015-02 突如其来的宣言.txt"
+},
+{
+"type": "file",
+"name": "015-03 即便那是“理想”.txt"
+},
+{
+"type": "file",
+"name": "015-04 希望将何去何从.txt"
+},
+{
+"type": "file",
+"name": "015-05 希望你能说出来.txt"
+},
+{
+"type": "file",
+"name": "015-06 比起泫然欲泣的笑容.txt"
+},
+{
+"type": "file",
+"name": "015-07 想守护的地方.txt"
+},
+{
+"type": "file",
+"name": "015-08 反击的信号.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "016 天马家的女儿节 (WxS_天马咲希)",
+"children": [
+{
+"type": "file",
+"name": "016-01 破旧的女儿节人偶.txt"
+},
+{
+"type": "file",
+"name": "016-02 呼噜呼噜……呼——？.txt"
+},
+{
+"type": "file",
+"name": "016-03 苦涩的回忆.txt"
+},
+{
+"type": "file",
+"name": "016-04 出其不意的惊喜？！.txt"
+},
+{
+"type": "file",
+"name": "016-05 垂头丧气的两人.txt"
+},
+{
+"type": "file",
+"name": "016-06 该去的地方.txt"
+},
+{
+"type": "file",
+"name": "016-07 摔得比人偶还要惨…….txt"
+},
+{
+"type": "file",
+"name": "016-08 笑容背后的真相.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "017 传递心声！充满希望的舞台♪ (MMJ_花里实乃理)",
+"children": [
+{
+"type": "file",
+"name": "017-01 只有三片叶子的幸运草.txt"
+},
+{
+"type": "file",
+"name": "017-02 重大消息！.txt"
+},
+{
+"type": "file",
+"name": "017-03 联合直播开播♪.txt"
+},
+{
+"type": "file",
+"name": "017-04 一定要成功！.txt"
+},
+{
+"type": "file",
+"name": "017-05 偶像必备的专业素养.txt"
+},
+{
+"type": "file",
+"name": "017-06 意想不到的邂逅.txt"
+},
+{
+"type": "file",
+"name": "017-07 只有我才能做到的事.txt"
+},
+{
+"type": "file",
+"name": "017-08 幸运草的第四片叶子.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "018 在樱花烂漫的世界中与你高歌 (Mix_星乃一歌)",
+"children": [
+{
+"type": "file",
+"name": "018-01 我想唱得更好.txt"
+},
+{
+"type": "file",
+"name": "018-02 独自一人在街头.txt"
+},
+{
+"type": "file",
+"name": "018-03 我们的梦想.txt"
+},
+{
+"type": "file",
+"name": "018-04 第一次收获掌声.txt"
+},
+{
+"type": "file",
+"name": "018-05 重拾回忆.txt"
+},
+{
+"type": "file",
+"name": "018-06 学姐和学妹.txt"
+},
+{
+"type": "file",
+"name": "018-07 两人眼中的樱花.txt"
+},
+{
+"type": "file",
+"name": "018-08 在樱花烂漫的季节相遇.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "019 Secret Distance (N25_晓山瑞希)",
+"children": [
+{
+"type": "file",
+"name": "019-01 为了增进了解.txt"
+},
+{
+"type": "file",
+"name": "019-02 奏的瓶颈期.txt"
+},
+{
+"type": "file",
+"name": "019-03 神秘之旅，出发！.txt"
+},
+{
+"type": "file",
+"name": "019-04 没见过的表情.txt"
+},
+{
+"type": "file",
+"name": "019-05 最后的灵异地点.txt"
+},
+{
+"type": "file",
+"name": "019-06 明明都是樱花.txt"
+},
+{
+"type": "file",
+"name": "019-07 片刻的幸福.txt"
+},
+{
+"type": "file",
+"name": "019-08 未坦白的心绪.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "020 Resonate with you (Ln_日野森志步)",
+"children": [
+{
+"type": "file",
+"name": "020-01 不为人知的心愿.txt"
+},
+{
+"type": "file",
+"name": "020-02 不期而遇.txt"
+},
+{
+"type": "file",
+"name": "020-03 我的梦想.txt"
+},
+{
+"type": "file",
+"name": "020-04 责任与决心.txt"
+},
+{
+"type": "file",
+"name": "020-05 想要给出回答.txt"
+},
+{
+"type": "file",
+"name": "020-06 倾诉心愿.txt"
+},
+{
+"type": "file",
+"name": "020-07 突如其来的机会.txt"
+},
+{
+"type": "file",
+"name": "020-08 在心中回响！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "021 STRAY BAD DOG (VBS_东云彰人)",
+"children": [
+{
+"type": "file",
+"name": "021-01 肉眼可见的成长.txt"
+},
+{
+"type": "file",
+"name": "021-02 神秘的实力派.txt"
+},
+{
+"type": "file",
+"name": "021-03 冲突.txt"
+},
+{
+"type": "file",
+"name": "021-04 那是理所当然的.txt"
+},
+{
+"type": "file",
+"name": "021-05 一意孤行的背影.txt"
+},
+{
+"type": "file",
+"name": "021-06 身为搭档力所能及的事.txt"
+},
+{
+"type": "file",
+"name": "021-07 一雪前耻.txt"
+},
+{
+"type": "file",
+"name": "021-08 团队的意义.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "022 让我分担你的烦恼！心跳雀跃的郊游 (Mix_东云绘名)",
+"children": [
+{
+"type": "file",
+"name": "022-01 新的邂逅.txt"
+},
+{
+"type": "file",
+"name": "022-02 去郊游！.txt"
+},
+{
+"type": "file",
+"name": "022-03 藏在色彩中的真心话.txt"
+},
+{
+"type": "file",
+"name": "022-04 为朋友着想.txt"
+},
+{
+"type": "file",
+"name": "022-05 坎坷的岔路.txt"
+},
+{
+"type": "file",
+"name": "022-06 我想帮助你的原因.txt"
+},
+{
+"type": "file",
+"name": "022-07 出乎意料的救兵.txt"
+},
+{
+"type": "file",
+"name": "022-08 愿你有一天可以敞开心扉.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "023 为努力的你营造闲暇时光！ (MMJ_桐谷遥)",
+"children": [
+{
+"type": "file",
+"name": "023-01 为了粉丝们.txt"
+},
+{
+"type": "file",
+"name": "023-02 「世界」的新偶像.txt"
+},
+{
+"type": "file",
+"name": "023-03 担心.txt"
+},
+{
+"type": "file",
+"name": "023-04 你总是这样.txt"
+},
+{
+"type": "file",
+"name": "023-05 休息日的计划.txt"
+},
+{
+"type": "file",
+"name": "023-06 本想让你休息一下.txt"
+},
+{
+"type": "file",
+"name": "023-07 一件想做的事.txt"
+},
+{
+"type": "file",
+"name": "023-08 幸福的蓝色企鹅.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "024 为纯白的你唱响誓言之歌！ (Mix_青柳冬弥)",
+"children": [
+{
+"type": "file",
+"name": "024-01 事发仓促的代演.txt"
+},
+{
+"type": "file",
+"name": "024-02 混乱的婚礼现场.txt"
+},
+{
+"type": "file",
+"name": "024-03 抛开迟疑.txt"
+},
+{
+"type": "file",
+"name": "024-04 导演的指示.txt"
+},
+{
+"type": "file",
+"name": "024-05 为了完成当下的演出.txt"
+},
+{
+"type": "file",
+"name": "024-06 信赖与理解.txt"
+},
+{
+"type": "file",
+"name": "024-07 与众不同的婚礼演出！.txt"
+},
+{
+"type": "file",
+"name": "024-08 笑容与梦想.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "025 奇幻魔法表演时间！ (WxS_天马司)",
+"children": [
+{
+"type": "file",
+"name": "025-01 各自的思绪与心愿.txt"
+},
+{
+"type": "file",
+"name": "025-02 当下最重要的事物.txt"
+},
+{
+"type": "file",
+"name": "025-03 相连的心愿.txt"
+},
+{
+"type": "file",
+"name": "025-04 明星的热烈演讲！.txt"
+},
+{
+"type": "file",
+"name": "025-05 准备开演！.txt"
+},
+{
+"type": "file",
+"name": "025-06 笑容魔法师.txt"
+},
+{
+"type": "file",
+"name": "025-07 延续心愿.txt"
+},
+{
+"type": "file",
+"name": "025-08 连接未来的盛大终幕.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "026 珍藏在心中的康乃馨 (N25_宵崎奏)",
+"children": [
+{
+"type": "file",
+"name": "026-01 仍未引起共鸣.txt"
+},
+{
+"type": "file",
+"name": "026-02 流歌的话语.txt"
+},
+{
+"type": "file",
+"name": "026-03 泪之雨.txt"
+},
+{
+"type": "file",
+"name": "026-04 寻找线索.txt"
+},
+{
+"type": "file",
+"name": "026-05 遥远记忆中的花田.txt"
+},
+{
+"type": "file",
+"name": "026-06 本已忘却的幸福.txt"
+},
+{
+"type": "file",
+"name": "026-07 迷宫深处的某物.txt"
+},
+{
+"type": "file",
+"name": "026-08 微笑.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "027 Unnamed Harmony (Ln_天马咲希)",
+"children": [
+{
+"type": "file",
+"name": "027-01 向着职业选手进发.txt"
+},
+{
+"type": "file",
+"name": "027-02 新的音色.txt"
+},
+{
+"type": "file",
+"name": "027-03 我能做到的事.txt"
+},
+{
+"type": "file",
+"name": "027-04 仍未抵达目标.txt"
+},
+{
+"type": "file",
+"name": "027-05 现在就默默守望吧.txt"
+},
+{
+"type": "file",
+"name": "027-06 闪闪发光的路标.txt"
+},
+{
+"type": "file",
+"name": "027-07 终于掌握的事物.txt"
+},
+{
+"type": "file",
+"name": "027-08 想传达的心愿.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "028 Awakening Beat (VBS_小豆泽心羽)",
+"children": [
+{
+"type": "file",
+"name": "028-01 四个人一起.txt"
+},
+{
+"type": "file",
+"name": "028-02 神秘男人.txt"
+},
+{
+"type": "file",
+"name": "028-03 关于直面自己.txt"
+},
+{
+"type": "file",
+"name": "028-04 获得自信的方法.txt"
+},
+{
+"type": "file",
+"name": "028-05 迈步向前的勇气.txt"
+},
+{
+"type": "file",
+"name": "028-06 复仇赛之前.txt"
+},
+{
+"type": "file",
+"name": "028-07 相信我.txt"
+},
+{
+"type": "file",
+"name": "028-08 在大家身边.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "029 夏日庆典，那响彻云霄的声音 (Mix_东云彰人)",
+"children": [
+{
+"type": "file",
+"name": "029-01 记忆中的挫折.txt"
+},
+{
+"type": "file",
+"name": "029-02 夏日庆典的邀请函.txt"
+},
+{
+"type": "file",
+"name": "029-03 怎么你也要去啊.txt"
+},
+{
+"type": "file",
+"name": "029-04 过去的话语.txt"
+},
+{
+"type": "file",
+"name": "029-05 涩谷夏日庆典！.txt"
+},
+{
+"type": "file",
+"name": "029-06 我不会放弃的.txt"
+},
+{
+"type": "file",
+"name": "029-07 成就当下的话语.txt"
+},
+{
+"type": "file",
+"name": "029-08 走在石板路上.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "030 这一定是最棒的summer！ (Mix_望月穗波)",
+"children": [
+{
+"type": "file",
+"name": "030-01 我们来了！海滨夏令营.txt"
+},
+{
+"type": "file",
+"name": "030-02 汇演表演什么好呢？.txt"
+},
+{
+"type": "file",
+"name": "030-03 不合拍的音色.txt"
+},
+{
+"type": "file",
+"name": "030-04 更加自由.txt"
+},
+{
+"type": "file",
+"name": "030-05 寻得的和声.txt"
+},
+{
+"type": "file",
+"name": "030-06 突如其来的事件.txt"
+},
+{
+"type": "file",
+"name": "030-07 大家一起编织的故事.txt"
+},
+{
+"type": "file",
+"name": "030-08 最棒的夏天.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "031 Happy lovely everyday! (MMJ_桃井爱莉)",
+"children": [
+{
+"type": "file",
+"name": "031-01 演出委托？！.txt"
+},
+{
+"type": "file",
+"name": "031-02 为了小朋友们！.txt"
+},
+{
+"type": "file",
+"name": "031-03 难以走出的过去.txt"
+},
+{
+"type": "file",
+"name": "031-04 有没有传递到呢.txt"
+},
+{
+"type": "file",
+"name": "031-05 为了传递这份心愿.txt"
+},
+{
+"type": "file",
+"name": "031-06 身为偶像.txt"
+},
+{
+"type": "file",
+"name": "031-07 快乐每一天登场！.txt"
+},
+{
+"type": "file",
+"name": "031-08 “偶像”桃井爱莉.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "032 对美人鱼充满憧憬 (WxS_草薙宁宁)",
+"children": [
+{
+"type": "file",
+"name": "032-01 开始担任宣传大使！.txt"
+},
+{
+"type": "file",
+"name": "032-02 回忆中的人鱼公主.txt"
+},
+{
+"type": "file",
+"name": "032-03 Summer Showtime！.txt"
+},
+{
+"type": "file",
+"name": "032-04 崇拜的人.txt"
+},
+{
+"type": "file",
+"name": "032-05 一波三折的最终公演.txt"
+},
+{
+"type": "file",
+"name": "032-06 鼓起勇气，努力串场.txt"
+},
+{
+"type": "file",
+"name": "032-07 尚未知晓的世界.txt"
+},
+{
+"type": "file",
+"name": "032-08 现在就尽力而为吧.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "033 两人与月兔 (Mix_日野森雫)",
+"children": [
+{
+"type": "file",
+"name": "033-01 新季节的企划.txt"
+},
+{
+"type": "file",
+"name": "033-02 将儿时的回忆…….txt"
+},
+{
+"type": "file",
+"name": "033-03 将秋天作为主题.txt"
+},
+{
+"type": "file",
+"name": "033-04 那次赏月.txt"
+},
+{
+"type": "file",
+"name": "033-05 兔子形状的团子.txt"
+},
+{
+"type": "file",
+"name": "033-06 专业的素养.txt"
+},
+{
+"type": "file",
+"name": "033-07 在月夜之下.txt"
+},
+{
+"type": "file",
+"name": "033-08 得到的东西，给予的东西.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "034 Knock the Future!! (Ln_星乃一歌)",
+"children": [
+{
+"type": "file",
+"name": "034-01 与旋律相配的歌词.txt"
+},
+{
+"type": "file",
+"name": "034-02 重大新闻.txt"
+},
+{
+"type": "file",
+"name": "034-03 表现方法.txt"
+},
+{
+"type": "file",
+"name": "034-04 意想不到的建议.txt"
+},
+{
+"type": "file",
+"name": "034-05 经过粉饰的话语，不加修饰的话语.txt"
+},
+{
+"type": "file",
+"name": "034-06 不必觉得难为情.txt"
+},
+{
+"type": "file",
+"name": "034-07 开始的一步.txt"
+},
+{
+"type": "file",
+"name": "034-08 打开的门扉.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "035 光之幻影 (N25_朝比奈真冬)",
+"children": [
+{
+"type": "file",
+"name": "035-01 无迹可寻的钥匙孔.txt"
+},
+{
+"type": "file",
+"name": "035-02 我的相册.txt"
+},
+{
+"type": "file",
+"name": "035-03 曾经的回忆.txt"
+},
+{
+"type": "file",
+"name": "035-04 百忙之中.txt"
+},
+{
+"type": "file",
+"name": "035-05 苹果之梦.txt"
+},
+{
+"type": "file",
+"name": "035-06 希望你露出笑容.txt"
+},
+{
+"type": "file",
+"name": "035-07 想要抵达的目的地.txt"
+},
+{
+"type": "file",
+"name": "035-08 微弱的光亮.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "036 缤纷粉丝节！ (Mix_花里实乃理)",
+"children": [
+{
+"type": "file",
+"name": "036-01 粉丝节！.txt"
+},
+{
+"type": "file",
+"name": "036-02 大家一起出场吧！.txt"
+},
+{
+"type": "file",
+"name": "036-03 好想去听啊.txt"
+},
+{
+"type": "file",
+"name": "036-04 互相呼应的想法.txt"
+},
+{
+"type": "file",
+"name": "036-05 第一次联合练习.txt"
+},
+{
+"type": "file",
+"name": "036-06 化身为角色跳舞吧！.txt"
+},
+{
+"type": "file",
+"name": "036-07 意想不到的邂逅.txt"
+},
+{
+"type": "file",
+"name": "036-08 正式演出前的加油声.txt"
+},
+{
+"type": "file",
+"name": "036-09 带着我一如既往的笑容.txt"
+},
+{
+"type": "file",
+"name": "036-10 还想传达更多更多.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "037 Bout for Beside You (VBS_白石杏)",
+"children": [
+{
+"type": "file",
+"name": "037-01 奇怪的感觉.txt"
+},
+{
+"type": "file",
+"name": "037-02 神秘男人的真实身份.txt"
+},
+{
+"type": "file",
+"name": "037-03 意想不到的邀约.txt"
+},
+{
+"type": "file",
+"name": "037-04 愈发强烈的烦闷感.txt"
+},
+{
+"type": "file",
+"name": "037-05 小巷中的对话.txt"
+},
+{
+"type": "file",
+"name": "037-06 烦闷的理由.txt"
+},
+{
+"type": "file",
+"name": "037-07 只为向前.txt"
+},
+{
+"type": "file",
+"name": "037-08 从今往后也相伴而行.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "038 重燃的梦想 (WxS_神代类)",
+"children": [
+{
+"type": "file",
+"name": "038-01 洋房与榉树的舞台.txt"
+},
+{
+"type": "file",
+"name": "038-02 城市居民与森林居民.txt"
+},
+{
+"type": "file",
+"name": "038-03 在孤身一人的车库里.txt"
+},
+{
+"type": "file",
+"name": "038-04 在两人相伴的舞台上.txt"
+},
+{
+"type": "file",
+"name": "038-05 无法跨越的隔阂.txt"
+},
+{
+"type": "file",
+"name": "038-06 因为大家的信任.txt"
+},
+{
+"type": "file",
+"name": "038-07 跳跃过去吧！.txt"
+},
+{
+"type": "file",
+"name": "038-08 为昔日的梦想喝彩.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "039 我的足迹 你的止境 (N25_晓山瑞希)",
+"children": [
+{
+"type": "file",
+"name": "039-01 和大家的距离.txt"
+},
+{
+"type": "file",
+"name": "039-02 不期而遇.txt"
+},
+{
+"type": "file",
+"name": "039-03 停止思考.txt"
+},
+{
+"type": "file",
+"name": "039-04 微小的扭曲.txt"
+},
+{
+"type": "file",
+"name": "039-05 龟裂.txt"
+},
+{
+"type": "file",
+"name": "039-06 请用你的双眼去见证.txt"
+},
+{
+"type": "file",
+"name": "039-07 要是全世界只有我一个人.txt"
+},
+{
+"type": "file",
+"name": "039-08 我的谎言.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "040 矢志不摇的心愿，此刻以话语传达 (Ln_望月穗波)",
+"children": [
+{
+"type": "file",
+"name": "040-01 做我能做的事.txt"
+},
+{
+"type": "file",
+"name": "040-02 规划日程表时注意到的事.txt"
+},
+{
+"type": "file",
+"name": "040-03 暗中定下的决心.txt"
+},
+{
+"type": "file",
+"name": "040-04 为了乐队.txt"
+},
+{
+"type": "file",
+"name": "040-05 裂痕.txt"
+},
+{
+"type": "file",
+"name": "040-06 必要的争吵.txt"
+},
+{
+"type": "file",
+"name": "040-07 毫不动摇的心愿.txt"
+},
+{
+"type": "file",
+"name": "040-08 希望你能依靠我.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "041 搭档·趣事·欢乐时刻♪ (Mix_小豆泽心羽)",
+"children": [
+{
+"type": "file",
+"name": "041-01 四个人一起！.txt"
+},
+{
+"type": "file",
+"name": "041-02 心跳不已的购物♪.txt"
+},
+{
+"type": "file",
+"name": "041-03 平等的关系.txt"
+},
+{
+"type": "file",
+"name": "041-04 为了能昂首挺胸地站在你身边.txt"
+},
+{
+"type": "file",
+"name": "041-05 前往菲尼乐园！.txt"
+},
+{
+"type": "file",
+"name": "041-06 难以启齿的心意，想要传达的心意.txt"
+},
+{
+"type": "file",
+"name": "041-07 只要你能露出笑容.txt"
+},
+{
+"type": "file",
+"name": "041-08 让笑容常伴身边.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "042 交织的旋律 点亮的温暖 (Mix_朝比奈真冬)",
+"children": [
+{
+"type": "file",
+"name": "042-01 面对最后一张.txt"
+},
+{
+"type": "file",
+"name": "042-02 出人意料的共同点.txt"
+},
+{
+"type": "file",
+"name": "042-03 想聊一聊.txt"
+},
+{
+"type": "file",
+"name": "042-04 不同于自己的歌词.txt"
+},
+{
+"type": "file",
+"name": "042-05 想知道理由.txt"
+},
+{
+"type": "file",
+"name": "042-06 因音乐而邂逅.txt"
+},
+{
+"type": "file",
+"name": "042-07 注入歌曲中的心愿.txt"
+},
+{
+"type": "file",
+"name": "042-08 冰消雪融.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "043 MOREMOREMakingXmas (MMJ_花里实乃理)",
+"children": [
+{
+"type": "file",
+"name": "043-01 举办线下活动吧！.txt"
+},
+{
+"type": "file",
+"name": "043-02 举办活动所需要的东西.txt"
+},
+{
+"type": "file",
+"name": "043-03 粉丝寄来的邮件.txt"
+},
+{
+"type": "file",
+"name": "043-04 偶像兼经纪人？.txt"
+},
+{
+"type": "file",
+"name": "043-05 踏出一步.txt"
+},
+{
+"type": "file",
+"name": "043-06 一起举办吧！.txt"
+},
+{
+"type": "file",
+"name": "043-07 想传达出去的声音.txt"
+},
+{
+"type": "file",
+"name": "043-08 第一次握手会.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "044 Same Dreams,Same Colors (VBS_青柳冬弥)",
+"children": [
+{
+"type": "file",
+"name": "044-01 自由的歌声.txt"
+},
+{
+"type": "file",
+"name": "044-02 看不见的景色.txt"
+},
+{
+"type": "file",
+"name": "044-03 为了成长.txt"
+},
+{
+"type": "file",
+"name": "044-04 心潮澎湃的夜晚.txt"
+},
+{
+"type": "file",
+"name": "044-05 来搭帐篷吧！.txt"
+},
+{
+"type": "file",
+"name": "044-06 我们各自能做到的事.txt"
+},
+{
+"type": "file",
+"name": "044-07 只有我能做到的事.txt"
+},
+{
+"type": "file",
+"name": "044-08 大家一起欣赏同样的景色.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "045 祈愿的未来 憧憬的明天 (Mix_桐谷遥)",
+"children": [
+{
+"type": "file",
+"name": "045-01 新年参拜的约定.txt"
+},
+{
+"type": "file",
+"name": "045-02 给巫女帮忙？.txt"
+},
+{
+"type": "file",
+"name": "045-03 各自的新年.txt"
+},
+{
+"type": "file",
+"name": "045-04 各自的新年参拜.txt"
+},
+{
+"type": "file",
+"name": "045-05 宏大的愿望.txt"
+},
+{
+"type": "file",
+"name": "045-06 新年快乐！.txt"
+},
+{
+"type": "file",
+"name": "045-07 一如既往的练习日.txt"
+},
+{
+"type": "file",
+"name": "045-08 开始新年参拜演出！.txt"
+},
+{
+"type": "file",
+"name": "045-09 希望愿望成真.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "046 POP IN MY HEART!! (WxS_凤笑梦)",
+"children": [
+{
+"type": "file",
+"name": "046-01 将想法化作现实.txt"
+},
+{
+"type": "file",
+"name": "046-02 一起去梦幻乐园吧！.txt"
+},
+{
+"type": "file",
+"name": "046-03 最顶级的演出.txt"
+},
+{
+"type": "file",
+"name": "046-04 让迷路的孩子绽放笑容！.txt"
+},
+{
+"type": "file",
+"name": "046-05 初次知晓的细节.txt"
+},
+{
+"type": "file",
+"name": "046-06 《开心时刻》区域.txt"
+},
+{
+"type": "file",
+"name": "046-07 先一起拥有远大的梦想.txt"
+},
+{
+"type": "file",
+"name": "046-08 无论是梦想还是现实.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "047 总有一天，会从绝望的深渊 (N25_宵崎奏)",
+"children": [
+{
+"type": "file",
+"name": "047-01 回顾过往.txt"
+},
+{
+"type": "file",
+"name": "047-02 回忆，直达那一天的黑暗.txt"
+},
+{
+"type": "file",
+"name": "047-03 在淤塞的绝望之渊.txt"
+},
+{
+"type": "file",
+"name": "047-04 产生动摇的心.txt"
+},
+{
+"type": "file",
+"name": "047-05 同样绝望的音色.txt"
+},
+{
+"type": "file",
+"name": "047-06 另一场邂逅.txt"
+},
+{
+"type": "file",
+"name": "047-07 于是再次相逢.txt"
+},
+{
+"type": "file",
+"name": "047-08 向着微弱的光亮前进.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "048 秘密♡情人节大作战！ (Mix_桃井爱莉)",
+"children": [
+{
+"type": "file",
+"name": "048-01 结成情人节秘密同盟！.txt"
+},
+{
+"type": "file",
+"name": "048-02 希望大家能开心.txt"
+},
+{
+"type": "file",
+"name": "048-03 制作点心的准备活动！.txt"
+},
+{
+"type": "file",
+"name": "048-04 第四位情人节同盟成员！.txt"
+},
+{
+"type": "file",
+"name": "048-05 Let's make sweets♪.txt"
+},
+{
+"type": "file",
+"name": "048-06 突如其来的事件？！.txt"
+},
+{
+"type": "file",
+"name": "048-07 各自作战的当天.txt"
+},
+{
+"type": "file",
+"name": "048-08 情人节快乐！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "049 Legend still vivid (VBS_小豆泽心羽)",
+"children": [
+{
+"type": "file",
+"name": "049-01 尚未知晓的传说.txt"
+},
+{
+"type": "file",
+"name": "049-02 追寻那个夜晚的足迹.txt"
+},
+{
+"type": "file",
+"name": "049-03 受到邀请，得到引领.txt"
+},
+{
+"type": "file",
+"name": "049-04 传说诞生之地.txt"
+},
+{
+"type": "file",
+"name": "049-05 牢牢记住曾经的景色.txt"
+},
+{
+"type": "file",
+"name": "049-06 留下的记录.txt"
+},
+{
+"type": "file",
+"name": "049-07 “RAD WEEKEND”.txt"
+},
+{
+"type": "file",
+"name": "049-08 高高耸立的墙壁.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "050 那一天，天空遥不可及 (Ln_日野森志步)",
+"children": [
+{
+"type": "file",
+"name": "050-01 细细品味“当下”.txt"
+},
+{
+"type": "file",
+"name": "050-02 那时的我…….txt"
+},
+{
+"type": "file",
+"name": "050-03 我所选择的孤独.txt"
+},
+{
+"type": "file",
+"name": "050-04 由音乐催生的邂逅.txt"
+},
+{
+"type": "file",
+"name": "050-05 些许期待.txt"
+},
+{
+"type": "file",
+"name": "050-06 隐匿在黄昏下的心愿.txt"
+},
+{
+"type": "file",
+"name": "050-07 因为有无法舍弃的心愿.txt"
+},
+{
+"type": "file",
+"name": "050-08 道路前方的“此刻”.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "051 慌慌张张？！怪盗绅士的白色情人节 (Mix_天马司)",
+"children": [
+{
+"type": "file",
+"name": "051-01 策划惊喜.txt"
+},
+{
+"type": "file",
+"name": "051-02 “巧克力工厂”.txt"
+},
+{
+"type": "file",
+"name": "051-03 制作各自的回礼.txt"
+},
+{
+"type": "file",
+"name": "051-04 开演！怪盗绅士与巧克力妖精.txt"
+},
+{
+"type": "file",
+"name": "051-05 突如其来的意外.txt"
+},
+{
+"type": "file",
+"name": "051-06 为了迎接圆满结局.txt"
+},
+{
+"type": "file",
+"name": "051-07 充满笑容的大团圆.txt"
+},
+{
+"type": "file",
+"name": "051-08 独一无二的白色情人节.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "052 Cast Spell on You (MMJ_日野森雫)",
+"children": [
+{
+"type": "file",
+"name": "052-01 与粉丝相伴前行的道路.txt"
+},
+{
+"type": "file",
+"name": "052-02 我们的舞台服装.txt"
+},
+{
+"type": "file",
+"name": "052-03 为了大家.txt"
+},
+{
+"type": "file",
+"name": "052-04 各自的设计.txt"
+},
+{
+"type": "file",
+"name": "052-05 我想制作的是…….txt"
+},
+{
+"type": "file",
+"name": "052-06 就像魔法一样.txt"
+},
+{
+"type": "file",
+"name": "052-07 Made me Idol.txt"
+},
+{
+"type": "file",
+"name": "052-08 将心愿寄托于魔法.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "053 在空白的画布上描绘自我 (N25_东云绘名)",
+"children": [
+{
+"type": "file",
+"name": "053-01 害怕被抛在身后.txt"
+},
+{
+"type": "file",
+"name": "053-02 没能注意到的是…….txt"
+},
+{
+"type": "file",
+"name": "053-03 将那时的感受…….txt"
+},
+{
+"type": "file",
+"name": "053-04 再次前往那个地方.txt"
+},
+{
+"type": "file",
+"name": "053-05 拉开的差距.txt"
+},
+{
+"type": "file",
+"name": "053-06 停住的笔.txt"
+},
+{
+"type": "file",
+"name": "053-07 不想逃避.txt"
+},
+{
+"type": "file",
+"name": "053-08 在画布上描绘自我.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "054 「世界」之樱，相连的心愿 (Mix_初音未来-N25)",
+"children": [
+{
+"type": "file",
+"name": "054-01 一起来赏樱吧.txt"
+},
+{
+"type": "file",
+"name": "054-02 寻找樱花.txt"
+},
+{
+"type": "file",
+"name": "054-03 赏樱演唱会？！.txt"
+},
+{
+"type": "file",
+"name": "054-04 带有春天特色的新餐品.txt"
+},
+{
+"type": "file",
+"name": "054-05 教室，樱花色的她.txt"
+},
+{
+"type": "file",
+"name": "054-06 为了展现樱花飞舞的演出.txt"
+},
+{
+"type": "file",
+"name": "054-07 相连的心愿.txt"
+},
+{
+"type": "file",
+"name": "054-08 心愿藏在各自的心中.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "055 在璀璨耀眼的舞台上 (WxS_天马司)",
+"children": [
+{
+"type": "file",
+"name": "055-01 去音乐厅！.txt"
+},
+{
+"type": "file",
+"name": "055-02 名叫托尔佩的钢琴师.txt"
+},
+{
+"type": "file",
+"name": "055-03 角色契合度.txt"
+},
+{
+"type": "file",
+"name": "055-04 为了成为世界级明星.txt"
+},
+{
+"type": "file",
+"name": "055-05 共同点.txt"
+},
+{
+"type": "file",
+"name": "055-06 仰望夜空.txt"
+},
+{
+"type": "file",
+"name": "055-07 寻找星星.txt"
+},
+{
+"type": "file",
+"name": "055-08 登上闪耀光芒的舞台.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "056 Live with memories (Ln_星乃一歌)",
+"children": [
+{
+"type": "file",
+"name": "056-01 迈向下个阶段！.txt"
+},
+{
+"type": "file",
+"name": "056-02 渐行渐远的兄妹.txt"
+},
+{
+"type": "file",
+"name": "056-03 我们能做的事.txt"
+},
+{
+"type": "file",
+"name": "056-04 敢于面对的勇气.txt"
+},
+{
+"type": "file",
+"name": "056-05 为了传递话语.txt"
+},
+{
+"type": "file",
+"name": "056-06 幸福的回忆.txt"
+},
+{
+"type": "file",
+"name": "056-07 最后一场演出.txt"
+},
+{
+"type": "file",
+"name": "056-08 伴随这璀璨的记忆.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "057 连接Painful Hope (MMJ_桐谷遥)",
+"children": [
+{
+"type": "file",
+"name": "057-01 毛遂自荐的作曲家？.txt"
+},
+{
+"type": "file",
+"name": "057-02 你好，作曲家，初次见面！.txt"
+},
+{
+"type": "file",
+"name": "057-03 写出传递希望的曲子.txt"
+},
+{
+"type": "file",
+"name": "057-04 100万次播放？！.txt"
+},
+{
+"type": "file",
+"name": "057-05 不祥的预感.txt"
+},
+{
+"type": "file",
+"name": "057-06 前进的勇气.txt"
+},
+{
+"type": "file",
+"name": "057-07 她的鼓励.txt"
+},
+{
+"type": "file",
+"name": "057-08 是你给了我希望.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "058 白热！神高应援团！ (Mix_神代类)",
+"children": [
+{
+"type": "file",
+"name": "058-01 特色·应援大赛！.txt"
+},
+{
+"type": "file",
+"name": "058-02 寄托于体育节的心愿.txt"
+},
+{
+"type": "file",
+"name": "058-03 应援大赛的筹备工作.txt"
+},
+{
+"type": "file",
+"name": "058-04 顾虑.txt"
+},
+{
+"type": "file",
+"name": "058-05 背后的鼓励.txt"
+},
+{
+"type": "file",
+"name": "058-06 体育节开幕！.txt"
+},
+{
+"type": "file",
+"name": "058-07 公布中期成绩.txt"
+},
+{
+"type": "file",
+"name": "058-08 相信大家.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "059 THE POWER OF UNITY (VBS_东云彰人)",
+"children": [
+{
+"type": "file",
+"name": "059-01 细微的线索.txt"
+},
+{
+"type": "file",
+"name": "059-02 各自的心愿.txt"
+},
+{
+"type": "file",
+"name": "059-03 志同道合的人.txt"
+},
+{
+"type": "file",
+"name": "059-04 最后的成员.txt"
+},
+{
+"type": "file",
+"name": "059-05 捉摸不透的想法.txt"
+},
+{
+"type": "file",
+"name": "059-06 松软可口的松饼.txt"
+},
+{
+"type": "file",
+"name": "059-07 新与搭档.txt"
+},
+{
+"type": "file",
+"name": "059-08 向前，迈进一步.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "060 向晴空许愿Your Happiness! (Mix_白石杏)",
+"children": [
+{
+"type": "file",
+"name": "060-01 我来当模特？！.txt"
+},
+{
+"type": "file",
+"name": "060-02 为了扮演理想中的新娘.txt"
+},
+{
+"type": "file",
+"name": "060-03 另一名新娘.txt"
+},
+{
+"type": "file",
+"name": "060-04 充满祝福的礼服.txt"
+},
+{
+"type": "file",
+"name": "060-05 阴云袭来的天空.txt"
+},
+{
+"type": "file",
+"name": "060-06 当一名有自己特色的新娘.txt"
+},
+{
+"type": "file",
+"name": "060-07 向晴空许愿.txt"
+},
+{
+"type": "file",
+"name": "060-08 从今往后，也要展现我的风采！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "061 牵起迷失的孩子，前方等待的是 (N25_朝比奈真冬)",
+"children": [
+{
+"type": "file",
+"name": "061-01 “一成不变”的生活.txt"
+},
+{
+"type": "file",
+"name": "061-02 温柔的线，缓缓地牵引着.txt"
+},
+{
+"type": "file",
+"name": "061-03 「世界」的新成员.txt"
+},
+{
+"type": "file",
+"name": "061-04 动摇的心.txt"
+},
+{
+"type": "file",
+"name": "061-05 心，迷失.txt"
+},
+{
+"type": "file",
+"name": "061-06 欢快的喧嚣声.txt"
+},
+{
+"type": "file",
+"name": "061-07 昔日的回忆.txt"
+},
+{
+"type": "file",
+"name": "061-08 对我来说，这个地方是.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "062 危在旦夕？！无人岛绝处逢生！ (WxS_草薙宁宁)",
+"children": [
+{
+"type": "file",
+"name": "062-01 陌生的海岸.txt"
+},
+{
+"type": "file",
+"name": "062-02 无人岛求生！.txt"
+},
+{
+"type": "file",
+"name": "062-03 探索未知的森林.txt"
+},
+{
+"type": "file",
+"name": "062-04 遥不可及的香蕉.txt"
+},
+{
+"type": "file",
+"name": "062-05 捕捉猴子作战！.txt"
+},
+{
+"type": "file",
+"name": "062-06 出人意料的回礼.txt"
+},
+{
+"type": "file",
+"name": "062-07 大家一起来.txt"
+},
+{
+"type": "file",
+"name": "062-08 最棒的团队合作.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "063 大家一起欢享！SPOJOYPARK (Mix_宵崎奏)",
+"children": [
+{
+"type": "file",
+"name": "063-01 运动一下吧.txt"
+},
+{
+"type": "file",
+"name": "063-02 现在开始增强体力！.txt"
+},
+{
+"type": "file",
+"name": "063-03 一起去运动乐园！.txt"
+},
+{
+"type": "file",
+"name": "063-04 偶像的指点！.txt"
+},
+{
+"type": "file",
+"name": "063-05 2对2决胜负！.txt"
+},
+{
+"type": "file",
+"name": "063-06 自己的感受.txt"
+},
+{
+"type": "file",
+"name": "063-07 一起享受快乐的时光.txt"
+},
+{
+"type": "file",
+"name": "063-08 心心相连的笑容.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "064 The Vivid Old Tale (VBS_白石杏)",
+"children": [
+{
+"type": "file",
+"name": "064-01 寻找线索！.txt"
+},
+{
+"type": "file",
+"name": "064-02 古泷凪的为人.txt"
+},
+{
+"type": "file",
+"name": "064-03 这条街上平凡的一天.txt"
+},
+{
+"type": "file",
+"name": "064-04 成年人的责任.txt"
+},
+{
+"type": "file",
+"name": "064-05 擦肩而过的“街道”.txt"
+},
+{
+"type": "file",
+"name": "064-06 冰冷的雨.txt"
+},
+{
+"type": "file",
+"name": "064-07 我对这条街的态度.txt"
+},
+{
+"type": "file",
+"name": "064-08 街上的灯光.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "065 No seek No find (Ln_天马咲希)",
+"children": [
+{
+"type": "file",
+"name": "065-01 迈向下个阶段！.txt"
+},
+{
+"type": "file",
+"name": "065-02 陌生的LiveHouse.txt"
+},
+{
+"type": "file",
+"name": "065-03 无法传递的旋律.txt"
+},
+{
+"type": "file",
+"name": "065-04 融入的情感.txt"
+},
+{
+"type": "file",
+"name": "065-05 情感的不协和音.txt"
+},
+{
+"type": "file",
+"name": "065-06 黑暗中的一丝光亮.txt"
+},
+{
+"type": "file",
+"name": "065-07 将这份情感全部融入进去.txt"
+},
+{
+"type": "file",
+"name": "065-08 打造最棒的歌曲.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "066 close game／OFFLINE (Mix_草薙宁宁)",
+"children": [
+{
+"type": "file",
+"name": "066-01 激动人心游戏大赛？！.txt"
+},
+{
+"type": "file",
+"name": "066-02 参赛选手登场！.txt"
+},
+{
+"type": "file",
+"name": "066-03 预料之外的对手.txt"
+},
+{
+"type": "file",
+"name": "066-04 最棒的大头贴.txt"
+},
+{
+"type": "file",
+"name": "066-05 大家一起来玩魔法气泡吧！.txt"
+},
+{
+"type": "file",
+"name": "066-06 逼近的阴影.txt"
+},
+{
+"type": "file",
+"name": "066-07 为了幸存到最后.txt"
+},
+{
+"type": "file",
+"name": "066-08 带着笑容GG！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "067 在蓝天下追逐光芒 (MMJ_桃井爱莉)",
+"children": [
+{
+"type": "file",
+"name": "067-01 准备专场演唱会.txt"
+},
+{
+"type": "file",
+"name": "067-02 特别节目！24小时直播！.txt"
+},
+{
+"type": "file",
+"name": "067-03 令人心动的偶像笑容.txt"
+},
+{
+"type": "file",
+"name": "067-04 扎实地进步.txt"
+},
+{
+"type": "file",
+"name": "067-05 两个相似的人.txt"
+},
+{
+"type": "file",
+"name": "067-06 符合自己的做法.txt"
+},
+{
+"type": "file",
+"name": "067-07 追逐光芒.txt"
+},
+{
+"type": "file",
+"name": "067-08 祈愿专场演唱会成功！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "068 现在再次绑上蝴蝶结 (N25_晓山瑞希)",
+"children": [
+{
+"type": "file",
+"name": "068-01 积累的时间.txt"
+},
+{
+"type": "file",
+"name": "068-02 姐姐的礼物.txt"
+},
+{
+"type": "file",
+"name": "068-03 逐渐沉沦.txt"
+},
+{
+"type": "file",
+"name": "068-04 让我们相识的画.txt"
+},
+{
+"type": "file",
+"name": "068-05 在痛苦的最后，执笔画下.txt"
+},
+{
+"type": "file",
+"name": "068-06 与【K】的相遇.txt"
+},
+{
+"type": "file",
+"name": "068-07 第一次共同创作.txt"
+},
+{
+"type": "file",
+"name": "068-08 我希望前进的道路.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "069 Don't lose faith! (Ln_日野森志步)",
+"children": [
+{
+"type": "file",
+"name": "069-01 证明音乐性.txt"
+},
+{
+"type": "file",
+"name": "069-02 为了脱胎换骨.txt"
+},
+{
+"type": "file",
+"name": "069-03 集中特训，开始.txt"
+},
+{
+"type": "file",
+"name": "069-04 扫除所有顾虑.txt"
+},
+{
+"type": "file",
+"name": "069-05 全力以赴的演奏.txt"
+},
+{
+"type": "file",
+"name": "069-06 约定的日子.txt"
+},
+{
+"type": "file",
+"name": "069-07 我们的所有实力.txt"
+},
+{
+"type": "file",
+"name": "069-08 不停回响的余音.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "070 绘出自我♪RAINBOW CANVAS (Mix_东云绘名)",
+"children": [
+{
+"type": "file",
+"name": "070-01 两个烦恼.txt"
+},
+{
+"type": "file",
+"name": "070-02 请务必教教我！.txt"
+},
+{
+"type": "file",
+"name": "070-03 练习绘画的地点是？.txt"
+},
+{
+"type": "file",
+"name": "070-04 绘名老师的画室！.txt"
+},
+{
+"type": "file",
+"name": "070-05 为了能画好画.txt"
+},
+{
+"type": "file",
+"name": "070-06 绘出自我.txt"
+},
+{
+"type": "file",
+"name": "070-07 前往幼儿园！.txt"
+},
+{
+"type": "file",
+"name": "070-08 以绘画连接的笑容.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "071 Walk on and on (VBS_青柳冬弥)",
+"children": [
+{
+"type": "file",
+"name": "071-01 面向下一场演出.txt"
+},
+{
+"type": "file",
+"name": "071-02 半成品音轨.txt"
+},
+{
+"type": "file",
+"name": "071-03 采样讲座！.txt"
+},
+{
+"type": "file",
+"name": "071-04 一起来作曲吧！.txt"
+},
+{
+"type": "file",
+"name": "071-05 我的归属地.txt"
+},
+{
+"type": "file",
+"name": "071-06 希望将情感传递出去.txt"
+},
+{
+"type": "file",
+"name": "071-07 寄托的心愿.txt"
+},
+{
+"type": "file",
+"name": "071-08 接下来就该轮到我了.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "072 逢此庆典 暮色亦染 (Mix_朝比奈真冬)",
+"children": [
+{
+"type": "file",
+"name": "072-01 “涩谷艺术节”.txt"
+},
+{
+"type": "file",
+"name": "072-02 各自的理由.txt"
+},
+{
+"type": "file",
+"name": "072-03 庆典前夜.txt"
+},
+{
+"type": "file",
+"name": "072-04 涩谷艺术节开幕！.txt"
+},
+{
+"type": "file",
+"name": "072-05 寄托于传单中的心愿.txt"
+},
+{
+"type": "file",
+"name": "072-06 在舞台上绽放光彩.txt"
+},
+{
+"type": "file",
+"name": "072-07 庆典的幕后.txt"
+},
+{
+"type": "file",
+"name": "072-08 我真心想做的事.txt"
+},
+{
+"type": "file",
+"name": "072-09 感激之辞.txt"
+},
+{
+"type": "file",
+"name": "072-10 回响于暮色的旋律.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "073 致过去的我 (MMJ_花里实乃理)",
+"children": [
+{
+"type": "file",
+"name": "073-01 专场演唱会前夕.txt"
+},
+{
+"type": "file",
+"name": "073-02 充满回忆的光盘.txt"
+},
+{
+"type": "file",
+"name": "073-03 ASRUN演唱会的预习讲座！.txt"
+},
+{
+"type": "file",
+"name": "073-04 HONEY东京站.txt"
+},
+{
+"type": "file",
+"name": "073-05 真正的“偶像”.txt"
+},
+{
+"type": "file",
+"name": "073-06 专场演唱会开幕.txt"
+},
+{
+"type": "file",
+"name": "073-07 寄托于舞台的心意.txt"
+},
+{
+"type": "file",
+"name": "073-08 为了回报大家的支持.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "074 惜别谢幕 (WxS_神代类)",
+"children": [
+{
+"type": "file",
+"name": "074-01 宣传公演结束了？！.txt"
+},
+{
+"type": "file",
+"name": "074-02 玄武 旭.txt"
+},
+{
+"type": "file",
+"name": "074-03 两位主演.txt"
+},
+{
+"type": "file",
+"name": "074-04 一起吃同一锅饭吧！.txt"
+},
+{
+"type": "file",
+"name": "074-05 意想不到的话.txt"
+},
+{
+"type": "file",
+"name": "074-06 两边都很重要.txt"
+},
+{
+"type": "file",
+"name": "074-07 最后的宣传公演.txt"
+},
+{
+"type": "file",
+"name": "074-08 我的心愿是.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "075 尖叫？！欢迎来到大灰狼森林 (Mix_小豆泽心羽)",
+"children": [
+{
+"type": "file",
+"name": "075-01 文化节的安排.txt"
+},
+{
+"type": "file",
+"name": "075-02 打造鬼屋吧.txt"
+},
+{
+"type": "file",
+"name": "075-03 开始吧！宫益坂学园文化节！.txt"
+},
+{
+"type": "file",
+"name": "075-04 我来扮大灰狼？.txt"
+},
+{
+"type": "file",
+"name": "075-05 狂奔！心羽大灰狼！.txt"
+},
+{
+"type": "file",
+"name": "075-06 就算从现在开始.txt"
+},
+{
+"type": "file",
+"name": "075-07 和大家一起进入昏暗的森林.txt"
+},
+{
+"type": "file",
+"name": "075-08 真正留下的东西.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "076 Echo my melody (Ln_星乃一歌)",
+"children": [
+{
+"type": "file",
+"name": "076-01 断断续续的旋律.txt"
+},
+{
+"type": "file",
+"name": "076-02 意想不到的救星.txt"
+},
+{
+"type": "file",
+"name": "076-03 一同调音.txt"
+},
+{
+"type": "file",
+"name": "076-04 选择的结果.txt"
+},
+{
+"type": "file",
+"name": "076-05 拍摄视频.txt"
+},
+{
+"type": "file",
+"name": "076-06 做出选择的勇气.txt"
+},
+{
+"type": "file",
+"name": "076-07 歌声响彻世界.txt"
+},
+{
+"type": "file",
+"name": "076-08 想要传达的音乐.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "077 祈愿，终有一天跨越黎明 (N25_东云绘名)",
+"children": [
+{
+"type": "file",
+"name": "077-01 想表达的内容.txt"
+},
+{
+"type": "file",
+"name": "077-02 压抑的心绪.txt"
+},
+{
+"type": "file",
+"name": "077-03 冲动.txt"
+},
+{
+"type": "file",
+"name": "077-04 置身温暖的氛围中.txt"
+},
+{
+"type": "file",
+"name": "077-05 让真冬当模特.txt"
+},
+{
+"type": "file",
+"name": "077-06 看不清的真心.txt"
+},
+{
+"type": "file",
+"name": "077-07 窥见的光芒.txt"
+},
+{
+"type": "file",
+"name": "077-08 我想表达的内容.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "078 昨日梦想的延续 (MMJ_桐谷遥)",
+"children": [
+{
+"type": "file",
+"name": "078-01 饱含情感的粉丝来信.txt"
+},
+{
+"type": "file",
+"name": "078-02 新的目标.txt"
+},
+{
+"type": "file",
+"name": "078-03 意想不到的委托.txt"
+},
+{
+"type": "file",
+"name": "078-04 传递心愿的途径.txt"
+},
+{
+"type": "file",
+"name": "078-05 成为偶像的原因.txt"
+},
+{
+"type": "file",
+"name": "078-06 爱笑的公主.txt"
+},
+{
+"type": "file",
+"name": "078-07 继承希望.txt"
+},
+{
+"type": "file",
+"name": "078-08 为了尚未谋面的人.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "079 Find A Way Out (VBS_东云彰人)",
+"children": [
+{
+"type": "file",
+"name": "079-01 干杯！.txt"
+},
+{
+"type": "file",
+"name": "079-02 传说开始之地.txt"
+},
+{
+"type": "file",
+"name": "079-03 让我看看彩灯！.txt"
+},
+{
+"type": "file",
+"name": "079-04 超越街上的所有人.txt"
+},
+{
+"type": "file",
+"name": "079-05 因缘深厚的Crawl Green.txt"
+},
+{
+"type": "file",
+"name": "079-06 如果这便是极限.txt"
+},
+{
+"type": "file",
+"name": "079-07 与他相似的眼神.txt"
+},
+{
+"type": "file",
+"name": "079-08 哪怕路还很长，但终有一天.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "080 在纯白世界拉弓引箭 (Mix_日野森雫)",
+"children": [
+{
+"type": "file",
+"name": "080-01 曾经看到过的表情.txt"
+},
+{
+"type": "file",
+"name": "080-02 想要变得完美.txt"
+},
+{
+"type": "file",
+"name": "080-03 只为了这一个瞬间.txt"
+},
+{
+"type": "file",
+"name": "080-04 在大雪纷飞的弓道场.txt"
+},
+{
+"type": "file",
+"name": "080-05 为了告诉她.txt"
+},
+{
+"type": "file",
+"name": "080-06 想要帮助她，然而.txt"
+},
+{
+"type": "file",
+"name": "080-07 现在只需专注于这一箭.txt"
+},
+{
+"type": "file",
+"name": "080-08 带着暖意的雪.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "081 新春！舞狮机器人的新年演出！ (Mix_天马司)",
+"children": [
+{
+"type": "file",
+"name": "081-01 大家一起来办新年演出.txt"
+},
+{
+"type": "file",
+"name": "081-02 帮手登场！.txt"
+},
+{
+"type": "file",
+"name": "081-03 大海与流星雨.txt"
+},
+{
+"type": "file",
+"name": "081-04 偶像会让人联想到元旦日出？！.txt"
+},
+{
+"type": "file",
+"name": "081-05 让滑雪场染上炫彩.txt"
+},
+{
+"type": "file",
+"name": "081-06 在休憩之地，奏响宵之旋律.txt"
+},
+{
+"type": "file",
+"name": "081-07 相互连接的新年.txt"
+},
+{
+"type": "file",
+"name": "081-08 将巨大的梦压于枕下.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "082 梦想的旅途，奔向闪耀的群星 (WxS_凤笑梦)",
+"children": [
+{
+"type": "file",
+"name": "082-01 为了展翅高飞.txt"
+},
+{
+"type": "file",
+"name": "082-02 交流会的成果.txt"
+},
+{
+"type": "file",
+"name": "082-03 之前一直都在那里啊.txt"
+},
+{
+"type": "file",
+"name": "082-04 奇怪的感受.txt"
+},
+{
+"type": "file",
+"name": "082-05 为了让她重获笑容.txt"
+},
+{
+"type": "file",
+"name": "082-06 欢欣雀跃菲尼乐园！.txt"
+},
+{
+"type": "file",
+"name": "082-07 因为有你们在身边.txt"
+},
+{
+"type": "file",
+"name": "082-08 想见证那份闪耀.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "083 Little Bravers！ (Ln_望月穗波)",
+"children": [
+{
+"type": "file",
+"name": "083-01 转机.txt"
+},
+{
+"type": "file",
+"name": "083-02 举办专场演出的障碍.txt"
+},
+{
+"type": "file",
+"name": "083-03 沉重的脚步.txt"
+},
+{
+"type": "file",
+"name": "083-04 来自专场前辈的建议.txt"
+},
+{
+"type": "file",
+"name": "083-05 为了震撼观众心灵.txt"
+},
+{
+"type": "file",
+"name": "083-06 打出名气的武器.txt"
+},
+{
+"type": "file",
+"name": "083-07 对我们最重要的事.txt"
+},
+{
+"type": "file",
+"name": "083-08 在背后支持大家.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "084 蜡烛的芬芳萦绕于往昔的回忆 (Mix_星乃一歌)",
+"children": [
+{
+"type": "file",
+"name": "084-01 心动，情人节！.txt"
+},
+{
+"type": "file",
+"name": "084-02 情人节的烦恼.txt"
+},
+{
+"type": "file",
+"name": "084-03 向着香薰专卖店，出发！.txt"
+},
+{
+"type": "file",
+"name": "084-04 开始制作香薰蜡烛！.txt"
+},
+{
+"type": "file",
+"name": "084-05 微微摇曳的烛光.txt"
+},
+{
+"type": "file",
+"name": "084-06 一起来制作吧.txt"
+},
+{
+"type": "file",
+"name": "084-07 给大家的礼物.txt"
+},
+{
+"type": "file",
+"name": "084-08 回忆中的香味.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "085 解开的心结之后 (MMJ_日野森雫)",
+"children": [
+{
+"type": "file",
+"name": "085-01 风波的预感.txt"
+},
+{
+"type": "file",
+"name": "085-02 直面过去的勇气.txt"
+},
+{
+"type": "file",
+"name": "085-03 关注未来！.txt"
+},
+{
+"type": "file",
+"name": "085-04 那时的情况.txt"
+},
+{
+"type": "file",
+"name": "085-05 作为Cheerful＊Days.txt"
+},
+{
+"type": "file",
+"name": "085-06 偶像大混战！.txt"
+},
+{
+"type": "file",
+"name": "085-07 缠绕成团的线.txt"
+},
+{
+"type": "file",
+"name": "085-08 保持真正的自我.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "086 Kick it up a notch (VBS_小豆泽心羽)",
+"children": [
+{
+"type": "file",
+"name": "086-01 一通电话.txt"
+},
+{
+"type": "file",
+"name": "086-02 最后的课题.txt"
+},
+{
+"type": "file",
+"name": "086-03 心羽手中的钥匙.txt"
+},
+{
+"type": "file",
+"name": "086-04 校服约会♪.txt"
+},
+{
+"type": "file",
+"name": "086-05 向Crawl Green进发！.txt"
+},
+{
+"type": "file",
+"name": "086-06 见证成长的人们.txt"
+},
+{
+"type": "file",
+"name": "086-07 这首歌是.txt"
+},
+{
+"type": "file",
+"name": "086-08 抵达比巅峰更高的地方.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "087 Never Give Up Cooking！ (Mix_青柳冬弥)",
+"children": [
+{
+"type": "file",
+"name": "087-01 喜人的邀请.txt"
+},
+{
+"type": "file",
+"name": "087-02 特别的礼物.txt"
+},
+{
+"type": "file",
+"name": "087-03 可靠的老师？.txt"
+},
+{
+"type": "file",
+"name": "087-04 负责试吃.txt"
+},
+{
+"type": "file",
+"name": "087-05 开始烹饪♪.txt"
+},
+{
+"type": "file",
+"name": "087-06 准备试吃！.txt"
+},
+{
+"type": "file",
+"name": "087-07 不管多少次.txt"
+},
+{
+"type": "file",
+"name": "087-08 让人安心的地方.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "088 追寻翱翔于天际的凤凰 (WxS_天马司)",
+"children": [
+{
+"type": "file",
+"name": "088-01 向菲尼克斯舞台出征！.txt"
+},
+{
+"type": "file",
+"name": "088-02 快乐的凤凰.txt"
+},
+{
+"type": "file",
+"name": "088-03 崇拜的明星.txt"
+},
+{
+"type": "file",
+"name": "088-04 她的演技.txt"
+},
+{
+"type": "file",
+"name": "088-05 试炼.txt"
+},
+{
+"type": "file",
+"name": "088-06 顶端如此遥远.txt"
+},
+{
+"type": "file",
+"name": "088-07 正因为抓不到.txt"
+},
+{
+"type": "file",
+"name": "088-08 前进的一步.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "089 难以弥合·分歧 (N25_宵崎奏)",
+"children": [
+{
+"type": "file",
+"name": "089-01 令人不安的通知.txt"
+},
+{
+"type": "file",
+"name": "089-02 第一次接触.txt"
+},
+{
+"type": "file",
+"name": "089-03 心中涌现的迷茫.txt"
+},
+{
+"type": "file",
+"name": "089-04 我们能做的事.txt"
+},
+{
+"type": "file",
+"name": "089-05 表达了想法之后.txt"
+},
+{
+"type": "file",
+"name": "089-06 不愿接受.txt"
+},
+{
+"type": "file",
+"name": "089-07 “妈妈”.txt"
+},
+{
+"type": "file",
+"name": "089-08 互不相融的音色.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "090 在乐声共鸣的街角 (Mix_日野森志步)",
+"children": [
+{
+"type": "file",
+"name": "090-01 震撼人心的歌声.txt"
+},
+{
+"type": "file",
+"name": "090-02 与乐队不同的声音.txt"
+},
+{
+"type": "file",
+"name": "090-03 偶然相遇.txt"
+},
+{
+"type": "file",
+"name": "090-04 让人心放不下的侧脸.txt"
+},
+{
+"type": "file",
+"name": "090-05 两条金鱼.txt"
+},
+{
+"type": "file",
+"name": "090-06 在强烈的情感中.txt"
+},
+{
+"type": "file",
+"name": "090-07 同样的感受.txt"
+},
+{
+"type": "file",
+"name": "090-08 共鸣的歌声与内心.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "091 Get over it. (Ln_天马咲希)",
+"children": [
+{
+"type": "file",
+"name": "091-01 用音乐触动更多人的内心.txt"
+},
+{
+"type": "file",
+"name": "091-02 全力以赴.txt"
+},
+{
+"type": "file",
+"name": "091-03 未来的方向.txt"
+},
+{
+"type": "file",
+"name": "091-04 职业意识.txt"
+},
+{
+"type": "file",
+"name": "091-05 “最”重要的想法.txt"
+},
+{
+"type": "file",
+"name": "091-06 一旦事情摆在眼前.txt"
+},
+{
+"type": "file",
+"name": "091-07 “往事”.txt"
+},
+{
+"type": "file",
+"name": "091-08 充满我们特色的音乐.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "092 Re-tie Friendship (MMJ_桃井爱莉)",
+"children": [
+{
+"type": "file",
+"name": "092-01 繁忙的每一天.txt"
+},
+{
+"type": "file",
+"name": "092-02 新的方式.txt"
+},
+{
+"type": "file",
+"name": "092-03 两人的选择.txt"
+},
+{
+"type": "file",
+"name": "092-04 要好好考虑.txt"
+},
+{
+"type": "file",
+"name": "092-05 无法忘怀的记忆.txt"
+},
+{
+"type": "file",
+"name": "092-06 距离.txt"
+},
+{
+"type": "file",
+"name": "092-07 不会消失的感情.txt"
+},
+{
+"type": "file",
+"name": "092-08 迈向新的台阶.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "093 我们为了生存而逃避 (N25_晓山瑞希)",
+"children": [
+{
+"type": "file",
+"name": "093-01 在潜意识中.txt"
+},
+{
+"type": "file",
+"name": "093-02 为了能做回真正的自己.txt"
+},
+{
+"type": "file",
+"name": "093-03 得以放松的时刻.txt"
+},
+{
+"type": "file",
+"name": "093-04 步步紧逼.txt"
+},
+{
+"type": "file",
+"name": "093-05 没有直面的勇气.txt"
+},
+{
+"type": "file",
+"name": "093-06 我的办法.txt"
+},
+{
+"type": "file",
+"name": "093-07 为了好好活着.txt"
+},
+{
+"type": "file",
+"name": "093-08 虽然有些害怕，不过.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "094 启航前的一日游 (Mix_桐谷遥)",
+"children": [
+{
+"type": "file",
+"name": "094-01 参加也许是最后一次的郊游.txt"
+},
+{
+"type": "file",
+"name": "094-02 欢快的郊游会议.txt"
+},
+{
+"type": "file",
+"name": "094-03 出发！介绍美味的咖喱.txt"
+},
+{
+"type": "file",
+"name": "094-04 为了给她加油.txt"
+},
+{
+"type": "file",
+"name": "094-05 今天就以学生的身份.txt"
+},
+{
+"type": "file",
+"name": "094-06 拉起手，到水上.txt"
+},
+{
+"type": "file",
+"name": "094-07 不管发生什么事，我们也.txt"
+},
+{
+"type": "file",
+"name": "094-08 以后有机会，大家一起.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "095 金丝雀于绝境中高歌 (WxS_草薙宁宁)",
+"children": [
+{
+"type": "file",
+"name": "095-01 为了演好金丝雀.txt"
+},
+{
+"type": "file",
+"name": "095-02 永不退让的心愿.txt"
+},
+{
+"type": "file",
+"name": "095-03 寄托于舞台的决心.txt"
+},
+{
+"type": "file",
+"name": "095-04 意想不到的应援.txt"
+},
+{
+"type": "file",
+"name": "095-05 为了缩短差距.txt"
+},
+{
+"type": "file",
+"name": "095-06 万事皆可化为力量.txt"
+},
+{
+"type": "file",
+"name": "095-07 30周年纪念公演.txt"
+},
+{
+"type": "file",
+"name": "095-08 将经验转化为实力.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "096 给在我身边温柔的你 (Mix_望月穗波)",
+"children": [
+{
+"type": "file",
+"name": "096-01 过度努力的雇主.txt"
+},
+{
+"type": "file",
+"name": "096-02 稍微强势一点.txt"
+},
+{
+"type": "file",
+"name": "096-03 欢迎来到婚庆展会场！.txt"
+},
+{
+"type": "file",
+"name": "096-04 传闻中的你.txt"
+},
+{
+"type": "file",
+"name": "096-05 尽自己所能.txt"
+},
+{
+"type": "file",
+"name": "096-06 表演开始！～被盯上的新娘～.txt"
+},
+{
+"type": "file",
+"name": "096-07 全心全意.txt"
+},
+{
+"type": "file",
+"name": "096-08 献给温柔的你.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "097 Light Up the Fire (VBS_白石杏)",
+"children": [
+{
+"type": "file",
+"name": "097-01 第三场演出的余韵.txt"
+},
+{
+"type": "file",
+"name": "097-02 传奇之夜背后的真相.txt"
+},
+{
+"type": "file",
+"name": "097-03 矗立于面前的高墙.txt"
+},
+{
+"type": "file",
+"name": "097-04 梦想的终结.txt"
+},
+{
+"type": "file",
+"name": "097-05 向着世界第一进发！.txt"
+},
+{
+"type": "file",
+"name": "097-06 有限时间的使用方法.txt"
+},
+{
+"type": "file",
+"name": "097-07 “RAD WEEKEND”.txt"
+},
+{
+"type": "file",
+"name": "097-08 向着无尽梦想的未来.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "098 STEP by STEP！ (MMJ_花里实乃理)",
+"children": [
+{
+"type": "file",
+"name": "098-01 为了转到学分制.txt"
+},
+{
+"type": "file",
+"name": "098-02 “全心全意成为偶像版本”.txt"
+},
+{
+"type": "file",
+"name": "098-03 会天各一方.txt"
+},
+{
+"type": "file",
+"name": "098-04 即使放弃“普通”.txt"
+},
+{
+"type": "file",
+"name": "098-05 珍惜剩下的日子.txt"
+},
+{
+"type": "file",
+"name": "098-06 享受高校生活！.txt"
+},
+{
+"type": "file",
+"name": "098-07 令人激动的惊喜.txt"
+},
+{
+"type": "file",
+"name": "098-08 不变的心愿.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "099 一期一会的百鬼夜行？！ (Mix_神代类)",
+"children": [
+{
+"type": "file",
+"name": "099-01 修学旅行与百鬼夜行.txt"
+},
+{
+"type": "file",
+"name": "099-02 在京都！.txt"
+},
+{
+"type": "file",
+"name": "099-03 很眼熟的人.txt"
+},
+{
+"type": "file",
+"name": "099-04 出门靠朋友.txt"
+},
+{
+"type": "file",
+"name": "099-05 回忆和友情.txt"
+},
+{
+"type": "file",
+"name": "099-06 希望大家能一起谢幕.txt"
+},
+{
+"type": "file",
+"name": "099-07 大家一起来.txt"
+},
+{
+"type": "file",
+"name": "099-08 接下来会有什么样的相遇.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "100 向戴着面具的我告别 (N25_朝比奈真冬)",
+"children": [
+{
+"type": "file",
+"name": "100-01 磨损的心.txt"
+},
+{
+"type": "file",
+"name": "100-02 预兆.txt"
+},
+{
+"type": "file",
+"name": "100-03 逐渐碎裂的面具.txt"
+},
+{
+"type": "file",
+"name": "100-04 决堤.txt"
+},
+{
+"type": "file",
+"name": "100-05 读不透的心，确切的心愿.txt"
+},
+{
+"type": "file",
+"name": "100-06 为了守护心灵.txt"
+},
+{
+"type": "file",
+"name": "100-07 丢弃面具.txt"
+},
+{
+"type": "file",
+"name": "100-08 伸出手，在那前方的是…….txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "101 相联的，星星之歌 (Ln_星乃一歌)",
+"children": [
+{
+"type": "file",
+"name": "101-01 延续的道路.txt"
+},
+{
+"type": "file",
+"name": "101-02 传达心愿的方法.txt"
+},
+{
+"type": "file",
+"name": "101-03 再次前往那个地方……！.txt"
+},
+{
+"type": "file",
+"name": "101-04 弥足珍贵的邂逅.txt"
+},
+{
+"type": "file",
+"name": "101-05 不仅仅是向往.txt"
+},
+{
+"type": "file",
+"name": "101-06 倾注感谢之情.txt"
+},
+{
+"type": "file",
+"name": "101-07 星之歌.txt"
+},
+{
+"type": "file",
+"name": "101-08 流星.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "102 手忙脚乱cafe ●REC!! (Mix_桃井爱莉)",
+"children": [
+{
+"type": "file",
+"name": "102-01 新的委托是…….txt"
+},
+{
+"type": "file",
+"name": "102-02 救急的临时打工！.txt"
+},
+{
+"type": "file",
+"name": "102-03 畅游潮流！.txt"
+},
+{
+"type": "file",
+"name": "102-04 意料之外的来客们.txt"
+},
+{
+"type": "file",
+"name": "102-05 厨房即将超负荷！.txt"
+},
+{
+"type": "file",
+"name": "102-06 紧急策划，MORE MORE JUMP！咖啡厅！.txt"
+},
+{
+"type": "file",
+"name": "102-07 多谢款待.txt"
+},
+{
+"type": "file",
+"name": "102-08 节目播出后…….txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "103 On Your Feet (VBS_小豆泽心羽)",
+"children": [
+{
+"type": "file",
+"name": "103-01 先从能做的事做起.txt"
+},
+{
+"type": "file",
+"name": "103-02 今天也要练习！.txt"
+},
+{
+"type": "file",
+"name": "103-03 意想不到的重逢.txt"
+},
+{
+"type": "file",
+"name": "103-04 已经拉开的距离.txt"
+},
+{
+"type": "file",
+"name": "103-05 这样下去真的好吗.txt"
+},
+{
+"type": "file",
+"name": "103-06 得到的东西.txt"
+},
+{
+"type": "file",
+"name": "103-07 怀揣着这份心情.txt"
+},
+{
+"type": "file",
+"name": "103-08 再次从这里出发.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "104 我们的圆满结局 (WxS_凤笑梦)",
+"children": [
+{
+"type": "file",
+"name": "104-01 笑着说拜拜.txt"
+},
+{
+"type": "file",
+"name": "104-02 哪一边都不想放弃.txt"
+},
+{
+"type": "file",
+"name": "104-03 互相冲突的梦想.txt"
+},
+{
+"type": "file",
+"name": "104-04 最后的公演.txt"
+},
+{
+"type": "file",
+"name": "104-05 往昔的回忆.txt"
+},
+{
+"type": "file",
+"name": "104-06 为你们做的演出.txt"
+},
+{
+"type": "file",
+"name": "104-07 将大家的梦想.txt"
+},
+{
+"type": "file",
+"name": "104-08 最后的道别.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "105 响彻「世界」！Your Song (Mix_初音未来-WxS)",
+"children": [
+{
+"type": "file",
+"name": "105-01 想为他们加油.txt"
+},
+{
+"type": "file",
+"name": "105-02 为了大家.txt"
+},
+{
+"type": "file",
+"name": "105-03 传达到的声音.txt"
+},
+{
+"type": "file",
+"name": "105-04 想要陪伴.txt"
+},
+{
+"type": "file",
+"name": "105-05 神奇的「世界」？！.txt"
+},
+{
+"type": "file",
+"name": "105-06 心愿重合带来的相遇.txt"
+},
+{
+"type": "file",
+"name": "105-07 替另一个自己.txt"
+},
+{
+"type": "file",
+"name": "105-08 和大家一起！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "106 和你创造的Precious memories (Mix_天马咲希)",
+"children": [
+{
+"type": "file",
+"name": "106-01 把重要的回忆.txt"
+},
+{
+"type": "file",
+"name": "106-02 一起实现吧.txt"
+},
+{
+"type": "file",
+"name": "106-03 最棒的惊喜.txt"
+},
+{
+"type": "file",
+"name": "106-04 秘密策略.txt"
+},
+{
+"type": "file",
+"name": "106-05 激烈的躲避球！.txt"
+},
+{
+"type": "file",
+"name": "106-06 热闹的夜晚.txt"
+},
+{
+"type": "file",
+"name": "106-07 青春的每一天.txt"
+},
+{
+"type": "file",
+"name": "106-08 今后也要和大家一起.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "107 Let's study hard！ (Mix_白石杏)",
+"children": [
+{
+"type": "file",
+"name": "107-01 可怕的通知.txt"
+},
+{
+"type": "file",
+"name": "107-02 补习日常.txt"
+},
+{
+"type": "file",
+"name": "107-03 开始学习会！.txt"
+},
+{
+"type": "file",
+"name": "107-04 那天的相遇.txt"
+},
+{
+"type": "file",
+"name": "107-05 在走廊的交谈.txt"
+},
+{
+"type": "file",
+"name": "107-06 到来的考试.txt"
+},
+{
+"type": "file",
+"name": "107-07 考试的结果是…….txt"
+},
+{
+"type": "file",
+"name": "107-08 和不变的伙伴们一起…….txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "108 Hello·Good·Day！ (Mix_星乃一歌)",
+"children": [
+{
+"type": "file",
+"name": "108-01 起始之日.txt"
+},
+{
+"type": "file",
+"name": "108-02 在新班级.txt"
+},
+{
+"type": "file",
+"name": "108-03 各自的目标.txt"
+},
+{
+"type": "file",
+"name": "108-04 另一个开学典礼.txt"
+},
+{
+"type": "file",
+"name": "108-05 大家的笑容.txt"
+},
+{
+"type": "file",
+"name": "108-06 黄昏时的相遇.txt"
+},
+{
+"type": "file",
+"name": "108-07 得到了动力.txt"
+},
+{
+"type": "file",
+"name": "108-08 一点点地联系在一起.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "109 BURN MY SOUL (VBS_东云彰人)",
+"children": [
+{
+"type": "file",
+"name": "109-01 那天以后.txt"
+},
+{
+"type": "file",
+"name": "109-02 作战会议.txt"
+},
+{
+"type": "file",
+"name": "109-03 一对一.txt"
+},
+{
+"type": "file",
+"name": "109-04 不变的热情.txt"
+},
+{
+"type": "file",
+"name": "109-05 所需要的东西.txt"
+},
+{
+"type": "file",
+"name": "109-06 心中的某样东西.txt"
+},
+{
+"type": "file",
+"name": "109-07 那晚之火如今依旧.txt"
+},
+{
+"type": "file",
+"name": "109-08 点燃火焰！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "110 Stick to your faith (Ln_日野森志步)",
+"children": [
+{
+"type": "file",
+"name": "110-01 “追求的音乐”.txt"
+},
+{
+"type": "file",
+"name": "110-02 各自的向往.txt"
+},
+{
+"type": "file",
+"name": "110-03 直到满意为止.txt"
+},
+{
+"type": "file",
+"name": "110-04 正确的选择.txt"
+},
+{
+"type": "file",
+"name": "110-05 邂逅.txt"
+},
+{
+"type": "file",
+"name": "110-06 永不退让的心愿.txt"
+},
+{
+"type": "file",
+"name": "110-07 坚持的模样.txt"
+},
+{
+"type": "file",
+"name": "110-08 为了传达出去.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "111 那双手所引向的温暖 (MMJ_日野森雫)",
+"children": [
+{
+"type": "file",
+"name": "111-01 为了能更进一步.txt"
+},
+{
+"type": "file",
+"name": "111-02 可以信任的你.txt"
+},
+{
+"type": "file",
+"name": "111-03 意料之外的重逢.txt"
+},
+{
+"type": "file",
+"name": "111-04 述说的内情.txt"
+},
+{
+"type": "file",
+"name": "111-05 开始的温暖.txt"
+},
+{
+"type": "file",
+"name": "111-06 我可以传达的话语.txt"
+},
+{
+"type": "file",
+"name": "111-07 为了前进.txt"
+},
+{
+"type": "file",
+"name": "111-08 引向梦想的温暖.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "112 水底寻影 (N25_WL)",
+"children": [
+{
+"type": "file",
+"name": "112-01 25点，Nightcord见。.txt"
+},
+{
+"type": "file",
+"name": "112-02 想要前进，无法前进 (朝比奈真冬).txt"
+},
+{
+"type": "file",
+"name": "112-03 沉入水底的东西 (朝比奈真冬).txt"
+},
+{
+"type": "file",
+"name": "112-04 逃避的结果 (晓山瑞希).txt"
+},
+{
+"type": "file",
+"name": "112-05 温柔的话语 (晓山瑞希).txt"
+},
+{
+"type": "file",
+"name": "112-06 想实现的目标 (东云绘名).txt"
+},
+{
+"type": "file",
+"name": "112-07 传达到的事物 (东云绘名).txt"
+},
+{
+"type": "file",
+"name": "112-08 焦躁的思绪 (宵崎奏).txt"
+},
+{
+"type": "file",
+"name": "112-09 一起找吧 (宵崎奏).txt"
+},
+{
+"type": "file",
+"name": "112-10 为了有朝一日能够前进.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "113 以你为主角的故事 (WxS_天马司)",
+"children": [
+{
+"type": "file",
+"name": "113-01 前往新天地吧！.txt"
+},
+{
+"type": "file",
+"name": "113-02 春名座的演出.txt"
+},
+{
+"type": "file",
+"name": "113-03 獏野历.txt"
+},
+{
+"type": "file",
+"name": "113-04 天生的才能.txt"
+},
+{
+"type": "file",
+"name": "113-05 名为“人生”的故事.txt"
+},
+{
+"type": "file",
+"name": "113-06 将那一天的想象力…….txt"
+},
+{
+"type": "file",
+"name": "113-07 大家一起编织的故事.txt"
+},
+{
+"type": "file",
+"name": "113-08 “成为”角色的瞬间.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "114 最棒的杀青！ (Mix_草薙宁宁)",
+"children": [
+{
+"type": "file",
+"name": "114-01 神山高校艺术节.txt"
+},
+{
+"type": "file",
+"name": "114-02 难以达成一致的会议.txt"
+},
+{
+"type": "file",
+"name": "114-03 如果能了解大家的心愿.txt"
+},
+{
+"type": "file",
+"name": "114-04 同班同学.txt"
+},
+{
+"type": "file",
+"name": "114-05 开始拍摄！.txt"
+},
+{
+"type": "file",
+"name": "114-06 为了不后悔.txt"
+},
+{
+"type": "file",
+"name": "114-07 杀青.txt"
+},
+{
+"type": "file",
+"name": "114-08 我们的电影.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "115 东奔西走的饲养员体验！ (Mix_花里实乃理)",
+"children": [
+{
+"type": "file",
+"name": "115-01 身为饲养委员！.txt"
+},
+{
+"type": "file",
+"name": "115-02 为当天做准备.txt"
+},
+{
+"type": "file",
+"name": "115-03 紧张不已的饲养委员体验.txt"
+},
+{
+"type": "file",
+"name": "115-04 不动如山的鲸头鹳.txt"
+},
+{
+"type": "file",
+"name": "115-05 出人意料的参观者.txt"
+},
+{
+"type": "file",
+"name": "115-06 过于耀眼的气场.txt"
+},
+{
+"type": "file",
+"name": "115-07 抓捕犰狳大作战.txt"
+},
+{
+"type": "file",
+"name": "115-08 大显身手的饲养委员！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "116 将那天，演奏的音乐 (N25_宵崎奏)",
+"children": [
+{
+"type": "file",
+"name": "116-01 在前方…….txt"
+},
+{
+"type": "file",
+"name": "116-02 想做的事.txt"
+},
+{
+"type": "file",
+"name": "116-03 我心目中的音乐.txt"
+},
+{
+"type": "file",
+"name": "116-04 追溯记忆之源.txt"
+},
+{
+"type": "file",
+"name": "116-05 温暖的音色.txt"
+},
+{
+"type": "file",
+"name": "116-06 温柔的回忆与现实.txt"
+},
+{
+"type": "file",
+"name": "116-07 心愿.txt"
+},
+{
+"type": "file",
+"name": "116-08 将那天的音乐…….txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "117 在不变的温暖旁 (Mix_晓山瑞希)",
+"children": [
+{
+"type": "file",
+"name": "117-01 令人振奋的通知.txt"
+},
+{
+"type": "file",
+"name": "117-02 前往新年卖场吧！.txt"
+},
+{
+"type": "file",
+"name": "117-03 回忆起的…….txt"
+},
+{
+"type": "file",
+"name": "117-04 宝贵的心绪.txt"
+},
+{
+"type": "file",
+"name": "117-05 新春·寻找伴手礼.txt"
+},
+{
+"type": "file",
+"name": "117-06 享受喜欢的事物.txt"
+},
+{
+"type": "file",
+"name": "117-07 力所能及的事.txt"
+},
+{
+"type": "file",
+"name": "117-08 以前是，现在也是.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "118 BREAK DOWN THE WALL (VBS_WL)",
+"children": [
+{
+"type": "file",
+"name": "118-01 高大的墙壁.txt"
+},
+{
+"type": "file",
+"name": "118-02 不可思议的足球 (东云彰人).txt"
+},
+{
+"type": "file",
+"name": "118-03 开辟道路吧！ (东云彰人).txt"
+},
+{
+"type": "file",
+"name": "118-04 一定要一起 (青柳冬弥).txt"
+},
+{
+"type": "file",
+"name": "118-05 曾几何时的乐谱 (青柳冬弥).txt"
+},
+{
+"type": "file",
+"name": "118-06 她的歌声 (白石杏).txt"
+},
+{
+"type": "file",
+"name": "118-07 直到追上你 (白石杏).txt"
+},
+{
+"type": "file",
+"name": "118-08 肩负理想 (小豆泽心羽).txt"
+},
+{
+"type": "file",
+"name": "118-09 全世界的音乐 (小豆泽心羽).txt"
+},
+{
+"type": "file",
+"name": "118-10 刻下名字.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "119 背光的镜头光晕 (WxS_神代类)",
+"children": [
+{
+"type": "file",
+"name": "119-01 下一个舞台…….txt"
+},
+{
+"type": "file",
+"name": "119-02 开镜.txt"
+},
+{
+"type": "file",
+"name": "119-03 意想不到的提议.txt"
+},
+{
+"type": "file",
+"name": "119-04 向前一步.txt"
+},
+{
+"type": "file",
+"name": "119-05 电影的表现手法.txt"
+},
+{
+"type": "file",
+"name": "119-06 看不见的出口.txt"
+},
+{
+"type": "file",
+"name": "119-07 最后一天.txt"
+},
+{
+"type": "file",
+"name": "119-08 为了向前.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "120 Take the Best Shot！ (Mix_小豆泽心羽)",
+"children": [
+{
+"type": "file",
+"name": "120-01 为了送出那块巧克力.txt"
+},
+{
+"type": "file",
+"name": "120-02 组成队伍！.txt"
+},
+{
+"type": "file",
+"name": "120-03 可靠的帮手.txt"
+},
+{
+"type": "file",
+"name": "120-04 极具冲击力的一张照片.txt"
+},
+{
+"type": "file",
+"name": "120-05 对手出现！.txt"
+},
+{
+"type": "file",
+"name": "120-06 那天的照片.txt"
+},
+{
+"type": "file",
+"name": "120-07 最棒的照片.txt"
+},
+{
+"type": "file",
+"name": "120-08 战斗之后.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "121 勇敢引导，温柔在心 (Ln_望月穗波)",
+"children": [
+{
+"type": "file",
+"name": "121-01 我的目标.txt"
+},
+{
+"type": "file",
+"name": "121-02 从开心的事开始.txt"
+},
+{
+"type": "file",
+"name": "121-03 想要帮助你.txt"
+},
+{
+"type": "file",
+"name": "121-04 新的职责.txt"
+},
+{
+"type": "file",
+"name": "121-05 支离破碎的演奏.txt"
+},
+{
+"type": "file",
+"name": "121-06 朝着同一个方向.txt"
+},
+{
+"type": "file",
+"name": "121-07 为了献上最精彩的演出.txt"
+},
+{
+"type": "file",
+"name": "121-08 引导之音.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "122 刻下的伤痕，总有一天 (MMJ_花里实乃理)",
+"children": [
+{
+"type": "file",
+"name": "122-01 紧张心跳的协商会议！.txt"
+},
+{
+"type": "file",
+"name": "122-02 看房子！MORE MORE HOUSE的备选项！.txt"
+},
+{
+"type": "file",
+"name": "122-03 令人期待的第四家…….txt"
+},
+{
+"type": "file",
+"name": "122-04 意料之外的电话.txt"
+},
+{
+"type": "file",
+"name": "122-05 工作报告！.txt"
+},
+{
+"type": "file",
+"name": "122-06 重逢之后.txt"
+},
+{
+"type": "file",
+"name": "122-07 意想不到的麻烦？！.txt"
+},
+{
+"type": "file",
+"name": "122-08 结束拍摄.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "123 Relax Teatime (Mix_宵崎奏)",
+"children": [
+{
+"type": "file",
+"name": "123-01 给一直关照自己的人们.txt"
+},
+{
+"type": "file",
+"name": "123-02 帮手登场.txt"
+},
+{
+"type": "file",
+"name": "123-03 前往购物中心吧！.txt"
+},
+{
+"type": "file",
+"name": "123-04 无法抉择的礼物.txt"
+},
+{
+"type": "file",
+"name": "123-05 开始调查！.txt"
+},
+{
+"type": "file",
+"name": "123-06 我的想法是…….txt"
+},
+{
+"type": "file",
+"name": "123-07 意料之外的提议.txt"
+},
+{
+"type": "file",
+"name": "123-08 在这美好的一天.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "124 向着星星，启航！ (WxS_WL)",
+"children": [
+{
+"type": "file",
+"name": "124-01 冒险开幕.txt"
+},
+{
+"type": "file",
+"name": "124-02 被疏远的玩偶 (神代类).txt"
+},
+{
+"type": "file",
+"name": "124-03 再度演出·僵尸表演！ (神代类).txt"
+},
+{
+"type": "file",
+"name": "124-04 因为我明白这份感受 (草薙宁宁).txt"
+},
+{
+"type": "file",
+"name": "124-05 想到崇拜的人 (草薙宁宁).txt"
+},
+{
+"type": "file",
+"name": "124-06 无法实现的梦想 (凤笑梦).txt"
+},
+{
+"type": "file",
+"name": "124-07 只要一起就一定…… (凤笑梦).txt"
+},
+{
+"type": "file",
+"name": "124-08 抓捕作战？！ (天马司).txt"
+},
+{
+"type": "file",
+"name": "124-09 不管多少次 (天马司).txt"
+},
+{
+"type": "file",
+"name": "124-10 向着星星.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "125 The first concerto (VBS_青柳冬弥)",
+"children": [
+{
+"type": "file",
+"name": "125-01 承载一切的歌曲.txt"
+},
+{
+"type": "file",
+"name": "125-02 冬弥的笔记本.txt"
+},
+{
+"type": "file",
+"name": "125-03 骄傲.txt"
+},
+{
+"type": "file",
+"name": "125-04 我再也不会…….txt"
+},
+{
+"type": "file",
+"name": "125-05 未写下的心愿.txt"
+},
+{
+"type": "file",
+"name": "125-06 无法消失的内疚感.txt"
+},
+{
+"type": "file",
+"name": "125-07 正因过去不会改变.txt"
+},
+{
+"type": "file",
+"name": "125-08 用这首歌曲.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "126 Rise as ONE！ (Mix_东云彰人)",
+"children": [
+{
+"type": "file",
+"name": "126-01 和搭档一起.txt"
+},
+{
+"type": "file",
+"name": "126-02 狗狗大集合.txt"
+},
+{
+"type": "file",
+"name": "126-03 不情不愿的理由.txt"
+},
+{
+"type": "file",
+"name": "126-04 难以抗衡的恐惧.txt"
+},
+{
+"type": "file",
+"name": "126-05 为了消除恐惧…….txt"
+},
+{
+"type": "file",
+"name": "126-06 为了了解麦克思.txt"
+},
+{
+"type": "file",
+"name": "126-07 提升难度.txt"
+},
+{
+"type": "file",
+"name": "126-08 最棒的一跃.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "127 Knowing the Unseen (N25_东云绘名)",
+"children": [
+{
+"type": "file",
+"name": "127-01 摇摆不定的心意.txt"
+},
+{
+"type": "file",
+"name": "127-02 遥远的存在.txt"
+},
+{
+"type": "file",
+"name": "127-03 个展是什么？.txt"
+},
+{
+"type": "file",
+"name": "127-04 忧郁的早晨.txt"
+},
+{
+"type": "file",
+"name": "127-05 必须好好面对.txt"
+},
+{
+"type": "file",
+"name": "127-06 深夜的景色.txt"
+},
+{
+"type": "file",
+"name": "127-07 感受到的情感.txt"
+},
+{
+"type": "file",
+"name": "127-08 和绘画一起…….txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "128 Parallel Harmonies (Ln_天马咲希)",
+"children": [
+{
+"type": "file",
+"name": "128-01 Leo／need的出道曲.txt"
+},
+{
+"type": "file",
+"name": "128-02 两种才华.txt"
+},
+{
+"type": "file",
+"name": "128-03 开始，作曲！.txt"
+},
+{
+"type": "file",
+"name": "128-04 作曲集训！.txt"
+},
+{
+"type": "file",
+"name": "128-05 无法相融的声音.txt"
+},
+{
+"type": "file",
+"name": "128-06 引导下的心愿与情感.txt"
+},
+{
+"type": "file",
+"name": "128-07 接受，并将心愿谱写成音乐.txt"
+},
+{
+"type": "file",
+"name": "128-08 交织的乐音.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "129 Whip the wimp girl!! (VBS_白石杏)",
+"children": [
+{
+"type": "file",
+"name": "129-01 战斗.txt"
+},
+{
+"type": "file",
+"name": "129-02 些许的迷茫.txt"
+},
+{
+"type": "file",
+"name": "129-03 对这份心情做个了结.txt"
+},
+{
+"type": "file",
+"name": "129-04 无法言喻的情感.txt"
+},
+{
+"type": "file",
+"name": "129-05 相似的心情.txt"
+},
+{
+"type": "file",
+"name": "129-06 我们的对决.txt"
+},
+{
+"type": "file",
+"name": "129-07 所谓搭档.txt"
+},
+{
+"type": "file",
+"name": "129-08 毫不动摇，立于此地.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "130 总有一日，登上鲜花盛放的舞台 (MMJ_WL)",
+"children": [
+{
+"type": "file",
+"name": "130-01 难得的休息！.txt"
+},
+{
+"type": "file",
+"name": "130-02 放学后的一幕 (桃井爱莉).txt"
+},
+{
+"type": "file",
+"name": "130-03 在「世界」诞生的地方 (桃井爱莉).txt"
+},
+{
+"type": "file",
+"name": "130-04 为直播做准备 (桐谷遥).txt"
+},
+{
+"type": "file",
+"name": "130-05 起舞的是 (桐谷遥).txt"
+},
+{
+"type": "file",
+"name": "130-06 拆行李的过程中 (日野森雫).txt"
+},
+{
+"type": "file",
+"name": "130-07 潜藏在水中的是 (日野森雫).txt"
+},
+{
+"type": "file",
+"name": "130-08 一起拼命特训！ (花里实乃理).txt"
+},
+{
+"type": "file",
+"name": "130-09 继承的心愿 (花里实乃理).txt"
+},
+{
+"type": "file",
+"name": "130-10 连接希望.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "131 perspective for smile (WxS_凤笑梦)",
+"children": [
+{
+"type": "file",
+"name": "131-01 团长登场！.txt"
+},
+{
+"type": "file",
+"name": "131-02 被托付的角色.txt"
+},
+{
+"type": "file",
+"name": "131-03 欠缺的东西.txt"
+},
+{
+"type": "file",
+"name": "131-04 该如何去演绎.txt"
+},
+{
+"type": "file",
+"name": "131-05 特训！特训！特训！.txt"
+},
+{
+"type": "file",
+"name": "131-06 弱点.txt"
+},
+{
+"type": "file",
+"name": "131-07 大家的“视角”.txt"
+},
+{
+"type": "file",
+"name": "131-08 为了传达那种心情.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "132 大家来直播♡WEDDING LIVE！ (Mix_花里实乃理)",
+"children": [
+{
+"type": "file",
+"name": "132-01 新的一届婚庆展！.txt"
+},
+{
+"type": "file",
+"name": "132-02 要一起直播？！.txt"
+},
+{
+"type": "file",
+"name": "132-03 充满幻想的婚礼.txt"
+},
+{
+"type": "file",
+"name": "132-04 大家来聊实乃理！.txt"
+},
+{
+"type": "file",
+"name": "132-05 婚礼表演的后台.txt"
+},
+{
+"type": "file",
+"name": "132-06 救场的是偶像.txt"
+},
+{
+"type": "file",
+"name": "132-07 一起举办婚礼演唱会♡.txt"
+},
+{
+"type": "file",
+"name": "132-08 就和婚礼一样.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "133 Lead to shine more (MMJ_桐谷遥)",
+"children": [
+{
+"type": "file",
+"name": "133-01 如何选择工作.txt"
+},
+{
+"type": "file",
+"name": "133-02 不足之处.txt"
+},
+{
+"type": "file",
+"name": "133-03 那个人的教导.txt"
+},
+{
+"type": "file",
+"name": "133-04 我们的个性.txt"
+},
+{
+"type": "file",
+"name": "133-05 得出的答案.txt"
+},
+{
+"type": "file",
+"name": "133-06 竭尽全力去传递.txt"
+},
+{
+"type": "file",
+"name": "133-07 一起.txt"
+},
+{
+"type": "file",
+"name": "133-08 新的决心.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "134 揽灯近前 (N25_朝比奈真冬)",
+"children": [
+{
+"type": "file",
+"name": "134-01 征兆.txt"
+},
+{
+"type": "file",
+"name": "134-02 无法前进.txt"
+},
+{
+"type": "file",
+"name": "134-03 那个夜晚.txt"
+},
+{
+"type": "file",
+"name": "134-04 难以言表的理由.txt"
+},
+{
+"type": "file",
+"name": "134-05 温暖的归途.txt"
+},
+{
+"type": "file",
+"name": "134-06 回忆.txt"
+},
+{
+"type": "file",
+"name": "134-07 雷鸣之夜.txt"
+},
+{
+"type": "file",
+"name": "134-08 紧握那道光芒.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "135 OVER RAD SQUAD!! (VBS_小豆泽心羽)",
+"children": [
+{
+"type": "file",
+"name": "135-01 一周前.txt"
+},
+{
+"type": "file",
+"name": "135-02 心羽的课题.txt"
+},
+{
+"type": "file",
+"name": "135-03 特别教练.txt"
+},
+{
+"type": "file",
+"name": "135-04 以失败为动力.txt"
+},
+{
+"type": "file",
+"name": "135-05 我的私心.txt"
+},
+{
+"type": "file",
+"name": "135-06 RAD BLAST.txt"
+},
+{
+"type": "file",
+"name": "135-07 一定要，成为最棒.txt"
+},
+{
+"type": "file",
+"name": "135-08 迈向下一个世界.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "136 捉拿归案？！天马捕物帐 (WxS_天马司)",
+"children": [
+{
+"type": "file",
+"name": "136-01 一起锻炼身体！.txt"
+},
+{
+"type": "file",
+"name": "136-02 日织古装剧村.txt"
+},
+{
+"type": "file",
+"name": "136-03 公演中止？！.txt"
+},
+{
+"type": "file",
+"name": "136-04 一决胜负！小偷忍者.txt"
+},
+{
+"type": "file",
+"name": "136-05 如果能再跑快点.txt"
+},
+{
+"type": "file",
+"name": "136-06 碰壁之时.txt"
+},
+{
+"type": "file",
+"name": "136-07 让自己登上高处.txt"
+},
+{
+"type": "file",
+"name": "136-08 心技体.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "137 那天仰望的夜空，将通向我们的未来 (Ln_WL)",
+"children": [
+{
+"type": "file",
+"name": "137-01 让更多的人听到.txt"
+},
+{
+"type": "file",
+"name": "137-02 神奇的感觉 (天马咲希).txt"
+},
+{
+"type": "file",
+"name": "137-03 没事的哦 (天马咲希).txt"
+},
+{
+"type": "file",
+"name": "137-04 更加坚强 (望月穗波).txt"
+},
+{
+"type": "file",
+"name": "137-05 那天的我们 (望月穗波).txt"
+},
+{
+"type": "file",
+"name": "137-06 想和大家一起玩音乐 (日野森志步).txt"
+},
+{
+"type": "file",
+"name": "137-07 今后的道路要一起走 (日野森志步).txt"
+},
+{
+"type": "file",
+"name": "137-08 你了不起的地方 (星乃一歌).txt"
+},
+{
+"type": "file",
+"name": "137-09 轨道的尽头 (星乃一歌).txt"
+},
+{
+"type": "file",
+"name": "137-10 向着那片星空.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "138 Chase my IDEAL IDOL！ (MMJ_桃井爱莉)",
+"children": [
+{
+"type": "file",
+"name": "138-01 下一份工作是.txt"
+},
+{
+"type": "file",
+"name": "138-02 新的邂逅.txt"
+},
+{
+"type": "file",
+"name": "138-03 点燃的火苗.txt"
+},
+{
+"type": "file",
+"name": "138-04 特训开始！.txt"
+},
+{
+"type": "file",
+"name": "138-05 为了追逐理想.txt"
+},
+{
+"type": "file",
+"name": "138-06 登上舞台吧！.txt"
+},
+{
+"type": "file",
+"name": "138-07 向往的景色.txt"
+},
+{
+"type": "file",
+"name": "138-08 热情过后.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "139 奏响美妙乐音！ (Mix_青柳冬弥)",
+"children": [
+{
+"type": "file",
+"name": "139-01 涩谷音乐DAY.txt"
+},
+{
+"type": "file",
+"name": "139-02 接待顾客的特训！.txt"
+},
+{
+"type": "file",
+"name": "139-03 喜欢的心情.txt"
+},
+{
+"type": "file",
+"name": "139-04 少年与小号.txt"
+},
+{
+"type": "file",
+"name": "139-05 一起来挑战！.txt"
+},
+{
+"type": "file",
+"name": "139-06 音乐总有一天.txt"
+},
+{
+"type": "file",
+"name": "139-07 动人的音乐.txt"
+},
+{
+"type": "file",
+"name": "139-08 憧憬与喜悦.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "140 和你在「世界」的起点 (VS_WL)",
+"children": [
+{
+"type": "file",
+"name": "140-01 触碰「世界」的心愿.txt"
+},
+{
+"type": "file",
+"name": "140-02 在流星之夜 (巡音流歌).txt"
+},
+{
+"type": "file",
+"name": "140-03 在教室怀揣心愿 (巡音流歌).txt"
+},
+{
+"type": "file",
+"name": "140-04 从闪耀的舞台上 (镜音铃).txt"
+},
+{
+"type": "file",
+"name": "140-05 用传递希望的歌声 (镜音铃).txt"
+},
+{
+"type": "file",
+"name": "140-06 在狂热之夜 (MEIKO).txt"
+},
+{
+"type": "file",
+"name": "140-07 大家的容身之处 (MEIKO).txt"
+},
+{
+"type": "file",
+"name": "140-08 唱出超越那个夜晚的歌 (镜音连).txt"
+},
+{
+"type": "file",
+"name": "140-09 为了大家！ (镜音连).txt"
+},
+{
+"type": "file",
+"name": "140-10 用演出传递笑容 (KAITO).txt"
+},
+{
+"type": "file",
+"name": "140-11 默默守护心愿 (KAITO).txt"
+},
+{
+"type": "file",
+"name": "140-12 找到真正的自己 (初音未来).txt"
+},
+{
+"type": "file",
+"name": "140-13 平静而温暖 (初音未来).txt"
+},
+{
+"type": "file",
+"name": "140-14 茁壮成长的心愿.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "141 Wonderhorror～？！的试胆！ (Mix_凤笑梦)",
+"children": [
+{
+"type": "file",
+"name": "141-01 班长的工作.txt"
+},
+{
+"type": "file",
+"name": "141-02 志愿者的工作是除草！.txt"
+},
+{
+"type": "file",
+"name": "141-03 可靠的伙伴.txt"
+},
+{
+"type": "file",
+"name": "141-04 一起实地考察！.txt"
+},
+{
+"type": "file",
+"name": "141-05 和帮手一起打造可爱的妖怪.txt"
+},
+{
+"type": "file",
+"name": "141-06 大家一起快乐除草.txt"
+},
+{
+"type": "file",
+"name": "141-07 激动欢乐的试胆.txt"
+},
+{
+"type": "file",
+"name": "141-08 如果你绽放笑容.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "142 锻炼后FLY！Muscle Training！ (Mix_桐谷遥)",
+"children": [
+{
+"type": "file",
+"name": "142-01 把现在能做的.txt"
+},
+{
+"type": "file",
+"name": "142-02 SHINOBI-BATTLE.txt"
+},
+{
+"type": "file",
+"name": "142-03 迷茫与决心.txt"
+},
+{
+"type": "file",
+"name": "142-04 完美的体能训练计划.txt"
+},
+{
+"type": "file",
+"name": "142-05 开幕！.txt"
+},
+{
+"type": "file",
+"name": "142-06 简直就是SHINOBI.txt"
+},
+{
+"type": "file",
+"name": "142-07 为了不后悔.txt"
+},
+{
+"type": "file",
+"name": "142-08 永远严于律己.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "143 This moment with you！ (Ln_星乃一歌)",
+"children": [
+{
+"type": "file",
+"name": "143-01 今后的方针.txt"
+},
+{
+"type": "file",
+"name": "143-02 气泡咻咻与心里闷闷.txt"
+},
+{
+"type": "file",
+"name": "143-03 和她的相遇.txt"
+},
+{
+"type": "file",
+"name": "143-04 第一次组乐队.txt"
+},
+{
+"type": "file",
+"name": "143-05 未来给予我的一切.txt"
+},
+{
+"type": "file",
+"name": "143-06 心里闷闷的原因.txt"
+},
+{
+"type": "file",
+"name": "143-07 迷惘的内心.txt"
+},
+{
+"type": "file",
+"name": "143-08 无论承载怎样的情感.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "144 承载心愿！Dream Stage (Mix_草薙宁宁)",
+"children": [
+{
+"type": "file",
+"name": "144-01 涩谷高校节.txt"
+},
+{
+"type": "file",
+"name": "144-02 从头打造舞台表演.txt"
+},
+{
+"type": "file",
+"name": "144-03 集结的伙伴们.txt"
+},
+{
+"type": "file",
+"name": "144-04 齐心协力.txt"
+},
+{
+"type": "file",
+"name": "144-05 对唱歌的理解和感受.txt"
+},
+{
+"type": "file",
+"name": "144-06 将心愿化作歌曲.txt"
+},
+{
+"type": "file",
+"name": "144-07 把想法变成现实.txt"
+},
+{
+"type": "file",
+"name": "144-08 一定要让演出圆满成功.txt"
+},
+{
+"type": "file",
+"name": "144-09 与无数的心愿同行.txt"
+},
+{
+"type": "file",
+"name": "144-10 大家一起打造的舞台表演.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "145 荆棘之路通往何处 (N25_晓山瑞希)",
+"children": [
+{
+"type": "file",
+"name": "145-01 颤抖的手.txt"
+},
+{
+"type": "file",
+"name": "145-02 默默守护的人们.txt"
+},
+{
+"type": "file",
+"name": "145-03 朋友的祈祷.txt"
+},
+{
+"type": "file",
+"name": "145-04 下定决心的文化节.txt"
+},
+{
+"type": "file",
+"name": "145-05 因为一直在你身边.txt"
+},
+{
+"type": "file",
+"name": "145-06 一起.txt"
+},
+{
+"type": "file",
+"name": "145-07 你的表情.txt"
+},
+{
+"type": "file",
+"name": "145-08 对不起.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "146 Rekindle the flame (VBS_东云彰人)",
+"children": [
+{
+"type": "file",
+"name": "146-01 新的日常.txt"
+},
+{
+"type": "file",
+"name": "146-02 随着变化一起.txt"
+},
+{
+"type": "file",
+"name": "146-03 令人好奇的传闻.txt"
+},
+{
+"type": "file",
+"name": "146-04 那时的火焰.txt"
+},
+{
+"type": "file",
+"name": "146-05 那份热情，一定.txt"
+},
+{
+"type": "file",
+"name": "146-06 冲击心灵的歌声.txt"
+},
+{
+"type": "file",
+"name": "146-07 随着内心的冲动.txt"
+},
+{
+"type": "file",
+"name": "146-08 燃起的火焰.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "147 Happy Enjoy Music！ (Ln_天马咲希)",
+"children": [
+{
+"type": "file",
+"name": "147-01 闪闪亮亮的青春！.txt"
+},
+{
+"type": "file",
+"name": "147-02 感觉和平时不一样？！.txt"
+},
+{
+"type": "file",
+"name": "147-03 音乐节的心得.txt"
+},
+{
+"type": "file",
+"name": "147-04 自己的原则和信念.txt"
+},
+{
+"type": "file",
+"name": "147-05 尽全力去享受吧！.txt"
+},
+{
+"type": "file",
+"name": "147-06 演出后的庆功会.txt"
+},
+{
+"type": "file",
+"name": "147-07 回响着音乐的地方.txt"
+},
+{
+"type": "file",
+"name": "147-08 充满着快乐和幸福.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "148 又到秋叶染色之时 (Mix_日野森志步)",
+"children": [
+{
+"type": "file",
+"name": "148-01 两人的邀请.txt"
+},
+{
+"type": "file",
+"name": "148-02 最棒的计划.txt"
+},
+{
+"type": "file",
+"name": "148-03 去旅行的早上.txt"
+},
+{
+"type": "file",
+"name": "148-04 艰难的路途.txt"
+},
+{
+"type": "file",
+"name": "148-05 即使是寻常的风景.txt"
+},
+{
+"type": "file",
+"name": "148-06 摘葡萄大师！.txt"
+},
+{
+"type": "file",
+"name": "148-07 再次挑战赏枫之旅.txt"
+},
+{
+"type": "file",
+"name": "148-08 下次，我们四个一起.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "149 The Power Of Regret (WxS_草薙宁宁)",
+"children": [
+{
+"type": "file",
+"name": "149-01 前往森之宫歌剧团！.txt"
+},
+{
+"type": "file",
+"name": "149-02 森之宫音乐学园.txt"
+},
+{
+"type": "file",
+"name": "149-03 单独挑战的选拔.txt"
+},
+{
+"type": "file",
+"name": "149-04 紧张的氛围.txt"
+},
+{
+"type": "file",
+"name": "149-05 淘汰者.txt"
+},
+{
+"type": "file",
+"name": "149-06 勇于竞争的决心.txt"
+},
+{
+"type": "file",
+"name": "149-07 最后一天.txt"
+},
+{
+"type": "file",
+"name": "149-08 正因为认真.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "150 用我们，布满伤痕的双手 (N25_东云绘名)",
+"children": [
+{
+"type": "file",
+"name": "150-01 后悔.txt"
+},
+{
+"type": "file",
+"name": "150-02 被托付的心愿.txt"
+},
+{
+"type": "file",
+"name": "150-03 迷茫的心.txt"
+},
+{
+"type": "file",
+"name": "150-04 想要相信的未来.txt"
+},
+{
+"type": "file",
+"name": "150-05 因为是伙伴.txt"
+},
+{
+"type": "file",
+"name": "150-06 害怕.txt"
+},
+{
+"type": "file",
+"name": "150-07 逃避.txt"
+},
+{
+"type": "file",
+"name": "150-08 朋友.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "151 Grow glorious glow (MMJ_日野森雫)",
+"children": [
+{
+"type": "file",
+"name": "151-01 出乎意料的机会.txt"
+},
+{
+"type": "file",
+"name": "151-02 压倒性的光芒.txt"
+},
+{
+"type": "file",
+"name": "151-03 巨大的差距.txt"
+},
+{
+"type": "file",
+"name": "151-04 攀登的决心.txt"
+},
+{
+"type": "file",
+"name": "151-05 那时的我.txt"
+},
+{
+"type": "file",
+"name": "151-06 过去的影子.txt"
+},
+{
+"type": "file",
+"name": "151-07 气场.txt"
+},
+{
+"type": "file",
+"name": "151-08 坚实的一步.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "152 Special present for YOU！ (Mix_神代类)",
+"children": [
+{
+"type": "file",
+"name": "152-01 圣诞节的安排是.txt"
+},
+{
+"type": "file",
+"name": "152-02 期待的理由是？.txt"
+},
+{
+"type": "file",
+"name": "152-03 在滑雪场说你好.txt"
+},
+{
+"type": "file",
+"name": "152-04 某一年的圣诞节.txt"
+},
+{
+"type": "file",
+"name": "152-05 为了完成最精彩的演出.txt"
+},
+{
+"type": "file",
+"name": "152-06 大家一起制作提灯！.txt"
+},
+{
+"type": "file",
+"name": "152-07 名为演出的礼物.txt"
+},
+{
+"type": "file",
+"name": "152-08 致欣赏演出的各位.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "153 Unfading wishing (Mix_东云彰人)",
+"children": [
+{
+"type": "file",
+"name": "153-01 一如既往的新年前一天.txt"
+},
+{
+"type": "file",
+"name": "153-02 为新年直播做准备！.txt"
+},
+{
+"type": "file",
+"name": "153-03 意想不到的相遇.txt"
+},
+{
+"type": "file",
+"name": "153-04 回想起那天的.txt"
+},
+{
+"type": "file",
+"name": "153-05 作为挚友.txt"
+},
+{
+"type": "file",
+"name": "153-06 彼此表达感谢.txt"
+},
+{
+"type": "file",
+"name": "153-07 元旦的尾声.txt"
+},
+{
+"type": "file",
+"name": "153-08 将激励藏于心中.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "154 Time to take off！ (VBS_青柳冬弥)",
+"children": [
+{
+"type": "file",
+"name": "154-01 启程之前.txt"
+},
+{
+"type": "file",
+"name": "154-02 哥哥打来的电话.txt"
+},
+{
+"type": "file",
+"name": "154-03 突如其来的麻烦.txt"
+},
+{
+"type": "file",
+"name": "154-04 出乎意料的名字.txt"
+},
+{
+"type": "file",
+"name": "154-05 小巷里的音乐.txt"
+},
+{
+"type": "file",
+"name": "154-06 往事.txt"
+},
+{
+"type": "file",
+"name": "154-07 想知道的事.txt"
+},
+{
+"type": "file",
+"name": "154-08 注定，朝着同一个目标.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "155 Show your shine (Mix_宵崎奏)",
+"children": [
+{
+"type": "file",
+"name": "155-01 去买新衣服.txt"
+},
+{
+"type": "file",
+"name": "155-02 出发，去购物吧.txt"
+},
+{
+"type": "file",
+"name": "155-03 出乎意料的请求.txt"
+},
+{
+"type": "file",
+"name": "155-04 梳妆打扮真开心.txt"
+},
+{
+"type": "file",
+"name": "155-05 想成为你的力量.txt"
+},
+{
+"type": "file",
+"name": "155-06 换个角度.txt"
+},
+{
+"type": "file",
+"name": "155-07 想多聊聊.txt"
+},
+{
+"type": "file",
+"name": "155-08 最终的答案.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "156 在这针线中寄托心意 (Mix_日野森雫)",
+"children": [
+{
+"type": "file",
+"name": "156-01 为了回报平时的照顾.txt"
+},
+{
+"type": "file",
+"name": "156-02 午后的刺绣教学.txt"
+},
+{
+"type": "file",
+"name": "156-03 欢乐的干活时间.txt"
+},
+{
+"type": "file",
+"name": "156-04 浮现出的印象.txt"
+},
+{
+"type": "file",
+"name": "156-05 奶奶的宝物.txt"
+},
+{
+"type": "file",
+"name": "156-06 宝贵的时间.txt"
+},
+{
+"type": "file",
+"name": "156-07 寄托心意的礼物.txt"
+},
+{
+"type": "file",
+"name": "156-08 传达到的东西.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "157 Rise and Strive (MMJ_桐谷遥)",
+"children": [
+{
+"type": "file",
+"name": "157-01 些许的光明.txt"
+},
+{
+"type": "file",
+"name": "157-02 重要的事.txt"
+},
+{
+"type": "file",
+"name": "157-03 疑问.txt"
+},
+{
+"type": "file",
+"name": "157-04 传言.txt"
+},
+{
+"type": "file",
+"name": "157-05 对峙.txt"
+},
+{
+"type": "file",
+"name": "157-06 无论悔恨，还是未来.txt"
+},
+{
+"type": "file",
+"name": "157-07 即使如此，我们也要.txt"
+},
+{
+"type": "file",
+"name": "157-08 决心的支持者.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "158 昔日的Read-aloud (Mix_望月穗波)",
+"children": [
+{
+"type": "file",
+"name": "158-01 周末的安排.txt"
+},
+{
+"type": "file",
+"name": "158-02 最喜欢的图画书.txt"
+},
+{
+"type": "file",
+"name": "158-03 可靠的帮手.txt"
+},
+{
+"type": "file",
+"name": "158-04 相似的两人.txt"
+},
+{
+"type": "file",
+"name": "158-05 演出效果与彩排.txt"
+},
+{
+"type": "file",
+"name": "158-06 让人头疼的孩子们.txt"
+},
+{
+"type": "file",
+"name": "158-07 默契无间的配合.txt"
+},
+{
+"type": "file",
+"name": "158-08 最棒的Happy End.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "159 Connect hearts message (Mix_天马咲希)",
+"children": [
+{
+"type": "file",
+"name": "159-01 激动人心的企业研究学习.txt"
+},
+{
+"type": "file",
+"name": "159-02 专业认真的小组合作.txt"
+},
+{
+"type": "file",
+"name": "159-03 心跳加速的发表会.txt"
+},
+{
+"type": "file",
+"name": "159-04 也要感谢身边的人.txt"
+},
+{
+"type": "file",
+"name": "159-05 帮助传递心意.txt"
+},
+{
+"type": "file",
+"name": "159-06 能一直在一起的原因是.txt"
+},
+{
+"type": "file",
+"name": "159-07 表达感谢之情.txt"
+},
+{
+"type": "file",
+"name": "159-08 互赠的心意.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "160 You are my HERO!! (Mix_天马司)",
+"children": [
+{
+"type": "file",
+"name": "160-01 跑步时的相遇.txt"
+},
+{
+"type": "file",
+"name": "160-02 寻找喵太郎.txt"
+},
+{
+"type": "file",
+"name": "160-03 在Meow乐园玩个痛快！.txt"
+},
+{
+"type": "file",
+"name": "160-04 心中描绘的谢幕.txt"
+},
+{
+"type": "file",
+"name": "160-05 开始准备吧！.txt"
+},
+{
+"type": "file",
+"name": "160-06 为了最精彩的演出.txt"
+},
+{
+"type": "file",
+"name": "160-07 英雄登场！.txt"
+},
+{
+"type": "file",
+"name": "160-08 你是英雄.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "161 Unreliable Notes (N25_宵崎奏)",
+"children": [
+{
+"type": "file",
+"name": "161-01 温暖的回忆.txt"
+},
+{
+"type": "file",
+"name": "161-02 印象.txt"
+},
+{
+"type": "file",
+"name": "161-03 “爱意”.txt"
+},
+{
+"type": "file",
+"name": "161-04 未曾改变的心愿.txt"
+},
+{
+"type": "file",
+"name": "161-05 焦躁.txt"
+},
+{
+"type": "file",
+"name": "161-06 不遗余力的尽头.txt"
+},
+{
+"type": "file",
+"name": "161-07 为了向前迈进.txt"
+},
+{
+"type": "file",
+"name": "161-08 决心.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "162 Find the dream view (Ln_日野森志步)",
+"children": [
+{
+"type": "file",
+"name": "162-01 新的工作.txt"
+},
+{
+"type": "file",
+"name": "162-02 这样的演奏.txt"
+},
+{
+"type": "file",
+"name": "162-03 遗漏的视角.txt"
+},
+{
+"type": "file",
+"name": "162-04 舞台呈现讨论会！.txt"
+},
+{
+"type": "file",
+"name": "162-05 进化后的演出.txt"
+},
+{
+"type": "file",
+"name": "162-06 作为职业乐队.txt"
+},
+{
+"type": "file",
+"name": "162-07 Leo／need呈现的演出.txt"
+},
+{
+"type": "file",
+"name": "162-08 靠我们自己的力量.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "163 Turning Pain into Drive (VBS_WL)",
+"children": [
+{
+"type": "file",
+"name": "163-01 不同以往的当下.txt"
+},
+{
+"type": "file",
+"name": "163-02 向往的生活 (青柳冬弥).txt"
+},
+{
+"type": "file",
+"name": "163-03 珍贵的事物 (青柳冬弥).txt"
+},
+{
+"type": "file",
+"name": "163-04 即使独自一人 (东云彰人).txt"
+},
+{
+"type": "file",
+"name": "163-05 平行线开始动摇 (东云彰人).txt"
+},
+{
+"type": "file",
+"name": "163-06 引路者的心情 (小豆泽心羽).txt"
+},
+{
+"type": "file",
+"name": "163-07 心之所愿 (小豆泽心羽).txt"
+},
+{
+"type": "file",
+"name": "163-08 怀揣心中的约定 (白石杏).txt"
+},
+{
+"type": "file",
+"name": "163-09 有朝一日要用我的歌声 (白石杏).txt"
+},
+{
+"type": "file",
+"name": "163-10 Restart&Harmony.txt"
+},
+{
+"type": "file",
+"name": "163-11 奔赴梦想的未来.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "164 Choices for the future (WxS_凤笑梦)",
+"children": [
+{
+"type": "file",
+"name": "164-01 激动人心的舞台.txt"
+},
+{
+"type": "file",
+"name": "164-02 谜底揭晓时.txt"
+},
+{
+"type": "file",
+"name": "164-03 出人意料的问题.txt"
+},
+{
+"type": "file",
+"name": "164-04 前进的阻碍.txt"
+},
+{
+"type": "file",
+"name": "164-05 选择的道路.txt"
+},
+{
+"type": "file",
+"name": "164-06 抓住的机会.txt"
+},
+{
+"type": "file",
+"name": "164-07 要传递的想法.txt"
+},
+{
+"type": "file",
+"name": "164-08 直到最后.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "165 于是，指针开始转动 (N25_朝比奈真冬)",
+"children": [
+{
+"type": "file",
+"name": "165-01 昨天.txt"
+},
+{
+"type": "file",
+"name": "165-02 谈话.txt"
+},
+{
+"type": "file",
+"name": "165-03 指针开始转动.txt"
+},
+{
+"type": "file",
+"name": "165-04 母女.txt"
+},
+{
+"type": "file",
+"name": "165-05 迟滞，沉重.txt"
+},
+{
+"type": "file",
+"name": "165-06 “体谅”.txt"
+},
+{
+"type": "file",
+"name": "165-07 违和感.txt"
+},
+{
+"type": "file",
+"name": "165-08 指针，再次开始转动.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "167 Dear my fellows (WxS_WL)",
+"children": [
+{
+"type": "file",
+"name": "167-01 成长的征兆？.txt"
+},
+{
+"type": "file",
+"name": "167-02 启程 (神代类).txt"
+},
+{
+"type": "file",
+"name": "167-03 责任 (神代类).txt"
+},
+{
+"type": "file",
+"name": "167-04 新的环境 (天马司).txt"
+},
+{
+"type": "file",
+"name": "167-05 再次坚定决心 (天马司).txt"
+},
+{
+"type": "file",
+"name": "167-06 焦虑的内心 (草薙宁宁).txt"
+},
+{
+"type": "file",
+"name": "167-07 大家的话，一定会 (草薙宁宁).txt"
+},
+{
+"type": "file",
+"name": "167-08 让舞台绽放笑容 (凤笑梦).txt"
+},
+{
+"type": "file",
+"name": "167-09 那时的感受也 (凤笑梦).txt"
+},
+{
+"type": "file",
+"name": "167-10 献上让人绽放笑容的演出.txt"
+},
+{
+"type": "file",
+"name": "167-11 因为是我们四个.txt"
+}
+]
+}
+]
+},
+{
+"type": "dir",
+"name": "main",
+"children": [
+{
+"type": "dir",
+"name": "1 虚拟歌手",
+"children": [
+{
+"type": "file",
+"name": "vsleo_01_01 秘密练习.txt"
+},
+{
+"type": "file",
+"name": "vsleo_01_02 学姐能做到的事.txt"
+},
+{
+"type": "file",
+"name": "vsleo_01_03 出人意料的一面.txt"
+},
+{
+"type": "file",
+"name": "vsleo_01_04 闪闪发光的每一天.txt"
+},
+{
+"type": "file",
+"name": "vsmmj_01_01 全力以赴的演唱会！.txt"
+},
+{
+"type": "file",
+"name": "vsmmj_01_02 打起精神来.txt"
+},
+{
+"type": "file",
+"name": "vsmmj_01_03 蓝色的舞台.txt"
+},
+{
+"type": "file",
+"name": "vsmmj_01_04 一起来开演唱会！.txt"
+},
+{
+"type": "file",
+"name": "vsnightcode_01_01 从一开始就存在的歌.txt"
+},
+{
+"type": "file",
+"name": "vsnightcode_01_02 痛苦的音符.txt"
+},
+{
+"type": "file",
+"name": "vsnightcode_01_03 我会陪在你身边.txt"
+},
+{
+"type": "file",
+"name": "vsnightcode_01_04 你的音乐.txt"
+},
+{
+"type": "file",
+"name": "vsstreet_01_01 MEIKO研制的新品.txt"
+},
+{
+"type": "file",
+"name": "vsstreet_01_02 成熟的口味.txt"
+},
+{
+"type": "file",
+"name": "vsstreet_01_03 迈出和好的一步.txt"
+},
+{
+"type": "file",
+"name": "vsstreet_01_04 大家一起歌唱！.txt"
+},
+{
+"type": "file",
+"name": "vswonder_01_01 玩偶装与奇妙幻境.txt"
+},
+{
+"type": "file",
+"name": "vswonder_01_02 有终才有始.txt"
+},
+{
+"type": "file",
+"name": "vswonder_01_03 让你绽放笑容的演出.txt"
+},
+{
+"type": "file",
+"name": "vswonder_01_04 在飞天舞台演出？！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "2 Leo／need",
+"children": [
+{
+"type": "file",
+"name": "leo_01_00 序章.txt"
+},
+{
+"type": "file",
+"name": "leo_01_01 第四位儿时的伙伴.txt"
+},
+{
+"type": "file",
+"name": "leo_01_02 至少我…….txt"
+},
+{
+"type": "file",
+"name": "leo_01_03 只有两个人好像有点寂寞.txt"
+},
+{
+"type": "file",
+"name": "leo_01_04 教室「世界」.txt"
+},
+{
+"type": "file",
+"name": "leo_01_05 要不要组个乐队？.txt"
+},
+{
+"type": "file",
+"name": "leo_01_06 第一步.txt"
+},
+{
+"type": "file",
+"name": "leo_01_07 流歌姐，教教我！.txt"
+},
+{
+"type": "file",
+"name": "leo_01_08 看不见的星星.txt"
+},
+{
+"type": "file",
+"name": "leo_01_09 三人合奏？！.txt"
+},
+{
+"type": "file",
+"name": "leo_01_10 攀登架与流星雨.txt"
+},
+{
+"type": "file",
+"name": "leo_01_11 我可警告过你们了.txt"
+},
+{
+"type": "file",
+"name": "leo_01_12 “你到底帮谁？”.txt"
+},
+{
+"type": "file",
+"name": "leo_01_13 咲希的决定.txt"
+},
+{
+"type": "file",
+"name": "leo_01_14 因为珍惜.txt"
+},
+{
+"type": "file",
+"name": "leo_01_15 别自欺欺人了.txt"
+},
+{
+"type": "file",
+"name": "leo_01_16 “永不分离”.txt"
+},
+{
+"type": "file",
+"name": "leo_01_17 穗波的心愿.txt"
+},
+{
+"type": "file",
+"name": "leo_01_18 四个人的星空.txt"
+},
+{
+"type": "file",
+"name": "leo_01_19 needLe.txt"
+},
+{
+"type": "file",
+"name": "leo_01_20 Leo／need.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "3 MORE MORE JUMP！",
+"children": [
+{
+"type": "file",
+"name": "mmj_01_00 序章.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_01 崇拜的偶像！.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_02 把话说清楚！.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_03 只要努力就一定可以…….txt"
+},
+{
+"type": "file",
+"name": "mmj_01_04 正因为是偶像.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_05 来看演唱会吧！.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_06 舞台「世界」.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_07 偶像们的纠葛.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_08 伤人的话语.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_09 铃带来的勇气！.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_10 隐退.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_11 一直以来，谢谢你们.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_12 偶像的资格.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_13 骗子.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_14 我能传递给观众的事物.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_15 似近实远的舞台.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_16 蔚蓝的景色.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_17 再次欣赏那片景色.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_18 那一天看到的希望.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_19 偶像新锐队.txt"
+},
+{
+"type": "file",
+"name": "mmj_01_20 MORE MORE JUMP！.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "4 Vivid BAD SQUAD",
+"children": [
+{
+"type": "file",
+"name": "street_01_00 序章.txt"
+},
+{
+"type": "file",
+"name": "street_01_01 满是涂鸦的街头.txt"
+},
+{
+"type": "file",
+"name": "street_01_02 最让人心潮澎湃的歌.txt"
+},
+{
+"type": "file",
+"name": "street_01_03 WEEKEND GARAGE.txt"
+},
+{
+"type": "file",
+"name": "street_01_04 BAD DOGS.txt"
+},
+{
+"type": "file",
+"name": "street_01_05 街头「世界」.txt"
+},
+{
+"type": "file",
+"name": "street_01_06 神奇的咖啡厅.txt"
+},
+{
+"type": "file",
+"name": "street_01_07 秘密的练习宝地.txt"
+},
+{
+"type": "file",
+"name": "street_01_08 我想这么认为.txt"
+},
+{
+"type": "file",
+"name": "street_01_09 首场演唱会.txt"
+},
+{
+"type": "file",
+"name": "street_01_10 被质疑的信念.txt"
+},
+{
+"type": "file",
+"name": "street_01_11 打开门的勇气.txt"
+},
+{
+"type": "file",
+"name": "street_01_12 绝不逃避！.txt"
+},
+{
+"type": "file",
+"name": "street_01_13 Vivids！.txt"
+},
+{
+"type": "file",
+"name": "street_01_14 你是认真的吗.txt"
+},
+{
+"type": "file",
+"name": "street_01_15 因为他们承认了我们的实力.txt"
+},
+{
+"type": "file",
+"name": "street_01_16 第三个人.txt"
+},
+{
+"type": "file",
+"name": "street_01_17 连与MEIKO与“秘密武器”.txt"
+},
+{
+"type": "file",
+"name": "street_01_18 决意.txt"
+},
+{
+"type": "file",
+"name": "street_01_19 Ready Steady.txt"
+},
+{
+"type": "file",
+"name": "street_01_20 Vivid BAD SQUAD.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "5 Wonderlands×Showtime",
+"children": [
+{
+"type": "file",
+"name": "wonder_01_00 序章.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_01 欢迎来到奇幻舞台！.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_02 与未来之星Wonderhoi.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_03 奇幻乐园「世界」.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_04 物色成员！.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_05 异想天开的导演.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_06 第四名成员？.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_07 宁宁机器人登台亮相？！.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_08 演出剧团！成立！.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_09 怪人发挥本领.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_10 KAITO的提示.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_11 笑梦的梦想.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_12 公演开始！.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_13 失去的笑容.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_14 那日的心愿.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_15 爷爷的舞台.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_16 绝对不会失败的方法.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_17 孤独的炼金术师.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_18 什么是“最精彩的演出”.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_19 「世界」还没开始.txt"
+},
+{
+"type": "file",
+"name": "wonder_01_20 Wonderlands×Showtime.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "6 25点，Nightcord见。",
+"children": [
+{
+"type": "file",
+"name": "nightcode_01_00 序章.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_01 午夜音乐社团.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_02 白色的初音未来.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_03 OWN.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_04 我是好孩子.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_05 消失的雪.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_06 无人「世界」.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_07 你们也都想抛开一切不是吗？.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_08 平庸之人的画.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_09 我只是想做自己而已.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_10 凭这种旋律是不够的.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_11 创作带来幸福的音乐.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_12 独一无二的歌.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_13 迷失的“自我”.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_14 会感到寂寞的.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_15 在自暴自弃之前.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_16 崩溃.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_17 两个人的诅咒.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_18 就算是这样我也要救你.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_19 写作悔恨的未来.txt"
+},
+{
+"type": "file",
+"name": "nightcode_01_20 25点，Nightcord见。.txt"
+}
+]
+}
+]
+},
+{
+"type": "dir",
+"name": "self",
+"children": [
+{
+"type": "file",
+"name": "01 Ln_星乃一歌.txt"
+},
+{
+"type": "file",
+"name": "02 Ln_天马咲希.txt"
+},
+{
+"type": "file",
+"name": "03 Ln_望月穗波.txt"
+},
+{
+"type": "file",
+"name": "04 Ln_日野森志步.txt"
+},
+{
+"type": "file",
+"name": "05 MMJ_花里实乃理.txt"
+},
+{
+"type": "file",
+"name": "06 MMJ_桐谷遥.txt"
+},
+{
+"type": "file",
+"name": "07 MMJ_桃井爱莉.txt"
+},
+{
+"type": "file",
+"name": "08 MMJ_日野森雫.txt"
+},
+{
+"type": "file",
+"name": "09 VBS_小豆泽心羽.txt"
+},
+{
+"type": "file",
+"name": "10 VBS_白石杏.txt"
+},
+{
+"type": "file",
+"name": "11 VBS_东云彰人.txt"
+},
+{
+"type": "file",
+"name": "12 VBS_青柳冬弥.txt"
+},
+{
+"type": "file",
+"name": "13 WxS_天马司.txt"
+},
+{
+"type": "file",
+"name": "14 WxS_凤笑梦.txt"
+},
+{
+"type": "file",
+"name": "15 WxS_草薙宁宁.txt"
+},
+{
+"type": "file",
+"name": "16 WxS_神代类.txt"
+},
+{
+"type": "file",
+"name": "17 N25_宵崎奏.txt"
+},
+{
+"type": "file",
+"name": "18 N25_朝比奈真冬.txt"
+},
+{
+"type": "file",
+"name": "19 N25_东云绘名.txt"
+},
+{
+"type": "file",
+"name": "20 N25_晓山瑞希.txt"
+},
+{
+"type": "file",
+"name": "21 VS_初音未来.txt"
+},
+{
+"type": "file",
+"name": "22 VS_镜音铃.txt"
+},
+{
+"type": "file",
+"name": "23 VS_镜音连.txt"
+},
+{
+"type": "file",
+"name": "24 VS_巡音流歌.txt"
+},
+{
+"type": "file",
+"name": "25 VS_MEIKO.txt"
+},
+{
+"type": "file",
+"name": "26 VS_KAITO.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "special",
+"children": [
+{
+"type": "file",
+"name": "sp003 1周年跨年倒计时动画01.txt"
+},
+{
+"type": "file",
+"name": "sp004 1周年跨年倒计时动画02.txt"
+},
+{
+"type": "file",
+"name": "sp005 1周年跨年倒计时动画03.txt"
+},
+{
+"type": "file",
+"name": "sp006 1周年跨年倒计时动画04.txt"
+},
+{
+"type": "file",
+"name": "sp007 1周年跨年倒计时动画05.txt"
+},
+{
+"type": "file",
+"name": "sp008 1周年跨年倒计时动画06.txt"
+},
+{
+"type": "file",
+"name": "sp009 遷移測試用劇情_聯動的「世界」.txt"
+},
+{
+"type": "file",
+"name": "sp010 愚人节2023前导动画.txt"
+},
+{
+"type": "file",
+"name": "sp011 愚人节2023后日谈动画.txt"
+},
+{
+"type": "file",
+"name": "sp014 2周年跨年倒计时动画01.txt"
+},
+{
+"type": "file",
+"name": "sp015 2周年跨年倒计时动画02.txt"
+},
+{
+"type": "file",
+"name": "sp016 2周年跨年倒计时动画03.txt"
+},
+{
+"type": "file",
+"name": "sp017 2周年跨年倒计时动画04.txt"
+},
+{
+"type": "file",
+"name": "sp018 2周年跨年倒计时动画05.txt"
+},
+{
+"type": "file",
+"name": "sp019 2周年跨年倒计时动画06.txt"
+},
+{
+"type": "file",
+"name": "sp022 愚人节2024前导动画.txt"
+},
+{
+"type": "file",
+"name": "sp023 愚人节2024后日谈动画.txt"
+},
+{
+"type": "file",
+"name": "sp024 [回响]恶之大罪系列前导动画.txt"
+},
+{
+"type": "file",
+"name": "sp028 3周年跨年倒计时动画01.txt"
+},
+{
+"type": "file",
+"name": "sp029 3周年跨年倒计时动画02.txt"
+},
+{
+"type": "file",
+"name": "sp030 3周年跨年倒计时动画03.txt"
+},
+{
+"type": "file",
+"name": "sp031 3周年跨年倒计时动画04.txt"
+},
+{
+"type": "file",
+"name": "sp032 3周年跨年倒计时动画05.txt"
+},
+{
+"type": "file",
+"name": "sp033 3周年跨年倒计时动画06.txt"
+},
+{
+"type": "file",
+"name": "sp034 3周年动画.txt"
+},
+{
+"type": "file",
+"name": "sp036 [初音未来：缤纷舞台×三丽鸥家族]联动纪念登录剧情序章.txt"
+},
+{
+"type": "file",
+"name": "sp037 [初音未来：缤纷舞台×三丽鸥家族]联动纪念登录剧情终章.txt"
+},
+{
+"type": "file",
+"name": "sp038 3900's感谢庆典动画.txt"
+},
+{
+"type": "file",
+"name": "sp039 愚人节2025前导动画.txt"
+},
+{
+"type": "file",
+"name": "sp040 愚人节2025后日谈动画.txt"
+},
+{
+"type": "file",
+"name": "sp041 连线演唱会 RESONANCE BEATS!! 演出前一天剧情.txt"
+},
+{
+"type": "file",
+"name": "sp042 4周年跨年倒计时动画01.txt"
+},
+{
+"type": "file",
+"name": "sp043 4周年跨年倒计时动画02.txt"
+},
+{
+"type": "file",
+"name": "sp044 4周年跨年倒计时动画03.txt"
+},
+{
+"type": "file",
+"name": "sp045 4周年跨年倒计时动画04.txt"
+},
+{
+"type": "file",
+"name": "sp046 4周年跨年倒计时动画05.txt"
+},
+{
+"type": "file",
+"name": "sp047 4周年跨年倒计时动画06.txt"
+},
+{
+"type": "file",
+"name": "sp049 [初音未来：缤纷舞台×偶像梦幻祭2]联动纪念登录剧情 序章.txt"
+},
+{
+"type": "file",
+"name": "sp050 [初音未来：缤纷舞台×偶像梦幻祭2]联动纪念登录剧情 终章.txt"
+},
+{
+"type": "file",
+"name": "sp052 连接世界活动前日谈登录剧情.txt"
+},
+{
+"type": "file",
+"name": "sp053 愚人节2026前导动画.txt"
+},
+{
+"type": "file",
+"name": "sp054 愚人节2026后日谈动画.txt"
+},
+{
+"type": "file",
+"name": "sp058 1.5周年登录剧情.txt"
+},
+{
+"type": "file",
+"name": "sp059 1.5周年特别寄语前导登录剧情.txt"
+}
+]
+}
+]

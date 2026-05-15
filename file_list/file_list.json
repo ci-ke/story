@@ -1,0 +1,38 @@
+[
+{
+"type": "dir",
+"name": "ProjectSekai-story",
+"children": [
+{
+"type": "dir",
+"name": "story_cn"
+},
+{
+"type": "dir",
+"name": "story_jp"
+},
+{
+"type": "dir",
+"name": "story_tw"
+}
+]
+},
+{
+"type": "dir",
+"name": "BangDream-story",
+"children": [
+{
+"type": "dir",
+"name": "story_cn"
+},
+{
+"type": "dir",
+"name": "story_jp"
+},
+{
+"type": "dir",
+"name": "story_tw"
+}
+]
+}
+]
