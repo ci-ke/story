@@ -23,6 +23,9 @@ jobs:
       - name: Setup uv
         uses: astral-sh/setup-uv@v7
 
+      - name: Clean old file_list directory
+        run: rm -rf file_list
+
       - name: Run generate_action.py
         run: uv run generate_action.py
 
@@ -30,6 +33,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
+          git add file_list
           git commit -m "Sync file list" || echo "No changes"
           git push
