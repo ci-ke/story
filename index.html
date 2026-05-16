@@ -78,7 +78,7 @@
       white-space: pre-wrap;
       line-height: 1.6;
       overflow-wrap: break-word;
-      word-break: break-all;
+      word-break: normal;
       padding-bottom: 100px;
     }
 
@@ -422,7 +422,7 @@
         const text = await res.text();
         const urlRegex = /https?:\/\/[^\s）)】」』\]\[）)\],，。！？]+/g;
         const html = text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
-          .replace(urlRegex, m => `<a href="${m}" target="_blank" rel="noopener">${m}</a>`);
+          .replace(urlRegex, m => `<a href="${m}" target="_blank" rel="noopener" style="word-break:break-all">${m}</a>`);
         contentEl.innerHTML = html;
       } catch (e) {
         contentEl.textContent = '加载失败：' + e.message;
