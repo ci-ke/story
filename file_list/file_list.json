@@ -31,6 +31,10 @@
 },
 {
 "type": "dir",
+"name": "story_en"
+},
+{
+"type": "dir",
 "name": "story_jp"
 },
 {
