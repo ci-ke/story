@@ -2167,6 +2167,10 @@
 },
 {
 "type": "file",
+"name": "2303_户山香澄_R4 绝佳礼物！.txt"
+},
+{
+"type": "file",
 "name": "2316_户山香澄_R5 来打开那扇门吧！.txt"
 }
 ]
@@ -2378,6 +2382,10 @@
 {
 "type": "file",
 "name": "2213_花园多惠_R5 在新绿中驰骋。.txt"
+},
+{
+"type": "file",
+"name": "2300_花园多惠_R5 你终将跑过的天空.txt"
 }
 ]
 },
@@ -2580,6 +2588,10 @@
 {
 "type": "file",
 "name": "2247_牛込里美_R5 放学后，雨天和好友.txt"
+},
+{
+"type": "file",
+"name": "2299_牛込里美_R5 晚霞映照着的脸庞.txt"
 }
 ]
 },
@@ -20158,6 +20170,40 @@
 {
 "type": "file",
 "name": "event308-07 终章 我了解到的你.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "309 比那航迹云更为高远的你",
+"children": [
+{
+"type": "file",
+"name": "event309-01 序章 expectation.txt"
+},
+{
+"type": "file",
+"name": "event309-02 第１话 disappointment.txt"
+},
+{
+"type": "file",
+"name": "event309-03 第２话 strategy!.txt"
+},
+{
+"type": "file",
+"name": "event309-04 第３话 session!.txt"
+},
+{
+"type": "file",
+"name": "event309-05 第４话 effort.txt"
+},
+{
+"type": "file",
+"name": "event309-06 第５话 surprise!.txt"
+},
+{
+"type": "file",
+"name": "event309-07 终章 contrail.txt"
 }
 ]
 },
