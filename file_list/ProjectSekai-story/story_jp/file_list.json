@@ -821,6 +821,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_205.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1678,6 +1682,10 @@
 {
 "type": "file",
 "name": "1383_日野森志歩_R3 絵本を一緒に (event_203).txt"
+},
+{
+"type": "file",
+"name": "1394_日野森志歩_R4 想いと熱を込めて (event_205).txt"
 }
 ]
 },
@@ -1880,6 +1888,10 @@
 {
 "type": "file",
 "name": "1373_花里みのり_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1395_花里みのり_R4 熱血コーチング！？ (event_205).txt"
 }
 ]
 },
@@ -2898,6 +2910,10 @@
 {
 "type": "file",
 "name": "1389_白石杏_R3 何メートルあるの！？ (event_204).txt"
+},
+{
+"type": "file",
+"name": "1396_白石杏_R4 かつての躓き (event_205).txt"
 }
 ]
 },
@@ -3322,6 +3338,10 @@
 {
 "type": "file",
 "name": "1388_青柳冬弥_R4 丁寧な一杯 (event_204).txt"
+},
+{
+"type": "file",
+"name": "1398_青柳冬弥_RB Happy Birthday！！2026.txt"
 }
 ]
 },
@@ -3532,6 +3552,10 @@
 {
 "type": "file",
 "name": "1391_天馬司_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1397_天馬司_R4 まっすぐな演説 (event_205).txt"
 }
 ]
 },
@@ -5414,6 +5438,10 @@
 {
 "type": "file",
 "name": "1341_鏡音リン (WxS)_R4 リンがついてるよ！ (event_196).txt"
+},
+{
+"type": "file",
+"name": "1392_鏡音リン_R4 まねっこダンシング♪ (event_205).txt"
 }
 ]
 },
@@ -5624,6 +5652,10 @@
 {
 "type": "file",
 "name": "1382_鏡音レン (Ln)_R4 意外な先客 (event_203).txt"
+},
+{
+"type": "file",
+"name": "1393_鏡音レン_R4 きらめきは重なって (event_205).txt"
 }
 ]
 },
@@ -14096,6 +14128,44 @@
 {
 "type": "file",
 "name": "204-08 再会、そして.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "205 Great Yell for Dreamers！ (Mix_WL)",
+"children": [
+{
+"type": "file",
+"name": "205-01 導かれた出会い.txt"
+},
+{
+"type": "file",
+"name": "205-02 ビシバシポジティブ！ (花里みのり).txt"
+},
+{
+"type": "file",
+"name": "205-03 記憶に触れて (鏡音リン).txt"
+},
+{
+"type": "file",
+"name": "205-04 想いと熱 (日野森志歩).txt"
+},
+{
+"type": "file",
+"name": "205-05 受け止めて、一緒に (白石杏).txt"
+},
+{
+"type": "file",
+"name": "205-06 重なる想い、そして…… (鏡音レン).txt"
+},
+{
+"type": "file",
+"name": "205-07 ピンチをチャンスに！ (天馬司).txt"
+},
+{
+"type": "file",
+"name": "205-08 夢は続く.txt"
 }
 ]
 }
