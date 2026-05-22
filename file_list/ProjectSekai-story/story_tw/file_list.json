@@ -673,6 +673,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_168.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1564,6 +1568,10 @@
 {
 "type": "file",
 "name": "1155_花里實乃理_RB Happy Birthday!! 2026.txt"
+},
+{
+"type": "file",
+"name": "1175_花里實乃理_R4 一起回顧的時刻 (event_168).txt"
 }
 ]
 },
@@ -1734,6 +1742,10 @@
 {
 "type": "file",
 "name": "1110_桐谷遙_R4 迎面而來的現實 (event_157).txt"
+},
+{
+"type": "file",
+"name": "1177_桐谷遙_R3 尋求製作方面的知識 (event_168).txt"
 }
 ]
 },
@@ -1908,6 +1920,10 @@
 {
 "type": "file",
 "name": "1138_桃井愛莉_RB Happy Birthday!! 2026.txt"
+},
+{
+"type": "file",
+"name": "1174_桃井愛莉_R4 無法觸及的痛苦 (event_168).txt"
 }
 ]
 },
@@ -2074,6 +2090,10 @@
 {
 "type": "file",
 "name": "1113_日野森雫_R3 試用護膚保養 (event_157).txt"
+},
+{
+"type": "file",
+"name": "1178_日野森雫_R2 療癒努力的大家 (event_168).txt"
 }
 ]
 },
@@ -5076,6 +5096,10 @@
 {
 "type": "file",
 "name": "1131_MEIKO (WxS)_R2 獨家妙點子 (event_159).txt"
+},
+{
+"type": "file",
+"name": "1176_MEIKO (MMJ)_R4 讓我們MORE MORE訓練！ (event_168).txt"
 }
 ]
 },
@@ -11696,6 +11720,44 @@
 {
 "type": "file",
 "name": "167-11 因為是四個人.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "168 Cheer with my Heart! (MMJ_桃井愛莉)",
+"children": [
+{
+"type": "file",
+"name": "168-01 偶像集結.txt"
+},
+{
+"type": "file",
+"name": "168-02 真正的偶像.txt"
+},
+{
+"type": "file",
+"name": "168-03 真心追求的夢想.txt"
+},
+{
+"type": "file",
+"name": "168-04 為了閃閃發亮.txt"
+},
+{
+"type": "file",
+"name": "168-05 努力的身影.txt"
+},
+{
+"type": "file",
+"name": "168-06 耀眼的秘訣.txt"
+},
+{
+"type": "file",
+"name": "168-07 抬頭挺胸.txt"
+},
+{
+"type": "file",
+"name": "168-08 傳承下來的心.txt"
 }
 ]
 }
