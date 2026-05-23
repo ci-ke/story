@@ -669,6 +669,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_168.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1560,6 +1564,10 @@
 {
 "type": "file",
 "name": "1155_Minori Hanasato_RB Happy Birthday! 2026.txt"
+},
+{
+"type": "file",
+"name": "1175_Minori Hanasato_R4 Debrief Assistance (event_168).txt"
 }
 ]
 },
@@ -1730,6 +1738,10 @@
 {
 "type": "file",
 "name": "1110_Haruka Kiritani_R4 Reality Hits Hard (event_157).txt"
+},
+{
+"type": "file",
+"name": "1177_Haruka Kiritani_R3 Producer Studies (event_168).txt"
 }
 ]
 },
@@ -1904,6 +1916,10 @@
 {
 "type": "file",
 "name": "1138_Airi Momoi_RB Happy Birthday! 2026.txt"
+},
+{
+"type": "file",
+"name": "1174_Airi Momoi_R4 It Wasn't Enough (event_168).txt"
 }
 ]
 },
@@ -2070,6 +2086,10 @@
 {
 "type": "file",
 "name": "1113_Shizuku Hinomori_R3 Trial Skin Care Routine (event_157).txt"
+},
+{
+"type": "file",
+"name": "1178_Shizuku Hinomori_R2 Calm For The Hard Workers (event_168).txt"
 }
 ]
 },
@@ -5052,6 +5072,10 @@
 {
 "type": "file",
 "name": "1131_MEIKO (WxS)_R2 A Clever Idea (event_159).txt"
+},
+{
+"type": "file",
+"name": "1176_MEIKO (MMJ)_R4 MORE MORE Training! (event_168).txt"
 }
 ]
 },
@@ -11634,6 +11658,44 @@
 {
 "type": "file",
 "name": "167-11 The Four of Us.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "168 Cheer With My Heart! (MMJ_Airi Momoi)",
+"children": [
+{
+"type": "file",
+"name": "168-01 A Gathering of Idols.txt"
+},
+{
+"type": "file",
+"name": "168-02 True Idols.txt"
+},
+{
+"type": "file",
+"name": "168-03 An Earnest Dream.txt"
+},
+{
+"type": "file",
+"name": "168-04 How to Sparkle.txt"
+},
+{
+"type": "file",
+"name": "168-05 Putting in the Work.txt"
+},
+{
+"type": "file",
+"name": "168-06 The Secret to Shining.txt"
+},
+{
+"type": "file",
+"name": "168-07 Standing Tall.txt"
+},
+{
+"type": "file",
+"name": "168-08 Inherited Heart.txt"
 }
 ]
 }
