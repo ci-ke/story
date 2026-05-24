@@ -4292,6 +4292,10 @@
 {
 "type": "file",
 "name": "2212_Kokoro Tsurumaki_R5 Romance Dramatica.txt"
+},
+{
+"type": "file",
+"name": "2266_Kokoro Tsurumaki_R5 A Night of Heartfelt Talks.txt"
 }
 ]
 },
@@ -4724,6 +4728,10 @@
 {
 "type": "file",
 "name": "2230_Hagumi Kitazawa_R5 A Big Bite with a Smile!.txt"
+},
+{
+"type": "file",
+"name": "2265_Hagumi Kitazawa_R5 A Girl’s Cry Splits the Summer.txt"
 }
 ]
 },
@@ -5168,6 +5176,10 @@
 {
 "type": "file",
 "name": "2258_Misaki Okusawa_R5 Summer Vibes from Head to Toe.txt"
+},
+{
+"type": "file",
+"name": "2269_Misaki Okusawa_R4 A Prayer Passed Down.txt"
 }
 ]
 },
@@ -19770,6 +19782,40 @@
 {
 "type": "file",
 "name": "event302-07 Ending：An Unexpected Twist.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "303 Uproar! Hagumi’s Home Escape Diary",
+"children": [
+{
+"type": "file",
+"name": "event303-01 Opening：Hagumi Runs Away.txt"
+},
+{
+"type": "file",
+"name": "event303-02 Chapter 1：Hagumi Gets a Job.txt"
+},
+{
+"type": "file",
+"name": "event303-03 Chapter 2：Hagumi’s Sleepover.txt"
+},
+{
+"type": "file",
+"name": "event303-04 Chapter 3：Meeting Hagumi’s Father.txt"
+},
+{
+"type": "file",
+"name": "event303-05 Chapter 4：Hagumi Lives Alone....txt"
+},
+{
+"type": "file",
+"name": "event303-06 Chapter 5：Hagumi Locks Herself In.txt"
+},
+{
+"type": "file",
+"name": "event303-07 Ending：Hagumi, From Here On.txt"
 }
 ]
 }
