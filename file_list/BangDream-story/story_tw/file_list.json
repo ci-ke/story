@@ -5224,6 +5224,10 @@
 {
 "type": "file",
 "name": "2269_米歇爾_R4 被託付的祈禱.txt"
+},
+{
+"type": "file",
+"name": "2332_米歇爾_R5 與你共度的放學後.txt"
 }
 ]
 },
@@ -5934,6 +5938,10 @@
 {
 "type": "file",
 "name": "2249_白鷺千聖_R5 看就知道了吧！.txt"
+},
+{
+"type": "file",
+"name": "2331_白鷺千聖_R5 My dear dog.txt"
 }
 ]
 },
@@ -6612,6 +6620,10 @@
 {
 "type": "file",
 "name": "2286_湊友希那_R5 在月光之下.txt"
+},
+{
+"type": "file",
+"name": "2327_湊友希那_R5 感受交疊的熱度.txt"
 }
 ]
 },
@@ -7306,6 +7318,10 @@
 {
 "type": "file",
 "name": "2192_宇田川亞子_R5 邁向巔峰的頂點.txt"
+},
+{
+"type": "file",
+"name": "2330_宇田川亞子_R4 將誓言化為力量.txt"
 }
 ]
 },
@@ -7528,6 +7544,10 @@
 {
 "type": "file",
 "name": "2271_白金燐子_R5 紅色寶石光彩奪目.txt"
+},
+{
+"type": "file",
+"name": "2326_白金燐子_R5 只是，一心向前.txt"
 }
 ]
 },
@@ -20208,6 +20228,40 @@
 {
 "type": "file",
 "name": "event311-07 結尾：星星大人的軌跡.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "314 燐光，帶著熱度",
+"children": [
+{
+"type": "file",
+"name": "event314-01 開場：確實的成長.txt"
+},
+{
+"type": "file",
+"name": "event314-02 第１話：所謂的面對面.txt"
+},
+{
+"type": "file",
+"name": "event314-03 第２話：為了更強烈地傳達.txt"
+},
+{
+"type": "file",
+"name": "event314-04 第３話：作為朋友的時光.txt"
+},
+{
+"type": "file",
+"name": "event314-05 第４話：燐子的覺悟.txt"
+},
+{
+"type": "file",
+"name": "event314-06 第５話：『挑戰者』不會畏縮.txt"
+},
+{
+"type": "file",
+"name": "event314-07 結尾：Roselia的鍵盤手.txt"
 }
 ]
 }

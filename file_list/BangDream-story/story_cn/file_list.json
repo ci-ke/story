@@ -3944,6 +3944,10 @@
 {
 "type": "file",
 "name": "2214_宇田川巴_R5 未曾知晓的彼岸.txt"
+},
+{
+"type": "file",
+"name": "2314_宇田川巴_R5 寻找属于我的颜色.txt"
 }
 ]
 },
@@ -4606,6 +4610,10 @@
 {
 "type": "file",
 "name": "2198_濑田薰_R5 T台魔法.txt"
+},
+{
+"type": "file",
+"name": "2315_濑田薰_R5 通往新世界之门.txt"
 }
 ]
 },
@@ -5764,6 +5772,10 @@
 {
 "type": "file",
 "name": "2274_冰川日菜_R4 夏日祭典，雀跃的心.txt"
+},
+{
+"type": "file",
+"name": "2310_冰川日菜_R5 说出口，听进心.txt"
 }
 ]
 },
@@ -6898,6 +6910,10 @@
 {
 "type": "file",
 "name": "2253_冰川纱夜_R5 迂回的尽头.txt"
+},
+{
+"type": "file",
+"name": "2309_冰川纱夜_R5 两块拼图.txt"
 }
 ]
 },
@@ -7128,6 +7144,10 @@
 {
 "type": "file",
 "name": "2183_今井莉莎_R5 樱影中摇曳的光.txt"
+},
+{
+"type": "file",
+"name": "2313_今井莉莎_R4 花与星闪耀之地.txt"
 }
 ]
 },
@@ -20204,6 +20224,40 @@
 {
 "type": "file",
 "name": "event309-07 终章：contrail.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "311 交汇处，双子星相视而笑",
+"children": [
+{
+"type": "file",
+"name": "event311-01 序章：拼图的两块碎片.txt"
+},
+{
+"type": "file",
+"name": "event311-02 第１话：被叫作姐姐.txt"
+},
+{
+"type": "file",
+"name": "event311-03 第２话：告诉我你的音色.txt"
+},
+{
+"type": "file",
+"name": "event311-04 第３话：无法契合的拼图.txt"
+},
+{
+"type": "file",
+"name": "event311-05 第４话：噜♪.txt"
+},
+{
+"type": "file",
+"name": "event311-06 第５话：寒冷刺骨的清晨.txt"
+},
+{
+"type": "file",
+"name": "event311-07 终章：星星的轨迹.txt"
 }
 ]
 },
