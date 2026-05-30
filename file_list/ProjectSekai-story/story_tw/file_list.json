@@ -677,6 +677,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_169.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -2264,6 +2268,10 @@
 {
 "type": "file",
 "name": "1151_小豆澤心羽_R4 黃昏色的笑容 (event_163).txt"
+},
+{
+"type": "file",
+"name": "1180_小豆澤心羽_R4 留在心中的熱情 (event_169).txt"
 }
 ]
 },
@@ -2430,6 +2438,10 @@
 {
 "type": "file",
 "name": "1152_白石杏_R4 連悲傷也一併接納 (event_163).txt"
+},
+{
+"type": "file",
+"name": "1184_白石杏_R2 興奮期待又坐立難安 (event_169).txt"
 }
 ]
 },
@@ -2608,6 +2620,10 @@
 {
 "type": "file",
 "name": "1153_東雲彰人_R4 意料之外的話語 (event_163).txt"
+},
+{
+"type": "file",
+"name": "1183_東雲彰人_R3 那雙眼中的「世界」 (event_169).txt"
 }
 ]
 },
@@ -2786,6 +2802,10 @@
 {
 "type": "file",
 "name": "1179_青柳冬彌_RB Happy Birthday!! 2026.txt"
+},
+{
+"type": "file",
+"name": "1181_青柳冬彌_R4 美味的文化交流 (event_169).txt"
 }
 ]
 },
@@ -4384,6 +4404,10 @@
 {
 "type": "file",
 "name": "1148_初音未來 (Ln)_R4 被引起共鳴的心願圍繞 (event_162).txt"
+},
+{
+"type": "file",
+"name": "1182_初音未來 (VBS)_R4 突如其來的危機 (event_169).txt"
 }
 ]
 },
@@ -11762,6 +11786,44 @@
 {
 "type": "file",
 "name": "168-08 傳承下來的心.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "169 Aim higher and higher! (VBS_小豆澤心羽)",
+"children": [
+{
+"type": "file",
+"name": "169-01 終於來到這一天.txt"
+},
+{
+"type": "file",
+"name": "169-02 異國的邂逅.txt"
+},
+{
+"type": "file",
+"name": "169-03 慌亂的重逢.txt"
+},
+{
+"type": "file",
+"name": "169-04 抱著相同的想法.txt"
+},
+{
+"type": "file",
+"name": "169-05 一起逛跳蚤市場！.txt"
+},
+{
+"type": "file",
+"name": "169-06 激昂.txt"
+},
+{
+"type": "file",
+"name": "169-07 「世界」.txt"
+},
+{
+"type": "file",
+"name": "169-08 注視的前方.txt"
 }
 ]
 }
