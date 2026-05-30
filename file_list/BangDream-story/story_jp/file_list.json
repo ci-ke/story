@@ -21226,6 +21226,40 @@
 "name": "event331-07 エンディング：最高の笑顔で.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "332 これからも迎える朝は",
+"children": [
+{
+"type": "file",
+"name": "event332-01 オープニング：手作りのジューンブライド.txt"
+},
+{
+"type": "file",
+"name": "event332-02 第１話：星が見えた日.txt"
+},
+{
+"type": "file",
+"name": "event332-03 第２話：やりたいこと、たくさん.txt"
+},
+{
+"type": "file",
+"name": "event332-04 第３話：私の素直な気持ち.txt"
+},
+{
+"type": "file",
+"name": "event332-05 第４話：幸せをかみしめて.txt"
+},
+{
+"type": "file",
+"name": "event332-06 第５話：それはまるで、奇跡のような.txt"
+},
+{
+"type": "file",
+"name": "event332-07 エンディング：焼きたての、パンの匂い.txt"
+}
+]
 }
 ]
 },

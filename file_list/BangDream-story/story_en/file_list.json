@@ -5652,6 +5652,10 @@
 {
 "type": "file",
 "name": "2229_Hina Hikawa_R5 Ever-Changing Radiance.txt"
+},
+{
+"type": "file",
+"name": "2274_Hina Hikawa_R4 Summer Festival, Joyful Hearts.txt"
 }
 ]
 },
@@ -7448,6 +7452,10 @@
 {
 "type": "file",
 "name": "2257_Rinko Shirokane_R4 Twilight Promise.txt"
+},
+{
+"type": "file",
+"name": "2271_Rinko Shirokane_R5 Red jewels sparkling.txt"
 }
 ]
 },
@@ -8152,6 +8160,10 @@
 {
 "type": "file",
 "name": "2240_Rei Wakana_R4 With a Touch of Love.txt"
+},
+{
+"type": "file",
+"name": "2270_Rei Wakana_R5 Memories shining bright.txt"
 }
 ]
 },
@@ -19816,6 +19828,40 @@
 {
 "type": "file",
 "name": "event303-07 Ending：Hagumi, From Here On.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "304 Festival Music, Hearts Aflutter",
+"children": [
+{
+"type": "file",
+"name": "event304-01 Opening：A small, pounding heart.txt"
+},
+{
+"type": "file",
+"name": "event304-02 Chapter 1：The thrill before the festival.txt"
+},
+{
+"type": "file",
+"name": "event304-03 Chapter 2：The festival music can be heard.txt"
+},
+{
+"type": "file",
+"name": "event304-04 Chapter 3：Things We “wanna do” Tour.txt"
+},
+{
+"type": "file",
+"name": "event304-05 Chapter 4：Slowly, hand in hand.txt"
+},
+{
+"type": "file",
+"name": "event304-06 Chapter 5：Take careful aim!.txt"
+},
+{
+"type": "file",
+"name": "event304-07 Ending：Fireworks Echo On Forever.txt"
 }
 ]
 }
