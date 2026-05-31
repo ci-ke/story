@@ -673,6 +673,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_169.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -2260,6 +2264,10 @@
 {
 "type": "file",
 "name": "1151_Kohane Azusawa_R4 Smile Hued By Dusk (event_163).txt"
+},
+{
+"type": "file",
+"name": "1180_Kohane Azusawa_R4 Lasting Heat (event_169).txt"
 }
 ]
 },
@@ -2426,6 +2434,10 @@
 {
 "type": "file",
 "name": "1152_An Shiraishi_R4 Acknowledging That Pain (event_163).txt"
+},
+{
+"type": "file",
+"name": "1184_An Shiraishi_R2 Excited & Anxious (event_169).txt"
 }
 ]
 },
@@ -2604,6 +2616,10 @@
 {
 "type": "file",
 "name": "1153_Akito Shinonome_R4 Words I Never Thought I'd Hear (event_163).txt"
+},
+{
+"type": "file",
+"name": "1183_Akito Shinonome_R3 The World In My Eyes (event_169).txt"
 }
 ]
 },
@@ -2782,6 +2798,10 @@
 {
 "type": "file",
 "name": "1179_Toya Aoyagi_RB Happy Birthday! 2026.txt"
+},
+{
+"type": "file",
+"name": "1181_Toya Aoyagi_R4 Delicious Cultural Exposure (event_169).txt"
 }
 ]
 },
@@ -4364,6 +4384,10 @@
 {
 "type": "file",
 "name": "1148_Hatsune Miku (Ln)_R4 Wrapped Up In Your Emotions (event_162).txt"
+},
+{
+"type": "file",
+"name": "1182_Hatsune Miku (VBS)_R4 An Imminent Threat (event_169).txt"
 }
 ]
 },
@@ -11700,6 +11724,44 @@
 {
 "type": "file",
 "name": "168-08 Inherited Heart.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "169 Aim Higher and Higher! (VBS_Kohane Azusawa)",
+"children": [
+{
+"type": "file",
+"name": "169-01 The Day Arrives.txt"
+},
+{
+"type": "file",
+"name": "169-02 Encounter in a Foreign Land.txt"
+},
+{
+"type": "file",
+"name": "169-03 Unexpected Reunion.txt"
+},
+{
+"type": "file",
+"name": "169-04 The Same Feeling.txt"
+},
+{
+"type": "file",
+"name": "169-05 Fun at the Flea Market.txt"
+},
+{
+"type": "file",
+"name": "169-06 Anticipation.txt"
+},
+{
+"type": "file",
+"name": "169-07 The World.txt"
+},
+{
+"type": "file",
+"name": "169-08 The Goal Before Us.txt"
 }
 ]
 }

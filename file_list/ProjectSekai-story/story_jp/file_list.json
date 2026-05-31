@@ -825,6 +825,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_206.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -2300,6 +2304,10 @@
 {
 "type": "file",
 "name": "1355_桃井愛莉_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1400_桃井愛莉_R4 まるでプリンセス！？ (event_206).txt"
 }
 ]
 },
@@ -2498,6 +2506,10 @@
 {
 "type": "file",
 "name": "1361_日野森雫_R4 足跡をたどって.txt"
+},
+{
+"type": "file",
+"name": "1402_日野森雫_R3 理想の素材を求めて (event_206).txt"
 }
 ]
 },
@@ -4376,6 +4388,10 @@
 {
 "type": "file",
 "name": "1378_宵崎奏_R4 気合いは十分？ (event_202).txt"
+},
+{
+"type": "file",
+"name": "1403_宵崎奏_R2 形にした先で (event_206).txt"
 }
 ]
 },
@@ -4990,6 +5006,10 @@
 {
 "type": "file",
 "name": "1356_暁山瑞希_R4 服作り奮闘中 (event_199).txt"
+},
+{
+"type": "file",
+"name": "1399_暁山瑞希_R4 小さなキミとのささやかな時間 (event_206).txt"
 }
 ]
 },
@@ -6282,6 +6302,10 @@
 {
 "type": "file",
 "name": "1390_KAITO (VBS)_R2 パーティーにようこそ！ (event_204).txt"
+},
+{
+"type": "file",
+"name": "1401_KAITO (MMJ)_R4 セカイのアイディアマン (event_206).txt"
 }
 ]
 }
@@ -14166,6 +14190,44 @@
 {
 "type": "file",
 "name": "205-08 夢は続く.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "206 最果てへと飛ぶキミへ (Mix_暁山瑞希)",
+"children": [
+{
+"type": "file",
+"name": "206-01 花嫁さん風衣装を作ろう！.txt"
+},
+{
+"type": "file",
+"name": "206-02 ようこそ小鳥さん.txt"
+},
+{
+"type": "file",
+"name": "206-03 織り成す日々.txt"
+},
+{
+"type": "file",
+"name": "206-04 見つけた手がかり.txt"
+},
+{
+"type": "file",
+"name": "206-05 最後のひと時.txt"
+},
+{
+"type": "file",
+"name": "206-06 キミは静かに.txt"
+},
+{
+"type": "file",
+"name": "206-07 形に.txt"
+},
+{
+"type": "file",
+"name": "206-08 空の向こうでも.txt"
 }
 ]
 }
