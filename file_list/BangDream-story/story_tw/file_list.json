@@ -2544,6 +2544,10 @@
 {
 "type": "file",
 "name": "2299_牛込里美_R5 晚霞、閃耀的面龐.txt"
+},
+{
+"type": "file",
+"name": "2347_牛込里美_R4 緊張的朗讀時間.txt"
 }
 ]
 },
@@ -7096,6 +7100,10 @@
 {
 "type": "file",
 "name": "2313_今井莉莎_R4 花與星閃耀的地方.txt"
+},
+{
+"type": "file",
+"name": "2343_今井莉莎_R5 一起來裝飾吧！.txt"
 }
 ]
 },
@@ -7796,6 +7804,10 @@
 {
 "type": "file",
 "name": "2275_桐谷透子_R5 將未來拉近的是.txt"
+},
+{
+"type": "file",
+"name": "2344_桐谷透子_R5 玻璃彼端的閃耀.txt"
 }
 ]
 },
@@ -20262,6 +20274,40 @@
 {
 "type": "file",
 "name": "event314-07 結尾：Roselia的鍵盤手.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "315 在洋溢笑容的聖夜之前",
+"children": [
+{
+"type": "file",
+"name": "event315-01 開場：熱鬧的聖誕節.txt"
+},
+{
+"type": "file",
+"name": "event315-02 第１話：HelloHa……聖誕趴會議！.txt"
+},
+{
+"type": "file",
+"name": "event315-03 第２話：大家一起去採買！.txt"
+},
+{
+"type": "file",
+"name": "event315-04 第３話：裝飾・聖誕節.txt"
+},
+{
+"type": "file",
+"name": "event315-05 第４話：派對開始！.txt"
+},
+{
+"type": "file",
+"name": "event315-06 第５話：極好的驚喜.txt"
+},
+{
+"type": "file",
+"name": "event315-07 結尾：Miracle・White・Christmas.txt"
 }
 ]
 }
