@@ -5533,6 +5533,10 @@
 },
 {
 "type": "file",
+"name": "2305_丸山彩_R5 自拍范本♡.txt"
+},
+{
+"type": "file",
 "name": "2322_丸山彩_R5 轻飘飘的爱心♡.txt"
 }
 ]
@@ -6224,6 +6228,10 @@
 {
 "type": "file",
 "name": "2248_大和麻弥_R5 透彻的解读.txt"
+},
+{
+"type": "file",
+"name": "2308_大和麻弥_R4 干劲满满的发表会.txt"
 }
 ]
 },
@@ -6458,6 +6466,10 @@
 {
 "type": "file",
 "name": "2264_若宫伊芙_R5 自然微笑.txt"
+},
+{
+"type": "file",
+"name": "2304_若宫伊芙_R5 兴奋的试穿时间.txt"
 }
 ]
 },
@@ -20224,6 +20236,40 @@
 {
 "type": "file",
 "name": "event309-07 终章：contrail.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "310 伊芙的魅力推广大作战！",
+"children": [
+{
+"type": "file",
+"name": "event310-01 序章：新企划启动！.txt"
+},
+{
+"type": "file",
+"name": "event310-02 第１话：议题『若宫伊芙的魅力』.txt"
+},
+{
+"type": "file",
+"name": "event310-03 第２话：彩老师的可爱课程！.txt"
+},
+{
+"type": "file",
+"name": "event310-04 第３话：流浪武士道豪侠刃.txt"
+},
+{
+"type": "file",
+"name": "event310-05 第４话：『武士道or非武士道』.txt"
+},
+{
+"type": "file",
+"name": "event310-06 第５话：某天早晨的整蛊.txt"
+},
+{
+"type": "file",
+"name": "event310-07 终章：我也想传达.txt"
 }
 ]
 },
