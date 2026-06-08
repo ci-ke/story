@@ -681,10 +681,6 @@
 },
 {
 "type": "file",
-"name": "talk_event_170.txt"
-},
-{
-"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -3680,10 +3676,6 @@
 {
 "type": "file",
 "name": "1163_宵崎奏_R4 變得空蕩蕩的房間 (event_165).txt"
-},
-{
-"type": "file",
-"name": "1185_宵崎奏_R4 休息時間的片刻 (event_170).txt"
 }
 ]
 },
@@ -3858,10 +3850,6 @@
 {
 "type": "file",
 "name": "1162_朝比奈真冬_R4 溫暖的時光 (event_165).txt"
-},
-{
-"type": "file",
-"name": "1186_朝比奈真冬_R4 相視而笑 (event_170).txt"
 }
 ]
 },
@@ -4040,10 +4028,6 @@
 {
 "type": "file",
 "name": "1166_東雲繪名_R2 手戴同款之物 (event_165).txt"
-},
-{
-"type": "file",
-"name": "1187_東雲繪名_R4 一直都是你 (event_170).txt"
 }
 ]
 },
@@ -4214,10 +4198,6 @@
 {
 "type": "file",
 "name": "1165_曉山瑞希_R3 為了能待在身旁 (event_165).txt"
-},
-{
-"type": "file",
-"name": "1188_曉山瑞希_R4 介紹可愛 (event_170).txt"
 }
 ]
 },
@@ -11844,56 +11824,6 @@
 {
 "type": "file",
 "name": "169-08 注視的前方.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "170 在泡沫的擁抱下 (N25_WL)",
-"children": [
-{
-"type": "file",
-"name": "170-01 昔日的夢與小睡.txt"
-},
-{
-"type": "file",
-"name": "170-02 日常 (宵崎奏).txt"
-},
-{
-"type": "file",
-"name": "170-03 朋友 (宵崎奏).txt"
-},
-{
-"type": "file",
-"name": "170-04 從黑暗中邁出一步 (東雲繪名).txt"
-},
-{
-"type": "file",
-"name": "170-05 始終孤獨一人 (東雲繪名).txt"
-},
-{
-"type": "file",
-"name": "170-06 快樂的每一天 (曉山瑞希).txt"
-},
-{
-"type": "file",
-"name": "170-07 為了能做自己 (曉山瑞希).txt"
-},
-{
-"type": "file",
-"name": "170-08 探尋影子 (朝比奈真冬).txt"
-},
-{
-"type": "file",
-"name": "170-09 一起 (朝比奈真冬).txt"
-},
-{
-"type": "file",
-"name": "170-10 泡沫中響起的旋律.txt"
-},
-{
-"type": "file",
-"name": "170-11 擁抱各自的想法.txt"
 }
 ]
 }

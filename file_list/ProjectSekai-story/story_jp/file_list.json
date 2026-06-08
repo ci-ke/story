@@ -829,10 +829,6 @@
 },
 {
 "type": "file",
-"name": "talk_event_207.txt"
-},
-{
-"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1476,10 +1472,6 @@
 {
 "type": "file",
 "name": "1380_望月穂波_R4 みんながいたから (event_203).txt"
-},
-{
-"type": "file",
-"name": "1405_望月穂波_R4 今度はわたしが.txt"
 }
 ]
 },
@@ -2518,10 +2510,6 @@
 {
 "type": "file",
 "name": "1402_日野森雫_R3 理想の素材を求めて (event_206).txt"
-},
-{
-"type": "file",
-"name": "1406_日野森雫_R4 想いをのせたワンカット.txt"
 }
 ]
 },
@@ -2736,10 +2724,6 @@
 {
 "type": "file",
 "name": "1386_小豆沢こはね_R4 知らない視線 (event_204).txt"
-},
-{
-"type": "file",
-"name": "1407_小豆沢こはね_R4 心の奥へ届く歌.txt"
 }
 ]
 },
@@ -4614,10 +4598,6 @@
 {
 "type": "file",
 "name": "1362_朝比奈まふゆ_R4 見つけてもらったから.txt"
-},
-{
-"type": "file",
-"name": "1408_朝比奈まふゆ_R4 雨に滲む微笑み.txt"
 }
 ]
 },
@@ -5906,10 +5886,6 @@
 {
 "type": "file",
 "name": "1370_巡音ルカ (VBS)_R4 応援の気持ちもめちゃ盛りで！ (event_201).txt"
-},
-{
-"type": "file",
-"name": "1404_巡音ルカ_R4 託した願い.txt"
 }
 ]
 },
@@ -14252,40 +14228,6 @@
 {
 "type": "file",
 "name": "206-08 空の向こうでも.txt"
-}
-]
-},
-{
-"type": "dir",
-"name": "207 Into the New Light (Mix_WL)",
-"children": [
-{
-"type": "file",
-"name": "207-01 思いがけない出会い.txt"
-},
-{
-"type": "file",
-"name": "207-02 傷だらけの想いを (巡音ルカ).txt"
-},
-{
-"type": "file",
-"name": "207-03 カメラの向こうで (日野森雫).txt"
-},
-{
-"type": "file",
-"name": "207-04 重なる痛み (望月穂波).txt"
-},
-{
-"type": "file",
-"name": "207-05 大事なもの (小豆沢こはね).txt"
-},
-{
-"type": "file",
-"name": "207-06 小さな変化 (朝比奈まふゆ).txt"
-},
-{
-"type": "file",
-"name": "207-07 光の中で.txt"
 }
 ]
 }
