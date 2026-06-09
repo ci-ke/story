@@ -677,6 +677,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_170.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -11778,6 +11782,56 @@
 {
 "type": "file",
 "name": "169-08 The Goal Before Us.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "170 In an Ephemeral Embrace (N25_WL)",
+"children": [
+{
+"type": "file",
+"name": "170-01 A Faint Dream of the Past.txt"
+},
+{
+"type": "file",
+"name": "170-02 Everyday Life (Kanade Yoisaki).txt"
+},
+{
+"type": "file",
+"name": "170-03 Friends (Kanade Yoisaki).txt"
+},
+{
+"type": "file",
+"name": "170-04 One Step From Darkness (Ena Shinonome).txt"
+},
+{
+"type": "file",
+"name": "170-05 Always Alone (Ena Shinonome).txt"
+},
+{
+"type": "file",
+"name": "170-06 Fun Days (Mizuki Akiyama).txt"
+},
+{
+"type": "file",
+"name": "170-07 To Be Myself (Mizuki Akiyama).txt"
+},
+{
+"type": "file",
+"name": "170-08 Chasing Shadows (Mafuyu Asahina).txt"
+},
+{
+"type": "file",
+"name": "170-09 Together (Mafuyu Asahina).txt"
+},
+{
+"type": "file",
+"name": "170-10 Ephemeral Melody.txt"
+},
+{
+"type": "file",
+"name": "170-11 Embracing Our Feelings.txt"
 }
 ]
 }
