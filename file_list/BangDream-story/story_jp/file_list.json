@@ -6816,6 +6816,10 @@
 {
 "type": "file",
 "name": "2402_湊友希那_R4 はじまりの一弦.txt"
+},
+{
+"type": "file",
+"name": "2464_湊友希那_R5 今の私たちの音楽.txt"
 }
 ]
 },
@@ -7058,6 +7062,10 @@
 {
 "type": "file",
 "name": "2386_氷川紗夜_R5 温かな風に乗せて.txt"
+},
+{
+"type": "file",
+"name": "2465_氷川紗夜_R5 今の私たちの距離.txt"
 }
 ]
 },
@@ -7300,6 +7308,10 @@
 {
 "type": "file",
 "name": "2398_今井リサ_R5 DEAR MY LIKE.txt"
+},
+{
+"type": "file",
+"name": "2468_今井リサ_R4 約束の場所.txt"
 }
 ]
 },
@@ -21278,6 +21290,40 @@
 {
 "type": "file",
 "name": "event332-07 エンディング：焼きたての、パンの匂い.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "333 ディープ・ローズ・ホライズン",
+"children": [
+{
+"type": "file",
+"name": "event333-01 オープニング：音のないリビング.txt"
+},
+{
+"type": "file",
+"name": "event333-02 第１話：私たちが届けたいもの.txt"
+},
+{
+"type": "file",
+"name": "event333-03 第２話：Roseliaとは.txt"
+},
+{
+"type": "file",
+"name": "event333-04 第３話：試行、錯誤、果てに.txt"
+},
+{
+"type": "file",
+"name": "event333-05 第４話：薔薇の蔦の伸びる先.txt"
+},
+{
+"type": "file",
+"name": "event333-06 第５話：we aRe.txt"
+},
+{
+"type": "file",
+"name": "event333-07 エンディング：音の咲くリビング.txt"
 }
 ]
 }
