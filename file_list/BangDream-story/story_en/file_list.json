@@ -7700,6 +7700,10 @@
 {
 "type": "file",
 "name": "2228_Toko Kirigaya_R4 An Eye That Measures Beauty.txt"
+},
+{
+"type": "file",
+"name": "2275_Toko Kirigaya_R5 Drawing the Future Closer.txt"
 }
 ]
 },
@@ -7944,6 +7948,10 @@
 {
 "type": "file",
 "name": "2208_Tsukushi Futaba_R5 A Moment to Share Some Joy.txt"
+},
+{
+"type": "file",
+"name": "2279_Tsukushi Futaba_R4 Because We Were Together.txt"
 }
 ]
 },
@@ -8054,6 +8062,10 @@
 {
 "type": "file",
 "name": "2136_Rui Yashio_R5 To the Future We’ve Yet to See.txt"
+},
+{
+"type": "file",
+"name": "2276_Rui Yashio_R5 Since That Day.txt"
 }
 ]
 },
@@ -19862,6 +19874,40 @@
 {
 "type": "file",
 "name": "event304-07 Ending：Fireworks Echo On Forever.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "305 A Fugue to Soar Through the Sky",
+"children": [
+{
+"type": "file",
+"name": "event305-01 Opening：Toward the Goal.txt"
+},
+{
+"type": "file",
+"name": "event305-02 Chapter 1：When in Doubt, Try It!.txt"
+},
+{
+"type": "file",
+"name": "event305-03 Chapter 2：Bolt from the Blue.txt"
+},
+{
+"type": "file",
+"name": "event305-04 Chapter 3：Someone Who Believes in Herself.txt"
+},
+{
+"type": "file",
+"name": "event305-05 Chapter 4：Then and Now.txt"
+},
+{
+"type": "file",
+"name": "event305-06 Chapter 5：The Final Test!.txt"
+},
+{
+"type": "file",
+"name": "event305-07 Ending：Time Changes People.txt"
 }
 ]
 }

@@ -4340,6 +4340,10 @@
 {
 "type": "file",
 "name": "2266_弦卷心_R5 互相傾訴的夜晚.txt"
+},
+{
+"type": "file",
+"name": "2352_弦卷心_R4 委託蜂擁而至！.txt"
 }
 ]
 },
@@ -4558,6 +4562,10 @@
 {
 "type": "file",
 "name": "2315_瀨田薰_R5 通往新世界的門扉.txt"
+},
+{
+"type": "file",
+"name": "2348_瀨田薰_R5 虛幻盛宴的序幕.txt"
 }
 ]
 },
@@ -4780,6 +4788,10 @@
 {
 "type": "file",
 "name": "2265_北澤育美_R5 少女的吶喊，劃破夏日.txt"
+},
+{
+"type": "file",
+"name": "2349_北澤育美_R5 解放心靈枷鎖.txt"
 }
 ]
 },
@@ -20308,6 +20320,40 @@
 {
 "type": "file",
 "name": "event315-07 結尾：Miracle・White・Christmas.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "316 歡迎．來到．瀨田薰樂園",
+"children": [
+{
+"type": "file",
+"name": "event316-01 開場：虛幻計畫的開始.txt"
+},
+{
+"type": "file",
+"name": "event316-02 第１話：小貓咪們的聲音.txt"
+},
+{
+"type": "file",
+"name": "event316-03 第２話：開園準備開始！.txt"
+},
+{
+"type": "file",
+"name": "event316-04 第３話：虛幻之國的魔法王子.txt"
+},
+{
+"type": "file",
+"name": "event316-05 第４話：瀨田薰樂園，開園！.txt"
+},
+{
+"type": "file",
+"name": "event316-06 第５話：牽起公主之手的人是.txt"
+},
+{
+"type": "file",
+"name": "event316-07 結尾：瀨田薰樂園願直到永遠.txt"
 }
 ]
 }
