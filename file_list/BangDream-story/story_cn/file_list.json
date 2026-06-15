@@ -5288,6 +5288,10 @@
 {
 "type": "file",
 "name": "2269_米歇尔_R4 被托付的祈愿.txt"
+},
+{
+"type": "file",
+"name": "2332_米歇尔_R5 与你共度的放学后.txt"
 }
 ]
 },
@@ -6006,6 +6010,10 @@
 {
 "type": "file",
 "name": "2249_白鹭千圣_R5 看一眼就懂啦！.txt"
+},
+{
+"type": "file",
+"name": "2331_白鹭千圣_R5 My dear dog.txt"
 }
 ]
 },
@@ -6688,6 +6696,10 @@
 {
 "type": "file",
 "name": "2286_凑友希那_R5 月光之下.txt"
+},
+{
+"type": "file",
+"name": "2327_凑友希那_R5 感受交融的热度.txt"
 }
 ]
 },
@@ -7386,6 +7398,10 @@
 {
 "type": "file",
 "name": "2320_宇田川亚子_R4 帮助我的是.txt"
+},
+{
+"type": "file",
+"name": "2330_宇田川亚子_R4 将誓言化为力量.txt"
 }
 ]
 },
@@ -7608,6 +7624,10 @@
 {
 "type": "file",
 "name": "2271_白金燐子_R5 红宝石熠熠生辉.txt"
+},
+{
+"type": "file",
+"name": "2326_白金燐子_R5 一心向前.txt"
 }
 ]
 },
@@ -20372,6 +20392,40 @@
 {
 "type": "file",
 "name": "event313-07 终章：永远在你身边.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "314 燐光微芒、渐染炽热",
+"children": [
+{
+"type": "file",
+"name": "event314-01 序章：踏实的成长.txt"
+},
+{
+"type": "file",
+"name": "event314-02 第１话：所谓对峙.txt"
+},
+{
+"type": "file",
+"name": "event314-03 第２话：为了更强烈地传达.txt"
+},
+{
+"type": "file",
+"name": "event314-04 第３话：作为朋友的时间.txt"
+},
+{
+"type": "file",
+"name": "event314-05 第４话：燐子的决心.txt"
+},
+{
+"type": "file",
+"name": "event314-06 第５话：『挑战者』不会畏怯.txt"
+},
+{
+"type": "file",
+"name": "event314-07 终章：Roselia的键盘.txt"
 }
 ]
 }
