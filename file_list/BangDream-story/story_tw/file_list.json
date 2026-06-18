@@ -2742,6 +2742,10 @@
 {
 "type": "file",
 "name": "2220_山吹沙綾_R5 遞來的那隻手.txt"
+},
+{
+"type": "file",
+"name": "2360_山吹沙綾_R5 被溫暖的雪包圍著.txt"
 }
 ]
 },
@@ -3226,6 +3230,10 @@
 {
 "type": "file",
 "name": "2281_美竹蘭_R5 你的世界的顏色.txt"
+},
+{
+"type": "file",
+"name": "2358_美竹蘭_R5 注視的前方.txt"
 }
 ]
 },
@@ -5010,6 +5018,10 @@
 {
 "type": "file",
 "name": "2197_松原花音_R5 耀眼的人.txt"
+},
+{
+"type": "file",
+"name": "2353_松原花音_R5 梅花綻放於寒空之下.txt"
 }
 ]
 },
@@ -6422,6 +6434,10 @@
 {
 "type": "file",
 "name": "2304_若宮伊芙_R5 雀躍不已的試穿時間.txt"
+},
+{
+"type": "file",
+"name": "2357_若宮伊芙_R4 至福的紅豆湯.txt"
 }
 ]
 },
@@ -7946,6 +7962,10 @@
 {
 "type": "file",
 "name": "2207_廣町七深_R5 來吧隱藏版！.txt"
+},
+{
+"type": "file",
+"name": "2354_廣町七深_R5 手牽著手.txt"
 }
 ]
 },
@@ -8638,6 +8658,10 @@
 {
 "type": "file",
 "name": "2293_PAREO_R5 牽起勇者的手.txt"
+},
+{
+"type": "file",
+"name": "2359_PAREO_R5 獻給總是努力的你.txt"
 }
 ]
 },
@@ -20354,6 +20378,40 @@
 {
 "type": "file",
 "name": "event316-07 結尾：瀨田薰樂園願直到永遠.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "317 迷途盡頭，福氣到來",
+"children": [
+{
+"type": "file",
+"name": "event317-01 開場：新年一開始就…….txt"
+},
+{
+"type": "file",
+"name": "event317-02 第１話：迷路者的本領.txt"
+},
+{
+"type": "file",
+"name": "event317-03 第２話：鬆一口氣.txt"
+},
+{
+"type": "file",
+"name": "event317-04 第３話：神社推薦.txt"
+},
+{
+"type": "file",
+"name": "event317-05 第４話：達成目的！.txt"
+},
+{
+"type": "file",
+"name": "event317-06 第５話：等待之人到來.txt"
+},
+{
+"type": "file",
+"name": "event317-07 結尾：不是迷路者.txt"
 }
 ]
 }
