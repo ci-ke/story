@@ -7922,6 +7922,10 @@
 {
 "type": "file",
 "name": "2362_倉田ましろ_R5 ずっと支えてくれた人.txt"
+},
+{
+"type": "file",
+"name": "2469_倉田ましろ_R5 それは星空のようで.txt"
 }
 ]
 },
@@ -8048,6 +8052,10 @@
 {
 "type": "file",
 "name": "2423_桐ヶ谷透子_R5 勇気をきみに.txt"
+},
+{
+"type": "file",
+"name": "2473_桐ヶ谷透子_R4 あたし超絶進化中！.txt"
 }
 ]
 },
@@ -8446,6 +8454,10 @@
 {
 "type": "file",
 "name": "2427_八潮瑠唯_R4 見透かされる心.txt"
+},
+{
+"type": "file",
+"name": "2470_八潮瑠唯_R5 私を照らした光.txt"
 }
 ]
 },
@@ -21324,6 +21336,40 @@
 {
 "type": "file",
 "name": "event333-07 エンディング：音の咲くリビング.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "334 輝く星々のコンチェルト",
+"children": [
+{
+"type": "file",
+"name": "event334-01 オープニング：決まっちゃった！.txt"
+},
+{
+"type": "file",
+"name": "event334-02 第１話：合同練習開始！.txt"
+},
+{
+"type": "file",
+"name": "event334-03 第２話：心に澱むもの.txt"
+},
+{
+"type": "file",
+"name": "event334-04 第３話：自分の輝き.txt"
+},
+{
+"type": "file",
+"name": "event334-05 第４話：あなたと肩を並べて.txt"
+},
+{
+"type": "file",
+"name": "event334-06 第５話：打ち上げ！.txt"
+},
+{
+"type": "file",
+"name": "event334-07 エンディング：未来の私たちに向かって.txt"
 }
 ]
 }

@@ -2116,6 +2116,10 @@
 {
 "type": "file",
 "name": "2219_Kasumi Toyama_R5 Our CiRCLE.txt"
+},
+{
+"type": "file",
+"name": "2285_Kasumi Toyama_R5 Dreaming Peacefully Away.txt"
 }
 ]
 },
@@ -3198,6 +3202,10 @@
 {
 "type": "file",
 "name": "2241_Ran Mitake_R5 Sunlight Glittering on Waves.txt"
+},
+{
+"type": "file",
+"name": "2281_Ran Mitake_R5 The Colors of Your World.txt"
 }
 ]
 },
@@ -3408,6 +3416,10 @@
 {
 "type": "file",
 "name": "2218_Moca Aoba_R4 Bread from a Hero.txt"
+},
+{
+"type": "file",
+"name": "2280_Moca Aoba_R5 B5-Sized Infinity.txt"
 }
 ]
 },
@@ -3642,6 +3654,10 @@
 {
 "type": "file",
 "name": "2245_Himari Uehara_R4 Splash and a Bright Smile.txt"
+},
+{
+"type": "file",
+"name": "2284_Himari Uehara_R4 A Favorite Routine？.txt"
 }
 ]
 },
@@ -6548,6 +6564,10 @@
 {
 "type": "file",
 "name": "2254_Yukina Minato_R5 Unshakable Trust.txt"
+},
+{
+"type": "file",
+"name": "2286_Yukina Minato_R5 Beneath the Moonlight.txt"
 }
 ]
 },
@@ -19908,6 +19928,40 @@
 {
 "type": "file",
 "name": "event305-07 Ending：Time Changes People.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "306 Bread, Notebooks, Guitars, and You",
+"children": [
+{
+"type": "file",
+"name": "event306-01 Opening：Once-in-a-Lifetime Killer Phrase.txt"
+},
+{
+"type": "file",
+"name": "event306-02 Chapter 1：A Dreamy Kind of Fes.txt"
+},
+{
+"type": "file",
+"name": "event306-03 Chapter 2：A Greedy Set List.txt"
+},
+{
+"type": "file",
+"name": "event306-04 Chapter 3：A Favorite Routine.txt"
+},
+{
+"type": "file",
+"name": "event306-05 Chapter 4：A Sweet Face That Never Changes.txt"
+},
+{
+"type": "file",
+"name": "event306-06 Chapter 5：An Extra-Special Memory.txt"
+},
+{
+"type": "file",
+"name": "event306-07 Ending：Someday, for Sure, Eternal.txt"
 }
 ]
 }
