@@ -833,6 +833,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_208.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -3584,6 +3588,10 @@
 {
 "type": "file",
 "name": "1397_天馬司_R4 まっすぐな演説 (event_205).txt"
+},
+{
+"type": "file",
+"name": "1410_天馬司_R4 身を焦がす混沌 (event_208).txt"
 }
 ]
 },
@@ -3798,6 +3806,10 @@
 {
 "type": "file",
 "name": "1377_鳳えむ_R4 前を向いて歩こう (event_202).txt"
+},
+{
+"type": "file",
+"name": "1411_鳳えむ_R4 胸の奥でいつも (event_208).txt"
 }
 ]
 },
@@ -3996,6 +4008,10 @@
 {
 "type": "file",
 "name": "1364_草薙寧々_R4 口には出せないこの気持ち (event_200).txt"
+},
+{
+"type": "file",
+"name": "1413_草薙寧々_R3 苦しみを見つめて (event_208).txt"
 }
 ]
 },
@@ -4202,6 +4218,10 @@
 {
 "type": "file",
 "name": "1409_神代類_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1412_神代類_R4 憂いの先 (event_208).txt"
 }
 ]
 },
@@ -5700,6 +5720,10 @@
 {
 "type": "file",
 "name": "1393_鏡音レン_R4 きらめきは重なって (event_205).txt"
+},
+{
+"type": "file",
+"name": "1414_鏡音レン (WxS)_R2 小さなヒーロー (event_208).txt"
 }
 ]
 },
@@ -14290,6 +14314,44 @@
 {
 "type": "file",
 "name": "207-07 光の中で.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "208 Phantom maze monster (WxS_天馬司)",
+"children": [
+{
+"type": "file",
+"name": "208-01 オレ達の公演を.txt"
+},
+{
+"type": "file",
+"name": "208-02 天国へのパレード.txt"
+},
+{
+"type": "file",
+"name": "208-03 課せられたもの.txt"
+},
+{
+"type": "file",
+"name": "208-04 擦り減る心.txt"
+},
+{
+"type": "file",
+"name": "208-05 記憶の再演.txt"
+},
+{
+"type": "file",
+"name": "208-06 選んだ孤独.txt"
+},
+{
+"type": "file",
+"name": "208-07 胸の奥では.txt"
+},
+{
+"type": "file",
+"name": "208-08 浮上.txt"
 }
 ]
 }
