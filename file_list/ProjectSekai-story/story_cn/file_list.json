@@ -685,6 +685,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_171.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -876,6 +880,10 @@
 {
 "type": "file",
 "name": "1147_星乃一歌_R4 倾尽全力传递音乐 (event_162).txt"
+},
+{
+"type": "file",
+"name": "1189_星乃一歌_R4 抓不住的“心愿” (event_171).txt"
 }
 ]
 },
@@ -1062,6 +1070,10 @@
 {
 "type": "file",
 "name": "1168_天马咲希_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1190_天马咲希_R4 Ace player！ (event_171).txt"
 }
 ]
 },
@@ -1232,6 +1244,10 @@
 {
 "type": "file",
 "name": "1144_望月穗波_R4 那时的“我”们.txt"
+},
+{
+"type": "file",
+"name": "1191_望月穗波_R4 怀揣对未来的憧憬 (event_171).txt"
 }
 ]
 },
@@ -1410,6 +1426,10 @@
 {
 "type": "file",
 "name": "1146_日野森志步_R4 顺从这份冲动 (event_162).txt"
+},
+{
+"type": "file",
+"name": "1192_日野森志步_R4 与伙伴的谈笑 (event_171).txt"
 }
 ]
 },
@@ -3506,6 +3526,10 @@
 {
 "type": "file",
 "name": "1172_神代类_R4 向梦想迈出的一步 (event_167).txt"
+},
+{
+"type": "file",
+"name": "1193_神代类_RB Happy Birthday！！2026.txt"
 }
 ]
 },
@@ -11894,6 +11918,56 @@
 {
 "type": "file",
 "name": "170-11 拥抱每个人的心愿.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "171 ordinary,yet special us (Ln_WL)",
+"children": [
+{
+"type": "file",
+"name": "171-01 过去的另一种可能.txt"
+},
+{
+"type": "file",
+"name": "171-02 STANDOUT (日野森志步).txt"
+},
+{
+"type": "file",
+"name": "171-03 和儿时玩伴们的距离 (日野森志步).txt"
+},
+{
+"type": "file",
+"name": "171-04 充实的每一天 (天马咲希).txt"
+},
+{
+"type": "file",
+"name": "171-05 王牌的决定 (天马咲希).txt"
+},
+{
+"type": "file",
+"name": "171-06 着眼未来 (望月穗波).txt"
+},
+{
+"type": "file",
+"name": "171-07 初中时遗忘的事物 (望月穗波).txt"
+},
+{
+"type": "file",
+"name": "171-08 咫尺天涯 (星乃一歌).txt"
+},
+{
+"type": "file",
+"name": "171-09 听到的“声音” (星乃一歌).txt"
+},
+{
+"type": "file",
+"name": "171-10 星星永远都会.txt"
+},
+{
+"type": "file",
+"name": "171-11 永恒不变的心愿.txt"
 }
 ]
 }
