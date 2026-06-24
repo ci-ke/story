@@ -681,6 +681,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_171.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -872,6 +876,10 @@
 {
 "type": "file",
 "name": "1147_Ichika Hoshino_R4 My All In This Sound (event_162).txt"
+},
+{
+"type": "file",
+"name": "1189_Ichika Hoshino_R4 Unformed Feelings (event_171).txt"
 }
 ]
 },
@@ -1058,6 +1066,10 @@
 {
 "type": "file",
 "name": "1168_Saki Tenma_RB Happy Birthday! 2026.txt"
+},
+{
+"type": "file",
+"name": "1190_Saki Tenma_R4 The Ace! (event_171).txt"
 }
 ]
 },
@@ -1228,6 +1240,10 @@
 {
 "type": "file",
 "name": "1144_Honami Mochizuki_R4 My Past Selves.txt"
+},
+{
+"type": "file",
+"name": "1191_Honami Mochizuki_R4 Daydreams For The Future (event_171).txt"
 }
 ]
 },
@@ -1406,6 +1422,10 @@
 {
 "type": "file",
 "name": "1146_Shiho Hinomori_R4 Go With The Flow (event_162).txt"
+},
+{
+"type": "file",
+"name": "1192_Shiho Hinomori_R4 Chatting With The Band (event_171).txt"
 }
 ]
 },
@@ -3486,6 +3506,10 @@
 {
 "type": "file",
 "name": "1172_Rui Kamishiro_R4 A Step Closer To My Dream (event_167).txt"
+},
+{
+"type": "file",
+"name": "1193_Rui Kamishiro_RB Happy Birthday! 2026.txt"
 }
 ]
 },
@@ -11832,6 +11856,56 @@
 {
 "type": "file",
 "name": "170-11 Embracing Our Feelings.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "171 Ordinary, Yet Special Us (Ln_WL)",
+"children": [
+{
+"type": "file",
+"name": "171-01 Possible Pasts.txt"
+},
+{
+"type": "file",
+"name": "171-02 STANDOUT (Shiho Hinomori).txt"
+},
+{
+"type": "file",
+"name": "171-03 Distant (Shiho Hinomori).txt"
+},
+{
+"type": "file",
+"name": "171-04 Fulfilled Days (Saki Tenma).txt"
+},
+{
+"type": "file",
+"name": "171-05 The Ace's Decision (Saki Tenma).txt"
+},
+{
+"type": "file",
+"name": "171-06 Eyes on the Future (Honami Mochizuki).txt"
+},
+{
+"type": "file",
+"name": "171-07 Memories of Junior High (Honami Mochizuki).txt"
+},
+{
+"type": "file",
+"name": "171-08 Close and Yet So Far (Ichika Hoshino).txt"
+},
+{
+"type": "file",
+"name": "171-09 A Familiar Voice (Ichika Hoshino).txt"
+},
+{
+"type": "file",
+"name": "171-10 Forever Stargazers.txt"
+},
+{
+"type": "file",
+"name": "171-11 What Will Never Change.txt"
 }
 ]
 }
