@@ -7714,6 +7714,10 @@
 {
 "type": "file",
 "name": "2262_倉田真白_R4 夏天，衝向最愛.txt"
+},
+{
+"type": "file",
+"name": "2362_倉田真白_R5 一直支持著我的人.txt"
 }
 ]
 },
@@ -8088,6 +8092,10 @@
 {
 "type": "file",
 "name": "2279_二葉筑紫_R4 正因為一起度過.txt"
+},
+{
+"type": "file",
+"name": "2361_二葉筑紫_R5 被朝陽照耀的你.txt"
 }
 ]
 },
@@ -8202,6 +8210,10 @@
 {
 "type": "file",
 "name": "2276_八潮瑠唯_R5 從那之後，我們.txt"
+},
+{
+"type": "file",
+"name": "2365_八潮瑠唯_R4 決心乘著音樂而去.txt"
 }
 ]
 },
@@ -20412,6 +20424,40 @@
 {
 "type": "file",
 "name": "event317-07 結尾：不是迷路者.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "318 照耀你的黎明之歌",
+"children": [
+{
+"type": "file",
+"name": "event318-01 開場：攜帶著那份樂譜.txt"
+},
+{
+"type": "file",
+"name": "event318-02 第１話：最佳的選擇.txt"
+},
+{
+"type": "file",
+"name": "event318-03 第２話：無法契合的音色.txt"
+},
+{
+"type": "file",
+"name": "event318-04 第３話：看不見的答案.txt"
+},
+{
+"type": "file",
+"name": "event318-05 第４話：相信自己的人.txt"
+},
+{
+"type": "file",
+"name": "event318-06 第５話：即使不是耀眼的光芒.txt"
+},
+{
+"type": "file",
+"name": "event318-07 結尾：那是如暖陽般的光輝.txt"
 }
 ]
 }
