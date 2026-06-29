@@ -8706,6 +8706,10 @@
 {
 "type": "file",
 "name": "2231_Tomori Takamatsu_R5 Ah, a Single Drop.txt"
+},
+{
+"type": "file",
+"name": "2291_Tomori Takamatsu_R4 A Petal, Penned with Feeling.txt"
 }
 ]
 },
@@ -8744,6 +8748,10 @@
 {
 "type": "file",
 "name": "2203_Anon Chihaya_R5 The Brilliance Ahead.txt"
+},
+{
+"type": "file",
+"name": "2287_Anon Chihaya_R5 Evening Rendezvous.txt"
 }
 ]
 },
@@ -8782,6 +8790,10 @@
 {
 "type": "file",
 "name": "2204_Rana Kaname_R5 Here, Beyond This Moment.txt"
+},
+{
+"type": "file",
+"name": "2288_Rana Kaname_R5 A Fickle Stray.txt"
 }
 ]
 },
@@ -19962,6 +19974,40 @@
 {
 "type": "file",
 "name": "event306-07 Ending：Someday, for Sure, Eternal.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "307 To Those Who Take the Fork in the Road",
+"children": [
+{
+"type": "file",
+"name": "event307-01 Opening：A Day the Excitement Won't Fade.txt"
+},
+{
+"type": "file",
+"name": "event307-02 Chapter 1：Once More, Together.txt"
+},
+{
+"type": "file",
+"name": "event307-03 Chapter 2：What's on Each of Their Minds.txt"
+},
+{
+"type": "file",
+"name": "event307-04 Chapter 3：Days You Can't Go Back To.txt"
+},
+{
+"type": "file",
+"name": "event307-05 Chapter 4：A New Place to Belong.txt"
+},
+{
+"type": "file",
+"name": "event307-06 Chapter 5：Where Words Find Their Way.txt"
+},
+{
+"type": "file",
+"name": "event307-07 Ending：To You, Who Is So Kind.txt"
 }
 ]
 }
