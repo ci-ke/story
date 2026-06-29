@@ -837,6 +837,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_209.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1908,6 +1912,10 @@
 {
 "type": "file",
 "name": "1395_花里みのり_R4 熱血コーチング！？ (event_205).txt"
+},
+{
+"type": "file",
+"name": "1417_花里みのり_R4 可愛い応援 (event_209).txt"
 }
 ]
 },
@@ -2114,6 +2122,10 @@
 {
 "type": "file",
 "name": "1376_桐谷遥_R4 闇の中の光に (event_202).txt"
+},
+{
+"type": "file",
+"name": "1418_桐谷遥_R4 100万点の笑顔 (event_209).txt"
 }
 ]
 },
@@ -2320,6 +2332,10 @@
 {
 "type": "file",
 "name": "1400_桃井愛莉_R4 まるでプリンセス！？ (event_206).txt"
+},
+{
+"type": "file",
+"name": "1420_桃井愛莉_R3 全力！体操のお姉さん！ (event_209).txt"
 }
 ]
 },
@@ -2526,6 +2542,10 @@
 {
 "type": "file",
 "name": "1406_日野森雫_R4 想いをのせたワンカット (event_207).txt"
+},
+{
+"type": "file",
+"name": "1421_日野森雫_R2 素敵な笑顔のお手伝い (event_209).txt"
 }
 ]
 },
@@ -3374,6 +3394,10 @@
 {
 "type": "file",
 "name": "1398_青柳冬弥_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1415_青柳冬弥_R4 一緒に帰ろう.txt"
 }
 ]
 },
@@ -4012,6 +4036,10 @@
 {
 "type": "file",
 "name": "1413_草薙寧々_R3 苦しみを見つめて (event_208).txt"
+},
+{
+"type": "file",
+"name": "1416_草薙寧々_R4 あなたのような“わたし”に.txt"
 }
 ]
 },
@@ -5296,6 +5324,10 @@
 {
 "type": "file",
 "name": "1374_初音ミク_R4 力になれる喜び (event_202).txt"
+},
+{
+"type": "file",
+"name": "1419_初音ミク (MMJ)_R4 ミクちゃんに密着取材！ (event_209).txt"
 }
 ]
 },
@@ -14352,6 +14384,44 @@
 {
 "type": "file",
 "name": "208-08 浮上.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "209 アイドル・花里みのり～夢の最前線～ (MMJ_花里みのり)",
+"children": [
+{
+"type": "file",
+"name": "209-01 お仕事いっぱい！.txt"
+},
+{
+"type": "file",
+"name": "209-02 注目のアイドル！？.txt"
+},
+{
+"type": "file",
+"name": "209-03 密着取材、開始！.txt"
+},
+{
+"type": "file",
+"name": "209-04 食レポにリベンジ！.txt"
+},
+{
+"type": "file",
+"name": "209-05 密着は続く.txt"
+},
+{
+"type": "file",
+"name": "209-06 一日署長.txt"
+},
+{
+"type": "file",
+"name": "209-07 希望を与えるもの.txt"
+},
+{
+"type": "file",
+"name": "209-08 未来への軌跡.txt"
 }
 ]
 }
