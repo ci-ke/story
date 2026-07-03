@@ -8324,6 +8324,10 @@
 {
 "type": "file",
 "name": "2270_LAYER_R5 回憶閃閃發光.txt"
+},
+{
+"type": "file",
+"name": "2376_LAYER_R5 RUNAWAY STAR.txt"
 }
 ]
 },
@@ -8564,6 +8568,10 @@
 {
 "type": "file",
 "name": "2263_MASKING_R5 藍天的雨滴.txt"
+},
+{
+"type": "file",
+"name": "2377_MASKING_R5 NO STAR HERE.txt"
 }
 ]
 },
@@ -8796,6 +8804,10 @@
 {
 "type": "file",
 "name": "2296_CHU²_R4 Breakout．Of.txt"
+},
+{
+"type": "file",
+"name": "2380_CHU²_R4 in the mirror.txt"
 }
 ]
 },
@@ -20458,6 +20470,40 @@
 {
 "type": "file",
 "name": "event318-07 結尾：那是如暖陽般的光輝.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "319 Radiance and Eclipse",
+"children": [
+{
+"type": "file",
+"name": "event319-01 開場：Call us.txt"
+},
+{
+"type": "file",
+"name": "event319-02 第１話：Dawn Session.txt"
+},
+{
+"type": "file",
+"name": "event319-03 第２話：Silent Line.txt"
+},
+{
+"type": "file",
+"name": "event319-04 第３話：Star Break.txt"
+},
+{
+"type": "file",
+"name": "event319-05 第４話：Street Alone.txt"
+},
+{
+"type": "file",
+"name": "event319-06 第５話：Cross Night.txt"
+},
+{
+"type": "file",
+"name": "event319-07 結尾：Raise A.txt"
 }
 ]
 }
