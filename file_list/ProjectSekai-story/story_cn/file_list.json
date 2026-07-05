@@ -689,6 +689,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_172.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -11996,6 +12000,44 @@
 {
 "type": "file",
 "name": "171-11 永恒不变的心愿.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "172 Deeper and deeper (WxS_神代类)",
+"children": [
+{
+"type": "file",
+"name": "172-01 意料之外的机会.txt"
+},
+{
+"type": "file",
+"name": "172-02 憧憬之人.txt"
+},
+{
+"type": "file",
+"name": "172-03 “无聊”.txt"
+},
+{
+"type": "file",
+"name": "172-04 无法跨越的差距.txt"
+},
+{
+"type": "file",
+"name": "172-05 噩梦.txt"
+},
+{
+"type": "file",
+"name": "172-06 自我.txt"
+},
+{
+"type": "file",
+"name": "172-07 开幕.txt"
+},
+{
+"type": "file",
+"name": "172-08 抓住手中之物.txt"
 }
 ]
 }
