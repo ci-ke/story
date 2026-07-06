@@ -689,6 +689,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_172.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -3008,6 +3012,10 @@
 {
 "type": "file",
 "name": "1173_天馬司_RB Happy Birthday!! 2026.txt"
+},
+{
+"type": "file",
+"name": "1197_天馬司_R4 準備登台 (event_172).txt"
 }
 ]
 },
@@ -3182,6 +3190,10 @@
 {
 "type": "file",
 "name": "1170_鳳笑夢_R4 在笑咪咪的舞台上 (event_167).txt"
+},
+{
+"type": "file",
+"name": "1200_鳳笑夢_R2 好奇的劇團 (event_172).txt"
 }
 ]
 },
@@ -3352,6 +3364,10 @@
 {
 "type": "file",
 "name": "1171_草薙寧寧_R4 心懷焦躁 (event_167).txt"
+},
+{
+"type": "file",
+"name": "1198_草薙寧寧_R4 慰勞品採買中 (event_172).txt"
 }
 ]
 },
@@ -3530,6 +3546,10 @@
 {
 "type": "file",
 "name": "1193_神代類_RB Happy Birthday!! 2026.txt"
+},
+{
+"type": "file",
+"name": "1196_神代類_R4 與嚮往之間的距離 (event_172).txt"
 }
 ]
 },
@@ -4068,6 +4088,10 @@
 {
 "type": "file",
 "name": "1187_東雲繪名_R4 一直都是你 (event_170).txt"
+},
+{
+"type": "file",
+"name": "1194_東雲繪名_R4 連同那幅畫一起.txt"
 }
 ]
 },
@@ -4994,6 +5018,10 @@
 {
 "type": "file",
 "name": "1145_巡音流歌_R4 流轉的「世界」，觸碰的心願.txt"
+},
+{
+"type": "file",
+"name": "1199_巡音流歌 (WxS)_R3 引領覺醒的聲音 (event_172).txt"
 }
 ]
 },
@@ -5350,6 +5378,10 @@
 {
 "type": "file",
 "name": "1158_KAITO (WxS)_R4 貼心相伴的微笑 (event_164).txt"
+},
+{
+"type": "file",
+"name": "1195_KAITO_R4 夥伴的存在.txt"
 }
 ]
 }
@@ -11968,6 +12000,44 @@
 {
 "type": "file",
 "name": "171-11 絕對不變的事物.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "172 Deeper and deeper (WxS_神代類)",
+"children": [
+{
+"type": "file",
+"name": "172-01 意想不到的機會.txt"
+},
+{
+"type": "file",
+"name": "172-02 憧憬.txt"
+},
+{
+"type": "file",
+"name": "172-03 「無聊」.txt"
+},
+{
+"type": "file",
+"name": "172-04 無法追平的差距.txt"
+},
+{
+"type": "file",
+"name": "172-05 惡夢.txt"
+},
+{
+"type": "file",
+"name": "172-06 自己.txt"
+},
+{
+"type": "file",
+"name": "172-07 開幕.txt"
+},
+{
+"type": "file",
+"name": "172-08 掌握在這雙手中的事物.txt"
 }
 ]
 }
