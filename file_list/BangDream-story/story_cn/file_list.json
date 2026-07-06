@@ -2071,6 +2071,10 @@
 },
 {
 "type": "file",
+"name": "10048_户山香澄_R5 小豆泥与未解之谜.txt"
+},
+{
+"type": "file",
 "name": "1023_户山香澄_R3 色彩缤纷的岩石地.txt"
 },
 {
@@ -3186,6 +3190,10 @@
 {
 "type": "file",
 "name": "0994_美竹兰_R3 害羞的少女.txt"
+},
+{
+"type": "file",
+"name": "10049_美竹兰_R5 和小豆泥一起装扮.txt"
 },
 {
 "type": "file",
@@ -4331,6 +4339,10 @@
 },
 {
 "type": "file",
+"name": "10050_弦卷心_R5 小豆泥的秘密特训.txt"
+},
+{
+"type": "file",
 "name": "1061_弦卷心_R4 微笑魔女.txt"
 },
 {
@@ -4408,6 +4420,10 @@
 {
 "type": "file",
 "name": "2318_弦卷心_R5 享受☆畅玩.txt"
+},
+{
+"type": "file",
+"name": "2352_弦卷心_R4 委托蜂拥而至！.txt"
 }
 ]
 },
@@ -4626,6 +4642,10 @@
 {
 "type": "file",
 "name": "2315_濑田薰_R5 通往新世界之门.txt"
+},
+{
+"type": "file",
+"name": "2348_濑田薰_R5 梦幻盛宴的序幕.txt"
 }
 ]
 },
@@ -4848,6 +4868,10 @@
 {
 "type": "file",
 "name": "2265_北泽育美_R5 少女的呐喊划破盛夏.txt"
+},
+{
+"type": "file",
+"name": "2349_北泽育美_R5 解开心灵的枷锁.txt"
 }
 ]
 },
@@ -8283,6 +8307,10 @@
 },
 {
 "type": "file",
+"name": "10051_和奏瑞依_R5 小豆泥模特!？.txt"
+},
+{
+"type": "file",
 "name": "1024_和奏瑞依_R4 开始闪耀的星星.txt"
 },
 {
@@ -8855,6 +8883,10 @@
 "type": "dir",
 "name": "36 MyGO_高松灯",
 "children": [
+{
+"type": "file",
+"name": "10052_高松灯_R5 小豆泥的指引.txt"
+},
 {
 "type": "file",
 "name": "1808_高松灯_R1 唱出心声的少女.txt"
@@ -20480,6 +20512,40 @@
 {
 "type": "file",
 "name": "event315-07 终章：奇迹·白色・圣诞节.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "316 Welcome to 濑田薰乐园",
+"children": [
+{
+"type": "file",
+"name": "event316-01 序章：梦幻计划的开始.txt"
+},
+{
+"type": "file",
+"name": "event316-02 第１话：小猫咪们的声音.txt"
+},
+{
+"type": "file",
+"name": "event316-03 第２话：开园准备开始！.txt"
+},
+{
+"type": "file",
+"name": "event316-04 第３话：梦幻之国的魔法王子.txt"
+},
+{
+"type": "file",
+"name": "event316-05 第４话：濑田薰乐园，开园！.txt"
+},
+{
+"type": "file",
+"name": "event316-06 第５话：是谁牵起公主的手.txt"
+},
+{
+"type": "file",
+"name": "event316-07 终章：濑田薰乐园永存.txt"
 }
 ]
 }
