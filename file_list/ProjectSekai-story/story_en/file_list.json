@@ -685,6 +685,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_172.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -3174,6 +3178,10 @@
 {
 "type": "file",
 "name": "1170_Emu Otori_R4 At A Stage Full Of Smiles (event_167).txt"
+},
+{
+"type": "file",
+"name": "1200_Emu Otori_R2 Eyes On Other Troupes (event_172).txt"
 }
 ]
 },
@@ -4986,6 +4994,10 @@
 {
 "type": "file",
 "name": "1145_Megurine Luka_R4 Feelings From Each SEKAI.txt"
+},
+{
+"type": "file",
+"name": "1199_Megurine Luka (WxS)_R3 Gentle Wake-Up Call (event_172).txt"
 }
 ]
 },
@@ -11926,6 +11938,44 @@
 {
 "type": "file",
 "name": "171-11 What Will Never Change.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "172 Deeper and Deeper (WxS_Rui Kamishiro)",
+"children": [
+{
+"type": "file",
+"name": "172-01 An Unexpected Opportunity.txt"
+},
+{
+"type": "file",
+"name": "172-02 Admiration.txt"
+},
+{
+"type": "file",
+"name": "172-03 ＂Insipid＂.txt"
+},
+{
+"type": "file",
+"name": "172-04 Unbridgeable Gulf.txt"
+},
+{
+"type": "file",
+"name": "172-05 Nightmare.txt"
+},
+{
+"type": "file",
+"name": "172-06 Self.txt"
+},
+{
+"type": "file",
+"name": "172-07 The Curtain Rises.txt"
+},
+{
+"type": "file",
+"name": "172-08 What I've Grasped.txt"
 }
 ]
 }
