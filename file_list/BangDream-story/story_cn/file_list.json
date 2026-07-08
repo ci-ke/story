@@ -137,6 +137,10 @@
 },
 {
 "type": "file",
+"name": "talk_period_limited_area_05 购物中心.txt"
+},
+{
+"type": "file",
 "name": "talk_period_limited_area_06 快餐店.txt"
 },
 {
@@ -165,6 +169,10 @@
 },
 {
 "type": "file",
+"name": "talk_period_limited_area_15 月之森女子学园.txt"
+},
+{
+"type": "file",
 "name": "talk_period_limited_area_16 车站前.txt"
 },
 {
@@ -190,6 +198,10 @@
 {
 "type": "file",
 "name": "talk_period_limited_area_25 梦幻世界.txt"
+},
+{
+"type": "file",
+"name": "talk_period_limited_area_901 NFO特别线下活动现场.txt"
 }
 ]
 },
@@ -5465,7 +5477,7 @@
 },
 {
 "type": "file",
-"name": "10029_丸山彩_R4 彩彩小豆泥.txt"
+"name": "10029_丸山彩_R5 彩彩小豆泥.txt"
 },
 {
 "type": "file",

@@ -2968,6 +2968,10 @@
 {
 "type": "file",
 "name": "2242_Arisa Ichigaya_R5 Pegasus of the Open Sea.txt"
+},
+{
+"type": "file",
+"name": "2297_Arisa Ichigaya_R5 A Golden Carpet.txt"
 }
 ]
 },
@@ -4106,6 +4110,10 @@
 {
 "type": "file",
 "name": "2215_Tsugumi Hazawa_R5 Full Speed for You.txt"
+},
+{
+"type": "file",
+"name": "2298_Tsugumi Hazawa_R5 Sharing Between the Two of Us.txt"
 }
 ]
 },
@@ -8314,6 +8322,10 @@
 {
 "type": "file",
 "name": "2225_Rokka Asahi_R5 Blessings from the Heart.txt"
+},
+{
+"type": "file",
+"name": "2292_Rokka Asahi_R5 Light in the Dark.txt"
 }
 ]
 },
@@ -8534,6 +8546,10 @@
 {
 "type": "file",
 "name": "2236_Reona Nyubara_R5 A Morning That Changed It All.txt"
+},
+{
+"type": "file",
+"name": "2293_Reona Nyubara_R5 Take My Hand, Brave Hero.txt"
 }
 ]
 },
@@ -8652,6 +8668,10 @@
 {
 "type": "file",
 "name": "2237_Chiyu Tamade_R5 Love It or Hate It.txt"
+},
+{
+"type": "file",
+"name": "2296_Chiyu Tamade_R4 Break Out Of.txt"
 }
 ]
 },
@@ -20008,6 +20028,40 @@
 {
 "type": "file",
 "name": "event307-07 Ending：To You, Who Is So Kind.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "308 Trick&Trap!",
+"children": [
+{
+"type": "file",
+"name": "event308-01 Opening：What We Know About You.txt"
+},
+{
+"type": "file",
+"name": "event308-02 Chapter 1：Make Up!.txt"
+},
+{
+"type": "file",
+"name": "event308-03 Chapter 2：Leave It to the Reaper♪.txt"
+},
+{
+"type": "file",
+"name": "event308-04 Chapter 3：Dance Time.txt"
+},
+{
+"type": "file",
+"name": "event308-05 Chapter 4：Complete the Mission!.txt"
+},
+{
+"type": "file",
+"name": "event308-06 Chapter 5：What I Know About You.txt"
+},
+{
+"type": "file",
+"name": "event308-07 Ending：What I Came to Know About You.txt"
 }
 ]
 }
