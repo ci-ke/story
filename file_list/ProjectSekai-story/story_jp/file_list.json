@@ -841,6 +841,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_210.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -4040,6 +4044,10 @@
 {
 "type": "file",
 "name": "1416_草薙寧々_R4 あなたのような“わたし”に.txt"
+},
+{
+"type": "file",
+"name": "1427_草薙寧々_RB Happy Birthday！！2026.txt"
 }
 ]
 },
@@ -4460,6 +4468,10 @@
 {
 "type": "file",
 "name": "1403_宵崎奏_R2 形にした先で (event_206).txt"
+},
+{
+"type": "file",
+"name": "1425_宵崎奏_R3 想定外のスピード！？ (event_210).txt"
 }
 ]
 },
@@ -4670,6 +4682,10 @@
 {
 "type": "file",
 "name": "1408_朝比奈まふゆ_R4 雨に滲む微笑み (event_207).txt"
+},
+{
+"type": "file",
+"name": "1423_朝比奈まふゆ_R4 指先なぞる思い出 (event_210).txt"
 }
 ]
 },
@@ -4880,6 +4896,10 @@
 {
 "type": "file",
 "name": "1379_東雲絵名_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1422_東雲絵名_R4 藍に咲く花 (event_210).txt"
 }
 ]
 },
@@ -5082,6 +5102,10 @@
 {
 "type": "file",
 "name": "1399_暁山瑞希_R4 小さなキミとのささやかな時間 (event_206).txt"
+},
+{
+"type": "file",
+"name": "1426_暁山瑞希_R2 みんなとなら、どこだって (event_210).txt"
 }
 ]
 },
@@ -6176,6 +6200,10 @@
 {
 "type": "file",
 "name": "1365_MEIKO (WxS)_R4 名探偵MEIKO！？ (event_200).txt"
+},
+{
+"type": "file",
+"name": "1424_MEIKO (N25)_R4 穏やかな夕暮れ (event_210).txt"
 }
 ]
 },
@@ -14422,6 +14450,44 @@
 {
 "type": "file",
 "name": "209-08 未来への軌跡.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "210 褪せない今を、彩って (N25_東雲絵名)",
+"children": [
+{
+"type": "file",
+"name": "210-01 募るもどかしさ.txt"
+},
+{
+"type": "file",
+"name": "210-02 気まぐれ旅行へ！.txt"
+},
+{
+"type": "file",
+"name": "210-03 最初の場所は.txt"
+},
+{
+"type": "file",
+"name": "210-04 思い出の味.txt"
+},
+{
+"type": "file",
+"name": "210-05 まさかの到着地.txt"
+},
+{
+"type": "file",
+"name": "210-06 ドタバタアスレチック！.txt"
+},
+{
+"type": "file",
+"name": "210-07 茜色のひととき.txt"
+},
+{
+"type": "file",
+"name": "210-08 いつか、この気持ちを.txt"
 }
 ]
 }
