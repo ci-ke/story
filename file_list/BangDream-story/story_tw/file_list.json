@@ -3234,6 +3234,10 @@
 {
 "type": "file",
 "name": "2358_美竹蘭_R5 注視的前方.txt"
+},
+{
+"type": "file",
+"name": "2385_美竹蘭_R4 傾注真心裝飾.txt"
 }
 ]
 },
@@ -3448,6 +3452,10 @@
 {
 "type": "file",
 "name": "2280_青葉摩卡_R5 Ｂ５尺寸的無限大.txt"
+},
+{
+"type": "file",
+"name": "2382_青葉摩卡_R5 請品嚐力作～.txt"
 }
 ]
 },
@@ -4142,6 +4150,10 @@
 {
 "type": "file",
 "name": "2298_羽澤鶇_R5 兩人，彼此分享.txt"
+},
+{
+"type": "file",
+"name": "2381_羽澤鶇_R5 晚霞染紅雙頰.txt"
 }
 ]
 },
@@ -6894,6 +6906,10 @@
 {
 "type": "file",
 "name": "2309_冰川紗夜_R5 兩個拼圖.txt"
+},
+{
+"type": "file",
+"name": "2386_冰川紗夜_R5 乘著溫暖的風.txt"
 }
 ]
 },
@@ -8214,6 +8230,10 @@
 {
 "type": "file",
 "name": "2365_八潮瑠唯_R4 決心乘著音樂而去.txt"
+},
+{
+"type": "file",
+"name": "2387_八潮瑠唯_R5 靜靜飄落堆積.txt"
 }
 ]
 },
@@ -20504,6 +20524,40 @@
 {
 "type": "file",
 "name": "event319-07 結尾：Raise A.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "320 Our Sweetest Valentine！",
+"children": [
+{
+"type": "file",
+"name": "event320-01 開場：特別感滿滿的一頁.txt"
+},
+{
+"type": "file",
+"name": "event320-02 第１話：甜～蜜計畫.txt"
+},
+{
+"type": "file",
+"name": "event320-03 第２話：各自的超絕特別.txt"
+},
+{
+"type": "file",
+"name": "event320-04 第３話：我能做到些什麼呢.txt"
+},
+{
+"type": "file",
+"name": "event320-05 第４話：該鶇的時候，就鶇吧.txt"
+},
+{
+"type": "file",
+"name": "event320-06 第５話：超絕特別的情人節.txt"
+},
+{
+"type": "file",
+"name": "event320-07 結尾：筆記本中的一個.txt"
 }
 ]
 }
