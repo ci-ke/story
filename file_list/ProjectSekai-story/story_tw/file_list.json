@@ -693,6 +693,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_173.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -888,6 +892,10 @@
 {
 "type": "file",
 "name": "1189_星乃一歌_R4 無法抓住的「心願」 (event_171).txt"
+},
+{
+"type": "file",
+"name": "1202_星乃一歌_R4 Be with you (event_173).txt"
 }
 ]
 },
@@ -1252,6 +1260,10 @@
 {
 "type": "file",
 "name": "1191_望月穗波_R4 懷抱對將來的憧憬 (event_171).txt"
+},
+{
+"type": "file",
+"name": "1201_望月穗波_R4 困惑歸於寂靜 (event_173).txt"
 }
 ]
 },
@@ -1434,6 +1446,10 @@
 {
 "type": "file",
 "name": "1192_日野森志步_R4 與夥伴談笑 (event_171).txt"
+},
+{
+"type": "file",
+"name": "1204_日野森志步_R3 起床的那一刻 (event_173).txt"
 }
 ]
 },
@@ -4658,6 +4674,10 @@
 {
 "type": "file",
 "name": "1150_鏡音鈴 (Ln)_R2 舒緩緊張的咒語 (event_162).txt"
+},
+{
+"type": "file",
+"name": "1203_鏡音鈴 (Ln)_R4 拿出遊樂股長的看家本領♪ (event_173).txt"
 }
 ]
 },
@@ -5200,6 +5220,10 @@
 {
 "type": "file",
 "name": "1176_MEIKO (MMJ)_R4 讓我們MORE MORE訓練！ (event_168).txt"
+},
+{
+"type": "file",
+"name": "1205_MEIKO (Ln)_R2 熱情的風格 (event_173).txt"
 }
 ]
 },
@@ -12038,6 +12062,44 @@
 {
 "type": "file",
 "name": "172-08 掌握在這雙手中的事物.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "173 Unsteady, still steady step (Ln_望月穗波)",
+"children": [
+{
+"type": "file",
+"name": "173-01 令人開心的消息.txt"
+},
+{
+"type": "file",
+"name": "173-02 祝賀派對.txt"
+},
+{
+"type": "file",
+"name": "173-03 新消息.txt"
+},
+{
+"type": "file",
+"name": "173-04 天秤.txt"
+},
+{
+"type": "file",
+"name": "173-05 為了不要後悔.txt"
+},
+{
+"type": "file",
+"name": "173-06 付諸行動，試著理解.txt"
+},
+{
+"type": "file",
+"name": "173-07 熱情與迷惘.txt"
+},
+{
+"type": "file",
+"name": "173-08 決心.txt"
 }
 ]
 }
