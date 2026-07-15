@@ -689,6 +689,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_173.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -884,6 +888,10 @@
 {
 "type": "file",
 "name": "1189_Ichika Hoshino_R4 Unformed Feelings (event_171).txt"
+},
+{
+"type": "file",
+"name": "1202_Ichika Hoshino_R4 We're With You (event_173).txt"
 }
 ]
 },
@@ -1248,6 +1256,10 @@
 {
 "type": "file",
 "name": "1191_Honami Mochizuki_R4 Daydreams For The Future (event_171).txt"
+},
+{
+"type": "file",
+"name": "1201_Honami Mochizuki_R4 Noise Gives Way To Silence (event_173).txt"
 }
 ]
 },
@@ -1430,6 +1442,10 @@
 {
 "type": "file",
 "name": "1192_Shiho Hinomori_R4 Chatting With The Band (event_171).txt"
+},
+{
+"type": "file",
+"name": "1204_Shiho Hinomori_R3 The Moment I Rise (event_173).txt"
 }
 ]
 },
@@ -4634,6 +4650,10 @@
 {
 "type": "file",
 "name": "1150_Kagamine Rin (Ln)_R2 A Reassuring Spell (event_162).txt"
+},
+{
+"type": "file",
+"name": "1203_Kagamine Rin (Ln)_R4 Bringing The Fun And Games♪ (event_173).txt"
 }
 ]
 },
@@ -5176,6 +5196,10 @@
 {
 "type": "file",
 "name": "1176_MEIKO (MMJ)_R4 MORE MORE Training! (event_168).txt"
+},
+{
+"type": "file",
+"name": "1205_MEIKO (Ln)_R2 Heat's My Game (event_173).txt"
 }
 ]
 },
@@ -11976,6 +12000,44 @@
 {
 "type": "file",
 "name": "172-08 What I've Grasped.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "173 Unsteady, Still Steady Step (Ln_Honami Mochizuki)",
+"children": [
+{
+"type": "file",
+"name": "173-01 Good News.txt"
+},
+{
+"type": "file",
+"name": "173-02 Party Time.txt"
+},
+{
+"type": "file",
+"name": "173-03 A New Development.txt"
+},
+{
+"type": "file",
+"name": "173-04 Weighing the Options.txt"
+},
+{
+"type": "file",
+"name": "173-05 Making the Right Choice.txt"
+},
+{
+"type": "file",
+"name": "173-06 An Informed Decision.txt"
+},
+{
+"type": "file",
+"name": "173-07 Passion and Hesitation.txt"
+},
+{
+"type": "file",
+"name": "173-08 Decision.txt"
 }
 ]
 }
