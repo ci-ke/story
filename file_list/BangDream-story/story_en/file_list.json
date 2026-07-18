@@ -2120,6 +2120,10 @@
 {
 "type": "file",
 "name": "2285_Kasumi Toyama_R5 Dreaming Peacefully Away.txt"
+},
+{
+"type": "file",
+"name": "2303_Kasumi Toyama_R4 The Most Special Present!.txt"
 }
 ]
 },
@@ -2330,6 +2334,10 @@
 {
 "type": "file",
 "name": "2213_Tae Hanazono_R5 Racing Through New Green..txt"
+},
+{
+"type": "file",
+"name": "2300_Tae Hanazono_R5 A Sky for You to Run Through.txt"
 }
 ]
 },
@@ -2532,6 +2540,10 @@
 {
 "type": "file",
 "name": "2247_Rimi Ushigome_R5 After School, Rain and Friends.txt"
+},
+{
+"type": "file",
+"name": "2299_Rimi Ushigome_R5 A Sunset Glow, Your Radiant Face.txt"
 }
 ]
 },
@@ -20062,6 +20074,40 @@
 {
 "type": "file",
 "name": "event308-07 Ending：What I Came to Know About You.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "309 Higher Than Any Contrail, You'll Be",
+"children": [
+{
+"type": "file",
+"name": "event309-01 Opening：expectation.txt"
+},
+{
+"type": "file",
+"name": "event309-02 Chapter 1：disappointment.txt"
+},
+{
+"type": "file",
+"name": "event309-03 Chapter 2：strategy!.txt"
+},
+{
+"type": "file",
+"name": "event309-04 Chapter 3：session!.txt"
+},
+{
+"type": "file",
+"name": "event309-05 Chapter 4：effort.txt"
+},
+{
+"type": "file",
+"name": "event309-06 Chapter 5：surprise!.txt"
+},
+{
+"type": "file",
+"name": "event309-07 Ending：contrail.txt"
 }
 ]
 }
