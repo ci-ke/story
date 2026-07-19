@@ -5646,6 +5646,10 @@
 {
 "type": "file",
 "name": "2451_丸山彩_R4 実食！ローカルグルメ.txt"
+},
+{
+"type": "file",
+"name": "2486_丸山彩_R5 一番近くで.txt"
 }
 ]
 },
@@ -6130,6 +6134,10 @@
 {
 "type": "file",
 "name": "2431_白鷺千聖_R5 落としたもの.txt"
+},
+{
+"type": "file",
+"name": "2487_白鷺千聖_R5 歓喜の輪.txt"
 }
 ]
 },
@@ -6618,6 +6626,10 @@
 {
 "type": "file",
 "name": "2447_若宮イヴ_R5 ハッシュタグをつけて.txt"
+},
+{
+"type": "file",
+"name": "2490_若宮イヴ_R4 杜の都を望んで.txt"
 }
 ]
 },
@@ -21470,6 +21482,40 @@
 {
 "type": "file",
 "name": "event336-07 エンディング：戦うための制服を脱ぐ前に.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "337 真っ白なページ、紡いでいく彩り",
+"children": [
+{
+"type": "file",
+"name": "event337-01 オープニング：『夢ノート』を開いて.txt"
+},
+{
+"type": "file",
+"name": "event337-02 第１話：迫るツアーファイナル！.txt"
+},
+{
+"type": "file",
+"name": "event337-03 第２話：たどり着いた場所.txt"
+},
+{
+"type": "file",
+"name": "event337-04 第３話：『DREAM ROAD』.txt"
+},
+{
+"type": "file",
+"name": "event337-05 第４話：そして『夢』が叶って.txt"
+},
+{
+"type": "file",
+"name": "event337-06 第５話：雨上がりの空に.txt"
+},
+{
+"type": "file",
+"name": "event337-07 エンディング：私の『夢の先の夢』.txt"
 }
 ]
 }
