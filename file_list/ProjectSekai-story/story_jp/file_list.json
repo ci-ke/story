@@ -845,6 +845,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_211.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1286,6 +1290,10 @@
 {
 "type": "file",
 "name": "1385_天馬咲希_RB Happy Birthday！！2026.txt"
+},
+{
+"type": "file",
+"name": "1429_天馬咲希_R4 あの日の諦め (event_211).txt"
 }
 ]
 },
@@ -2970,6 +2978,10 @@
 {
 "type": "file",
 "name": "1396_白石杏_R4 かつての躓き (event_205).txt"
+},
+{
+"type": "file",
+"name": "1433_白石杏_RB Happy Birthday！！2026.txt"
 }
 ]
 },
@@ -3402,6 +3414,10 @@
 {
 "type": "file",
 "name": "1415_青柳冬弥_R4 一緒に帰ろう.txt"
+},
+{
+"type": "file",
+"name": "1430_青柳冬弥_R4 願いのレシーブ (event_211).txt"
 }
 ]
 },
@@ -4258,6 +4274,10 @@
 {
 "type": "file",
 "name": "1412_神代類_R4 憂いの先 (event_208).txt"
+},
+{
+"type": "file",
+"name": "1431_神代類_R4 心の濁り (event_211).txt"
 }
 ]
 },
@@ -5106,6 +5126,10 @@
 {
 "type": "file",
 "name": "1426_暁山瑞希_R2 みんなとなら、どこだって (event_210).txt"
+},
+{
+"type": "file",
+"name": "1432_暁山瑞希_R4 重なる想いと過去 (event_211).txt"
 }
 ]
 },
@@ -6418,6 +6442,10 @@
 {
 "type": "file",
 "name": "1401_KAITO (MMJ)_R4 セカイのアイディアマン (event_206).txt"
+},
+{
+"type": "file",
+"name": "1428_KAITO_R4 空へと見送って (event_211).txt"
 }
 ]
 }
@@ -14488,6 +14516,40 @@
 {
 "type": "file",
 "name": "210-08 いつか、この気持ちを.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "211 君の隣、君と見る明日 (Mix_WL)",
+"children": [
+{
+"type": "file",
+"name": "211-01 ぶつかり合う想いの欠片.txt"
+},
+{
+"type": "file",
+"name": "211-02 もう悔やまないために (天馬咲希).txt"
+},
+{
+"type": "file",
+"name": "211-03 イチかバチかの勝負 (青柳冬弥).txt"
+},
+{
+"type": "file",
+"name": "211-04 虚飾から本心を (神代類).txt"
+},
+{
+"type": "file",
+"name": "211-05 雨のち…… (暁山瑞希).txt"
+},
+{
+"type": "file",
+"name": "211-06 あとほんの少しの勇気を (KAITO).txt"
+},
+{
+"type": "file",
+"name": "211-07 待ち遠しい未来.txt"
 }
 ]
 }
