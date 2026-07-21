@@ -2124,6 +2124,10 @@
 {
 "type": "file",
 "name": "2303_戶山香澄_R4 最棒的禮物！.txt"
+},
+{
+"type": "file",
+"name": "2388_戶山香澄_R5 有咲與香澄.txt"
 }
 ]
 },
@@ -2338,6 +2342,10 @@
 {
 "type": "file",
 "name": "2300_花園多惠_R5 妳終有一日奔跑的天空.txt"
+},
+{
+"type": "file",
+"name": "2392_花園多惠_R4 秘密作戰會議.txt"
 }
 ]
 },
@@ -2992,6 +3000,10 @@
 {
 "type": "file",
 "name": "2297_市谷有咲_R5 黃金色的地毯.txt"
+},
+{
+"type": "file",
+"name": "2389_市谷有咲_R5 雙重♡口味.txt"
 }
 ]
 },
@@ -20558,6 +20570,40 @@
 {
 "type": "file",
 "name": "event320-07 結尾：筆記本中的一個.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "321 約定重疊、明天再見",
+"children": [
+{
+"type": "file",
+"name": "event321-01 開場：吵架！？.txt"
+},
+{
+"type": "file",
+"name": "event321-02 第１話：彆扭！？.txt"
+},
+{
+"type": "file",
+"name": "event321-03 第２話：和好！？.txt"
+},
+{
+"type": "file",
+"name": "event321-04 第３話：期待！！.txt"
+},
+{
+"type": "file",
+"name": "event321-05 第４話：當天！！.txt"
+},
+{
+"type": "file",
+"name": "event321-06 第５話：紀念！！.txt"
+},
+{
+"type": "file",
+"name": "event321-07 結尾：最重要的！！！！！！.txt"
 }
 ]
 }
