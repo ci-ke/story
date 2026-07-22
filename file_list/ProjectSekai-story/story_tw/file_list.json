@@ -697,6 +697,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_174.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1620,6 +1624,10 @@
 {
 "type": "file",
 "name": "1175_花里實乃理_R4 一起回顧的時刻 (event_168).txt"
+},
+{
+"type": "file",
+"name": "1207_花里實乃理_R4 編織真誠的心意 (event_174).txt"
 }
 ]
 },
@@ -1794,6 +1802,10 @@
 {
 "type": "file",
 "name": "1177_桐谷遙_R3 尋求製作方面的知識 (event_168).txt"
+},
+{
+"type": "file",
+"name": "1208_桐谷遙_R4 Fantastic！健身房 (event_174).txt"
 }
 ]
 },
@@ -1972,6 +1984,10 @@
 {
 "type": "file",
 "name": "1174_桃井愛莉_R4 無法觸及的痛苦 (event_168).txt"
+},
+{
+"type": "file",
+"name": "1210_桃井愛莉_R3 愛莉的美容沙龍 (event_174).txt"
 }
 ]
 },
@@ -2142,6 +2158,10 @@
 {
 "type": "file",
 "name": "1178_日野森雫_R2 療癒努力的大家 (event_168).txt"
+},
+{
+"type": "file",
+"name": "1209_日野森雫_R4 讓人安心的早餐 (event_174).txt"
 }
 ]
 },
@@ -5410,6 +5430,10 @@
 {
 "type": "file",
 "name": "1195_KAITO_R4 夥伴的存在.txt"
+},
+{
+"type": "file",
+"name": "1211_KAITO (MMJ)_R2 「世界」的偶像粉絲 (event_174).txt"
 }
 ]
 }
@@ -12104,6 +12128,44 @@
 {
 "type": "file",
 "name": "173-08 決心.txt"
+}
+]
+},
+{
+"type": "dir",
+"name": "174 start rolling! stars' crossing (MMJ_花里實乃理)",
+"children": [
+{
+"type": "file",
+"name": "174-01 LUMINA FORUM.txt"
+},
+{
+"type": "file",
+"name": "174-02 大賽開幕！.txt"
+},
+{
+"type": "file",
+"name": "174-03 獨樹一幟的新星.txt"
+},
+{
+"type": "file",
+"name": "174-04 以不加修飾的姿態.txt"
+},
+{
+"type": "file",
+"name": "174-05 舞台布幕即將升起.txt"
+},
+{
+"type": "file",
+"name": "174-06 純粹且真誠.txt"
+},
+{
+"type": "file",
+"name": "174-07 各自的信念.txt"
+},
+{
+"type": "file",
+"name": "174-08 交錯的光芒.txt"
 }
 ]
 }
