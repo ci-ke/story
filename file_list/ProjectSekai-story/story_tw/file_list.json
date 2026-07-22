@@ -12715,6 +12715,132 @@
 },
 {
 "type": "dir",
+"name": "mysekai",
+"children": [
+{
+"type": "file",
+"name": "01 Ln_星乃一歌.txt"
+},
+{
+"type": "file",
+"name": "02 Ln_天馬咲希.txt"
+},
+{
+"type": "file",
+"name": "03 Ln_望月穗波.txt"
+},
+{
+"type": "file",
+"name": "04 Ln_日野森志步.txt"
+},
+{
+"type": "file",
+"name": "05 MMJ_花里實乃理.txt"
+},
+{
+"type": "file",
+"name": "06 MMJ_桐谷遙.txt"
+},
+{
+"type": "file",
+"name": "07 MMJ_桃井愛莉.txt"
+},
+{
+"type": "file",
+"name": "08 MMJ_日野森雫.txt"
+},
+{
+"type": "file",
+"name": "09 VBS_小豆澤心羽.txt"
+},
+{
+"type": "file",
+"name": "10 VBS_白石杏.txt"
+},
+{
+"type": "file",
+"name": "11 VBS_東雲彰人.txt"
+},
+{
+"type": "file",
+"name": "12 VBS_青柳冬彌.txt"
+},
+{
+"type": "file",
+"name": "13 WxS_天馬司.txt"
+},
+{
+"type": "file",
+"name": "14 WxS_鳳笑夢.txt"
+},
+{
+"type": "file",
+"name": "15 WxS_草薙寧寧.txt"
+},
+{
+"type": "file",
+"name": "16 WxS_神代類.txt"
+},
+{
+"type": "file",
+"name": "17 N25_宵崎奏.txt"
+},
+{
+"type": "file",
+"name": "18 N25_朝比奈真冬.txt"
+},
+{
+"type": "file",
+"name": "19 N25_東雲繪名.txt"
+},
+{
+"type": "file",
+"name": "20 N25_曉山瑞希.txt"
+},
+{
+"type": "file",
+"name": "27 Ln_初音未來.txt"
+},
+{
+"type": "file",
+"name": "28 MMJ_初音未來.txt"
+},
+{
+"type": "file",
+"name": "29 VBS_初音未來.txt"
+},
+{
+"type": "file",
+"name": "30 WxS_初音未來.txt"
+},
+{
+"type": "file",
+"name": "31 N25_初音未來.txt"
+},
+{
+"type": "file",
+"name": "33 MMJ_鏡音鈴.txt"
+},
+{
+"type": "file",
+"name": "39 VBS_鏡音連.txt"
+},
+{
+"type": "file",
+"name": "42 Ln_巡音流歌.txt"
+},
+{
+"type": "file",
+"name": "49 VBS_MEIKO.txt"
+},
+{
+"type": "file",
+"name": "55 WxS_KAITO.txt"
+}
+]
+},
+{
+"type": "dir",
 "name": "self",
 "children": [
 {
