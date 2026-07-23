@@ -36,15 +36,15 @@ jobs:
         uses: astral-sh/setup-uv@v7
 
       - name: Clean old file_list directory
-        run: rm -rf frontend/public/file_list
+        run: rm -rf public/file_list
 
       - name: Run generate_action.py
-        run: uv run generate_action.py
+        run: uv run scripts/generate_action.py
 
       - name: Check for data changes
         id: diff
         run: |
-          git add frontend/public/file_list
+          git add public/file_list
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
@@ -68,7 +68,6 @@ jobs:
       - name: Build frontend
         if: steps.diff.outputs.changed == 'true'
         run: |
-          cd frontend
           npm ci
           npm run build
 
@@ -80,7 +79,7 @@ jobs:
         if: steps.diff.outputs.changed == 'true'
         uses: actions/upload-pages-artifact@v4
         with:
-          path: frontend/dist
+          path: dist
 
       - name: Deploy to GitHub Pages
         if: steps.diff.outputs.changed == 'true'

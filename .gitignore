@@ -3,7 +3,33 @@
 
 __pycache__
 
-config.py
+# 本地配置（含路径，不纳入版本管理）
+scripts/config.py
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 
 # NarraFork 计划文件
 .narrafork/

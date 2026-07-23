@@ -3,7 +3,15 @@ on:
   push:
     branches: [main]
     paths:
-      - 'frontend/**'
+      - 'src/**'
+      - 'public/**'
+      - 'index.html'
+      - 'package.json'
+      - 'package-lock.json'
+      - 'vite.config.ts'
+      - 'tsconfig.json'
+      - 'tsconfig.app.json'
+      - 'tsconfig.node.json'
       - '.github/workflows/deploy-page.yml'
   workflow_dispatch:
 
@@ -36,7 +44,6 @@ jobs:
 
       - name: Build frontend
         run: |
-          cd frontend
           npm ci
           npm run build
 
@@ -46,7 +53,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: frontend/dist
+          path: dist
 
       - name: Deploy to GitHub Pages
         id: deployment

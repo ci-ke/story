@@ -1,4 +1,5 @@
-import os, json
+import os, sys, json
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from typing import TypedDict
 
 
@@ -16,7 +17,7 @@ class DirNode(TypedDict):
 Node = FileNode | DirNode
 
 # 输出根目录（直接写入前端 public，无需额外复制）
-OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'frontend', 'public', 'file_list')
+OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'public', 'file_list')
 
 
 def scan_simple(path: str) -> list[Node]:
