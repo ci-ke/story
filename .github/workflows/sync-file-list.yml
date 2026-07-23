@@ -1,14 +1,26 @@
-name: Sync File List
+name: Sync File List and Deploy
+
 on:
   workflow_dispatch:
   repository_dispatch:
     types: [sync-file-list]
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# 与 deploy-page.yml 共用同一个 concurrency group，避免同时部署冲突
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 jobs:
-  sync-list:
+  sync-and-deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout repository
@@ -29,10 +41,48 @@ jobs:
       - name: Run generate_action.py
         run: uv run generate_action.py
 
-      - name: Commit and push changes
+      - name: Check for data changes
+        id: diff
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add frontend/public/file_list
-          git commit -m "Sync file list" || echo "No changes"
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push data
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Sync file list"
           git push
+
+      - name: Setup Node.js
+        if: steps.diff.outputs.changed == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build frontend
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          cd frontend
+          npm ci
+          npm run build
+
+      - name: Setup Pages
+        if: steps.diff.outputs.changed == 'true'
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        if: steps.diff.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: frontend/dist
+
+      - name: Deploy to GitHub Pages
+        if: steps.diff.outputs.changed == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4
