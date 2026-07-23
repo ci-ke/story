@@ -15,8 +15,8 @@ class DirNode(TypedDict):
 
 Node = FileNode | DirNode
 
-# 输出根目录
-OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'file_list')
+# 输出根目录（直接写入前端 public，无需额外复制）
+OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'frontend', 'public', 'file_list')
 
 
 def scan_simple(path: str) -> list[Node]:

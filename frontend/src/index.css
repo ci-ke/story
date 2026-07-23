@@ -1,0 +1,137 @@
+/* ============================================================ */
+/* 全局布局                                                        */
+/* ============================================================ */
+body {
+  font-family: monospace;
+  font-size: 18px;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+  position: relative;
+}
+
+a {
+  display: block;
+  margin: 4px 0;
+  color: #0070f3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ============================================================ */
+/* 面包屑导航                                                       */
+/* ============================================================ */
+#breadcrumb {
+  margin-bottom: 16px;
+  color: #555;
+}
+
+#breadcrumb span {
+  cursor: pointer;
+  color: #0070f3;
+}
+
+#breadcrumb span:hover {
+  text-decoration: underline;
+}
+
+/* ============================================================ */
+/* 内容区域                                                        */
+/* ============================================================ */
+#content {
+  white-space: pre-wrap;
+  line-height: 1.6;
+  overflow-wrap: break-word;
+  word-break: normal;
+  padding-bottom: 100px;
+}
+
+#content.nowrap {
+  white-space: pre;
+  overflow-wrap: normal;
+  word-break: normal;
+}
+
+#list.nowrap a {
+  white-space: nowrap;
+}
+
+#content a {
+  display: inline;
+  margin: 0;
+}
+
+/* ============================================================ */
+/* 工具栏                                                          */
+/* ============================================================ */
+#toolbar {
+  margin-bottom: 12px;
+}
+
+/* ============================================================ */
+/* 首页自定义链接                                                     */
+/* ============================================================ */
+#home-extra a,
+#home-extra .extra-text {
+  display: block;
+  margin: 4px 0;
+}
+
+#home-extra .extra-text {
+  color: #333;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 12px 0;
+}
+
+/* ============================================================ */
+/* 移动端快速滚动滑块                                                 */
+/* ============================================================ */
+#scroll-track {
+  position: fixed;
+  right: 0;
+  top: 80px;
+  bottom: 60px;
+  width: 0;
+  z-index: 1000;
+  display: none;
+  overflow: visible;
+}
+
+#scroll-handle {
+  position: absolute;
+  right: 4px;
+  width: 6px;
+  height: 70px;
+  background: rgba(0, 112, 243, 0.5);
+  border-radius: 4px;
+  transition: width 0.1s, background-color 0.1s, right 0.1s, top 0.1s;
+  cursor: pointer;
+  touch-action: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+/* 伪元素扩大触摸热区 */
+#scroll-handle::after {
+  content: '';
+  position: absolute;
+  top: -30px;
+  bottom: -30px;
+  left: -30px;
+  right: -4px;
+}
+
+/* 拖拽激活态：加粗并禁用 top transition */
+#scroll-handle.dragging {
+  width: 14px;
+  right: 2px;
+  background-color: rgba(0, 112, 243, 0.85);
+  transition: width 0.1s, background-color 0.1s, right 0.1s, top 0s !important;
+}

@@ -15,16 +15,16 @@ jobs:
         uses: actions/checkout@v5
 
       - name: Clone ProjectSekai story repository
-        run: git clone https://github.com/ci-ke/ProjectSekai-story.git ./ProjectSekai-story
+        run: git clone --depth 1 https://github.com/ci-ke/ProjectSekai-story.git ./ProjectSekai-story
 
       - name: Clone BangDream story repository
-        run: git clone https://github.com/ci-ke/BangDream-story.git ./BangDream-story
+        run: git clone --depth 1 https://github.com/ci-ke/BangDream-story.git ./BangDream-story
 
       - name: Setup uv
         uses: astral-sh/setup-uv@v7
 
       - name: Clean old file_list directory
-        run: rm -rf file_list
+        run: rm -rf frontend/public/file_list
 
       - name: Run generate_action.py
         run: uv run generate_action.py
@@ -33,6 +33,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add file_list
+          git add frontend/public/file_list
           git commit -m "Sync file list" || echo "No changes"
           git push
