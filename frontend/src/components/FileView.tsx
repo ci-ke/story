@@ -170,22 +170,20 @@ export function FileView({
         />
       )}
 
-      {(loading || error) && (
-        <div id="source-links">
-          <span className="source-label">在以下平台查看源文件：</span>
-          {sourceUrls.map((link) => (
-            <a
-              key={link.label}
-              className="source-link"
-              href={link.url}
-              target="_blank"
-              rel="noreferrer noopener"
-            >
-              {link.label}
-            </a>
-          ))}
-        </div>
-      )}
+      <div id="source-links">
+        <span className="source-label">在以下平台查看源文件：</span>
+        {sourceUrls.map((link) => (
+          <a
+            key={link.label}
+            className="source-link"
+            href={link.url}
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            {link.label}
+          </a>
+        ))}
+      </div>
     </>
   );
 }

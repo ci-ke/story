@@ -11,7 +11,7 @@ export const REPOS: Record<string, string> = {
 // GitHub Raw 代理前缀
 export const PROXY_PREFIX = 'https://ghfast.top/';
 
-// 文件源码链接（加载中/失败时展示）
+// 文件源码链接（文件页底部显示）
 export interface SourceLink {
   label: string;
   baseUrl: string;
