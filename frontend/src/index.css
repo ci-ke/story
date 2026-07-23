@@ -168,7 +168,10 @@ hr {
 
 /* Copy button */
 .copy-btn {
-  padding: 5px 14px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 12px;
   font-size: 13px;
   color: #fff;
   background: var(--primary);
@@ -178,6 +181,7 @@ hr {
   transition: background var(--transition), opacity var(--transition);
   font-family: inherit;
   font-weight: 500;
+  white-space: nowrap;
 }
 
 .copy-btn:hover {
@@ -193,6 +197,39 @@ hr {
   color: var(--text-muted);
   cursor: default;
   opacity: 1;
+}
+
+.copy-icon {
+  flex-shrink: 0;
+  width: 14px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.copy-icon svg {
+  width: 100%;
+  height: 100%;
+}
+
+.copy-label {
+  display: inline;
+}
+
+/* 移动端：只显示图标 */
+@media (max-width: 520px) {
+  .copy-label {
+    display: none;
+  }
+
+  .copy-btn {
+    padding: 6px 8px;
+  }
+
+  #toolbar {
+    gap: 10px;
+  }
 }
 
 /* ============================================================ */
@@ -249,12 +286,6 @@ hr {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-}
-
-.dir-badge {
-  font-size: 11px;
-  color: var(--text-muted);
-  flex-shrink: 0;
 }
 
 /* ============================================================ */
@@ -324,8 +355,43 @@ hr {
 }
 
 /* ============================================================ */
-/* Home Extra (首页自定义链接)                                      */
+/* Source Links (加载中/失败时显示)                                 */
 /* ============================================================ */
+#source-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 16px 20px;
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+#source-links .source-label {
+  color: var(--text-muted);
+}
+
+#source-links .source-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  color: var(--primary);
+  font-size: 13px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background var(--transition), border-color var(--transition);
+}
+
+#source-links .source-link:hover {
+  background: var(--primary-light);
+  border-color: var(--primary);
+  text-decoration: none;
+  color: var(--primary);
+}
 #home-extra {
   display: flex;
   flex-direction: column;
@@ -378,7 +444,6 @@ hr {
 
 #scroll-track.visible {
   opacity: 1;
-  pointer-events: auto;
 }
 
 #scroll-handle {

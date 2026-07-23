@@ -1,5 +1,23 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
-import { OWNER, BRANCH, PROXY_PREFIX, REPOS } from '../config';
+import { OWNER, BRANCH, PROXY_PREFIX, REPOS, SOURCE_LINKS } from '../config';
+
+/* 复制图标（SVG） */
+function CopyIcon() {
+  return (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <rect x="9" y="9" width="13" height="13" rx="2" ry="2" />
+      <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1" />
+    </svg>
+  );
+}
+
+function CheckIcon() {
+  return (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <polyline points="20 6 9 17 4 12" />
+    </svg>
+  );
+}
 
 interface FileViewProps {
   filePath: string;
@@ -21,6 +39,7 @@ export function FileView({
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [copied, setCopied] = useState(false);
+  const latestRequestRef = useRef(0);
 
   const handleCopy = useCallback(async () => {
     const text = rawTextRef.current;
@@ -41,7 +60,8 @@ export function FileView({
     setTimeout(() => setCopied(false), 1800);
   }, []);
 
-  const loadFile = useCallback(async () => {
+  const loadFile = useCallback(async (signal?: AbortSignal) => {
+    const reqId = ++latestRequestRef.current;
     setLoading(true);
     setError(null);
     setContent('');
@@ -55,10 +75,12 @@ export function FileView({
       const baseURL = proxyEnabled ? PROXY_PREFIX + rawBase : rawBase;
       const rawURL = `${baseURL}/${OWNER}/${topLevel}/${BRANCH}/${repoFilePath}`;
 
-      const res = await fetch(rawURL);
+      const res = await fetch(rawURL, { signal });
       if (!res.ok) throw new Error('HTTP ' + res.status);
 
       const text = await res.text();
+      // 只有最新请求才更新结果，旧请求直接丢弃
+      if (latestRequestRef.current !== reqId) return;
       rawTextRef.current = text;
       const urlRegex = /https?:\/\/[^\s）)】」』\]\[）)\],，。！？]+/g;
       const html = text
@@ -70,38 +92,36 @@ export function FileView({
         });
       setContent(html);
     } catch (e) {
+      if (latestRequestRef.current !== reqId) return;
+      if (e instanceof DOMException && e.name === 'AbortError') return;
       setError('加载失败：' + (e as Error).message);
     } finally {
-      setLoading(false);
+      if (latestRequestRef.current === reqId) {
+        setLoading(false);
+      }
     }
   }, [filePath, proxyEnabled]);
 
   useEffect(() => {
-    loadFile();
+    const ctrl = new AbortController();
+    loadFile(ctrl.signal);
+    return () => ctrl.abort();
   }, [loadFile]);
-
-  if (loading) {
-    return (
-      <div id="loading">
-        <div className="spinner" />
-        <span>加载中...</span>
-      </div>
-    );
-  }
-
-  if (error) {
-    return (
-      <div id="error">
-        <div className="error-icon">!</div>
-        <div>{error}</div>
-      </div>
-    );
-  }
 
   const hasText = !!rawTextRef.current;
 
+  // 计算在 GitHub / Gitee 上查看的源码链接
+  const topLevel = filePath.split('/')[0];
+  const repoName = REPOS[topLevel] ?? topLevel;
+  const repoFilePath = filePath.split('/').slice(1).join('/');
+  const sourceUrls = SOURCE_LINKS.map((link) => ({
+    label: link.label,
+    url: `${link.baseUrl}/${OWNER}/${repoName}/blob/${BRANCH}/${repoFilePath}`,
+  }));
+
   return (
     <>
+      {/* 工具栏始终显示，加载中也能切换国内加速 */}
       <div id="toolbar">
         <label className="toggle">
           <input
@@ -123,14 +143,49 @@ export function FileView({
         </label>
         <span style={{ flex: 1 }} />
         <button className="copy-btn" onClick={handleCopy} disabled={!hasText}>
-          {copied ? '已复制' : '复制全文'}
+          <span className="copy-icon">{copied ? <CheckIcon /> : <CopyIcon />}</span>
+          <span className="copy-label">{copied ? '已复制' : '复制全文'}</span>
         </button>
       </div>
-      <div
-        id="content"
-        className={wrapEnabled ? '' : 'nowrap'}
-        dangerouslySetInnerHTML={{ __html: content }}
-      />
+
+      {loading && (
+        <div id="loading">
+          <div className="spinner" />
+          <span>加载中...</span>
+        </div>
+      )}
+
+      {error && (
+        <div id="error">
+          <div className="error-icon">!</div>
+          <div>{error}</div>
+        </div>
+      )}
+
+      {!loading && !error && (
+        <div
+          id="content"
+          className={wrapEnabled ? '' : 'nowrap'}
+          dangerouslySetInnerHTML={{ __html: content }}
+        />
+      )}
+
+      {(loading || error) && (
+        <div id="source-links">
+          <span className="source-label">在以下平台查看源文件：</span>
+          {sourceUrls.map((link) => (
+            <a
+              key={link.label}
+              className="source-link"
+              href={link.url}
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              {link.label}
+            </a>
+          ))}
+        </div>
+      )}
     </>
   );
 }

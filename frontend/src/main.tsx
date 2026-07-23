@@ -11,3 +11,10 @@ createRoot(document.getElementById('root')!).render(
     </HashRouter>
   </StrictMode>,
 );
+
+// React 18 render() 是异步的，延迟到首次绘制之后移除 preload
+requestAnimationFrame(() => {
+  requestAnimationFrame(() => {
+    document.getElementById('preload')?.remove();
+  });
+});

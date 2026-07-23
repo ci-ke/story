@@ -14,6 +14,7 @@ export function ScrollHandle() {
   const hideTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const rafId = useRef(0);
   const handleHeight = useRef(40);
+  const capturedId = useRef(-1);
 
   /** 计算 handle 在 track 内的 top 偏移 */
   const calcHandleTop = useCallback((progress: number) => {
@@ -44,10 +45,8 @@ export function ScrollHandle() {
     const top = calcHandleTop(progress);
     handle.style.top = top + 'px';
 
-    // 用实际渲染高度更新缓存
     handleHeight.current = handle.clientHeight;
 
-    // 显示并设置自动隐藏
     track.classList.add('visible');
     if (hideTimer.current) clearTimeout(hideTimer.current);
     hideTimer.current = setTimeout(() => {
@@ -88,39 +87,42 @@ export function ScrollHandle() {
   // --- 指针事件 ---
 
   const onPointerDown = useCallback((e: PointerEvent) => {
-    // 点击 track 背景（非 handle）：直接跳转
-    if (e.target === trackRef.current) {
-      scrubTo(e.clientY);
-      // 立即进入拖拽模式，允许连续拖动
-      dragging.current = true;
-      handleRef.current?.classList.add('active');
-      try { handleRef.current?.setPointerCapture(e.pointerId); } catch { /* ok */ }
-      if (hideTimer.current) clearTimeout(hideTimer.current);
-      return;
-    }
+    // 只响应 handle 上的点击，忽略 track 背景
+    if (e.target !== handleRef.current) return;
 
-    // 点击 handle：开始拖拽
-    if (e.target === handleRef.current) {
-      const scrollTotal = document.documentElement.scrollHeight - window.innerHeight;
-      if (scrollTotal <= 0) return;
+    const scrollTotal = document.documentElement.scrollHeight - window.innerHeight;
+    if (scrollTotal <= 0) return;
 
-      dragging.current = true;
-      handleRef.current?.classList.add('active');
-      try { handleRef.current?.setPointerCapture(e.pointerId); } catch { /* ok */ }
-      if (hideTimer.current) clearTimeout(hideTimer.current);
-      e.preventDefault();
-    }
-  }, [scrubTo]);
+    e.preventDefault();
+    e.stopPropagation();
+
+    dragging.current = true;
+    capturedId.current = e.pointerId;
+    handleRef.current?.classList.add('active');
+    if (hideTimer.current) clearTimeout(hideTimer.current);
+
+    try {
+      (e.target as Element).setPointerCapture(e.pointerId);
+    } catch { /* 部分环境不支持 */ }
+  }, []);
 
   const onPointerMove = useCallback((e: PointerEvent) => {
     if (!dragging.current) return;
+    e.preventDefault();
     scrubTo(e.clientY);
   }, [scrubTo]);
 
-  const onPointerUp = useCallback(() => {
+  const onPointerUp = useCallback((e: PointerEvent) => {
     if (!dragging.current) return;
     dragging.current = false;
+    capturedId.current = -1;
     handleRef.current?.classList.remove('active');
+
+    // 释放指针捕获
+    try {
+      (e.target as Element).releasePointerCapture(e.pointerId);
+    } catch { /* ok */ }
+
     scheduleUpdate();
   }, [scheduleUpdate]);
 
@@ -130,20 +132,17 @@ export function ScrollHandle() {
     const track = trackRef.current;
     if (!track) return;
 
-    // track 上捕获 pointerdown（包括 handle 上的）
-    track.addEventListener('pointerdown', onPointerDown);
-    window.addEventListener('pointermove', onPointerMove);
+    // track 上捕获 pointerdown（包括 handle 上的），非 passive 才能 preventDefault
+    track.addEventListener('pointerdown', onPointerDown, { passive: false });
+    window.addEventListener('pointermove', onPointerMove, { passive: false });
     window.addEventListener('pointerup', onPointerUp);
     window.addEventListener('pointercancel', onPointerUp);
 
-    // 滚动更新
     window.addEventListener('scroll', scheduleUpdate, { passive: true });
 
-    // 内容尺寸变化
     const ro = new ResizeObserver(() => scheduleUpdate());
     ro.observe(document.body);
 
-    // 初始
     scheduleUpdate();
 
     return () => {

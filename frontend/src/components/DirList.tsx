@@ -66,9 +66,6 @@ export function DirList({ path, children }: DirListProps) {
               {isDir ? <FolderIcon /> : <FileIcon />}
             </span>
             <span className="dir-name">{displayName}</span>
-            {!isDir && (
-              <span className="dir-badge">.txt</span>
-            )}
           </a>
         );
       })}
