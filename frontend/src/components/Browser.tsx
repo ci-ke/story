@@ -2,7 +2,6 @@ import { useParams } from 'react-router-dom';
 import { useState, useEffect, useCallback, useRef } from 'react';
 import { useFileTree } from '../hooks/useFileTree';
 import { Breadcrumb } from './Breadcrumb';
-import { Toolbar } from './Toolbar';
 import { DirList } from './DirList';
 import { FileView } from './FileView';
 import { ScrollHandle } from './ScrollHandle';
@@ -31,19 +30,17 @@ export function Browser() {
   const route = useCallback(async () => {
     setLoading(true);
     setError(null);
-    // 切换路径时重置滚动
+    setNode(null);
     window.scrollTo(0, 0);
 
     try {
       const result = await resolvePath(path);
       if (!result) {
         setError('路径不存在');
-        setNode(null);
       } else {
         setNode(result.node);
         setResolvedPath(result.resolvedPath);
 
-        // 如果模糊匹配修正了路径，更新 URL（不触发重新导航）
         if (result.resolvedPath !== path) {
           history.replaceState(null, '', '#' + result.resolvedPath.replace(/#/g, '%23'));
           setResolvedPath(result.resolvedPath);
@@ -51,7 +48,6 @@ export function Browser() {
       }
     } catch (e) {
       setError('加载失败：' + (e as Error).message);
-      setNode(null);
     } finally {
       setLoading(false);
     }
@@ -61,7 +57,6 @@ export function Browser() {
     route();
   }, [route]);
 
-  // 持久化设置
   useEffect(() => {
     if (initialLoadDone.current) {
       localStorage.setItem('wrapToggle', String(wrapEnabled));
@@ -81,16 +76,21 @@ export function Browser() {
   return (
     <>
       <Breadcrumb path={resolvedPath || path} />
-      {!error && (
-        <Toolbar
-          wrapEnabled={wrapEnabled}
-          proxyEnabled={proxyEnabled}
-          onWrapChange={setWrapEnabled}
-          onProxyChange={setProxyEnabled}
-        />
+
+      {loading && (
+        <div id="loading">
+          <div className="spinner" />
+          <span>加载中...</span>
+        </div>
       )}
-      {loading && <div id="list">加载中...</div>}
-      {error && <div id="list">{error}</div>}
+
+      {error && (
+        <div id="error">
+          <div className="error-icon">!</div>
+          <div>{error}</div>
+        </div>
+      )}
+
       {!loading && !error && node && (
         node.type === 'dir' ? (
           <DirList path={resolvedPath} children={node.children || []} />
@@ -99,9 +99,12 @@ export function Browser() {
             filePath={resolvedPath}
             proxyEnabled={proxyEnabled}
             wrapEnabled={wrapEnabled}
+            onWrapChange={setWrapEnabled}
+            onProxyChange={setProxyEnabled}
           />
         )
       )}
+
       <ScrollHandle />
     </>
   );

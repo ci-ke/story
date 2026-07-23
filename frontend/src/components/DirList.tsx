@@ -7,16 +7,32 @@ interface DirListProps {
   children: Node[];
 }
 
+/* 轻量 SVG 图标 */
+function FolderIcon() {
+  return (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z" />
+    </svg>
+  );
+}
+
+function FileIcon() {
+  return (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+      <polyline points="14 2 14 8 20 8" />
+    </svg>
+  );
+}
+
 export function DirList({ path, children }: DirListProps) {
   const isHome = !path;
   const showExtra = isHome;
 
-  // 首页只显示 REPOS 中定义的仓库，其他页面显示全部
   const filtered = isHome
     ? children.filter((item) => REPOS[item.name])
     : children;
 
-  // 排序：首页按 REPOS 定义顺序，其他页面目录优先然后按名称
   const repoOrder = Object.keys(REPOS);
   const sorted = [...filtered].sort((a, b) => {
     if (isHome) {
@@ -34,15 +50,29 @@ export function DirList({ path, children }: DirListProps) {
           <hr />
         </>
       )}
+
       {sorted.map((item) => {
         const itemPath = path ? path + '/' + item.name : item.name;
         const displayName = isHome && REPOS[item.name] ? REPOS[item.name] : item.name;
+        const isDir = item.type === 'dir';
+
         return (
-          <a key={itemPath} href={'#' + itemPath.replace(/#/g, '%23')}>
-            {item.type === 'dir' ? '📁 ' + displayName : '📄 ' + displayName}
+          <a
+            key={itemPath}
+            className="dir-item"
+            href={'#' + itemPath.replace(/#/g, '%23')}
+          >
+            <span className={`dir-icon ${isDir ? 'folder' : 'file'}`}>
+              {isDir ? <FolderIcon /> : <FileIcon />}
+            </span>
+            <span className="dir-name">{displayName}</span>
+            {!isDir && (
+              <span className="dir-badge">.txt</span>
+            )}
           </a>
         );
       })}
+
       {showExtra && HOME_EXTRA_POSITION === 'bottom' && (
         <>
           <hr />

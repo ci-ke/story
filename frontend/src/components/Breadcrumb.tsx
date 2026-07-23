@@ -7,17 +7,20 @@ export function Breadcrumb({ path }: BreadcrumbProps) {
 
   return (
     <div id="breadcrumb">
-      <span onClick={() => { location.hash = ''; }}>根目录</span>
+      <span className="bc-link" onClick={() => { location.hash = ''; }}>
+        根目录
+      </span>
       {parts.map((part, i) => {
         const cumulative = parts.slice(0, i + 1).join('/');
         const isLast = i === parts.length - 1;
         return (
           <span key={cumulative}>
-            {' / '}
+            <span className="bc-sep">{' \u203A '}</span>
             {isLast ? (
-              <strong>{part}</strong>
+              <span className="bc-current">{part}</span>
             ) : (
               <span
+                className="bc-link"
                 onClick={() => {
                   location.hash = cumulative.replace(/#/g, '%23');
                 }}

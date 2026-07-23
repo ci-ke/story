@@ -1,120 +1,161 @@
 import { useEffect, useRef, useCallback } from 'react';
 
-const HANDLE_HALF_HEIGHT = 35; // 滑块半高度 (70/2)
-
+/**
+ * 移动端快速滚动滑块
+ * - 使用 Pointer Events 统一触摸和鼠标
+ * - 点击 track 任意位置跳转
+ * - ResizeObserver 响应尺寸变化
+ * - requestAnimationFrame 节流
+ */
 export function ScrollHandle() {
   const trackRef = useRef<HTMLDivElement>(null);
   const handleRef = useRef<HTMLDivElement>(null);
-  const isDragging = useRef(false);
+  const dragging = useRef(false);
   const hideTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const rafId = useRef(0);
+  const handleHeight = useRef(40);
 
-  // 更新滑块位置
-  const updateHandlePosition = useCallback(() => {
-    if (isDragging.current) return;
+  /** 计算 handle 在 track 内的 top 偏移 */
+  const calcHandleTop = useCallback((progress: number) => {
+    const track = trackRef.current;
+    const handle = handleRef.current;
+    if (!track || !handle) return 0;
+    const maxTop = track.clientHeight - handle.clientHeight;
+    return Math.max(0, Math.min(maxTop, progress * maxTop));
+  }, []);
 
-    const scrollTotal = document.documentElement.scrollHeight - window.innerHeight;
+  /** 更新 handle 位置和 track 可见性 */
+  const updatePosition = useCallback(() => {
+    if (dragging.current) return;
+
     const track = trackRef.current;
     const handle = handleRef.current;
     if (!track || !handle) return;
 
+    const scrollTotal = document.documentElement.scrollHeight - window.innerHeight;
+
     if (scrollTotal <= 200) {
-      track.style.display = 'none';
+      track.classList.remove('visible');
       return;
     }
 
-    track.style.display = 'block';
     const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-    const progress = Math.min(1, Math.max(0, scrollTop / scrollTotal));
-    const availableHeight = track.clientHeight - handle.clientHeight;
-    handle.style.top = (progress * availableHeight) + 'px';
+    const progress = Math.min(1, Math.max(0, scrollTotal > 0 ? scrollTop / scrollTotal : 0));
+    const top = calcHandleTop(progress);
+    handle.style.top = top + 'px';
 
-    // 1.5 秒后自动隐藏
+    // 用实际渲染高度更新缓存
+    handleHeight.current = handle.clientHeight;
+
+    // 显示并设置自动隐藏
+    track.classList.add('visible');
     if (hideTimer.current) clearTimeout(hideTimer.current);
     hideTimer.current = setTimeout(() => {
-      if (!isDragging.current && track) {
-        track.style.display = 'none';
+      if (!dragging.current && track) {
+        track.classList.remove('visible');
       }
-    }, 1500);
-  }, []);
+    }, 2000);
+  }, [calcHandleTop]);
 
-  // 核心拖拽：根据 clientY 更新滑块位置和页面滚动
-  const doScrub = useCallback((clientY: number) => {
+  /** rAF 包装的 updatePosition */
+  const scheduleUpdate = useCallback(() => {
+    if (rafId.current) return;
+    rafId.current = requestAnimationFrame(() => {
+      rafId.current = 0;
+      updatePosition();
+    });
+  }, [updatePosition]);
+
+  /** 根据 clientY 同步滚动 + 视觉位置 */
+  const scrubTo = useCallback((clientY: number) => {
     const track = trackRef.current;
     const handle = handleRef.current;
     if (!track || !handle) return;
 
     const rect = track.getBoundingClientRect();
-    let visualY = clientY - rect.top - HANDLE_HALF_HEIGHT;
-    const maxVisualY = rect.height - handle.clientHeight;
-    visualY = Math.max(0, Math.min(visualY, maxVisualY));
+    const halfH = handleHeight.current / 2;
+    const maxTop = track.clientHeight - handle.clientHeight;
+    const visualY = Math.max(0, Math.min(maxTop, clientY - rect.top - halfH));
+
     handle.style.top = visualY + 'px';
 
-    const percent = visualY / maxVisualY;
     const scrollTotal = document.documentElement.scrollHeight - window.innerHeight;
-    window.scrollTo(0, percent * scrollTotal);
+    if (maxTop <= 0 || scrollTotal <= 0) return;
+    const progress = visualY / maxTop;
+    window.scrollTo(0, progress * scrollTotal);
   }, []);
 
-  // 拖拽开始
-  const onDragStart = useCallback(() => {
-    const scrollTotal = document.documentElement.scrollHeight - window.innerHeight;
-    if (scrollTotal <= 0) return;
+  // --- 指针事件 ---
 
-    isDragging.current = true;
-    handleRef.current?.classList.add('dragging');
-    if (hideTimer.current) clearTimeout(hideTimer.current);
-    if (trackRef.current) trackRef.current.style.display = 'block';
-  }, []);
+  const onPointerDown = useCallback((e: PointerEvent) => {
+    // 点击 track 背景（非 handle）：直接跳转
+    if (e.target === trackRef.current) {
+      scrubTo(e.clientY);
+      // 立即进入拖拽模式，允许连续拖动
+      dragging.current = true;
+      handleRef.current?.classList.add('active');
+      try { handleRef.current?.setPointerCapture(e.pointerId); } catch { /* ok */ }
+      if (hideTimer.current) clearTimeout(hideTimer.current);
+      return;
+    }
 
-  // 拖拽移动
-  const onDragMove = useCallback((e: MouseEvent | TouchEvent) => {
-    if (!isDragging.current) return;
-    if (e.cancelable) e.preventDefault();
+    // 点击 handle：开始拖拽
+    if (e.target === handleRef.current) {
+      const scrollTotal = document.documentElement.scrollHeight - window.innerHeight;
+      if (scrollTotal <= 0) return;
 
-    const clientY = 'touches' in e ? e.touches[0].clientY : e.clientY;
-    doScrub(clientY);
-  }, [doScrub]);
+      dragging.current = true;
+      handleRef.current?.classList.add('active');
+      try { handleRef.current?.setPointerCapture(e.pointerId); } catch { /* ok */ }
+      if (hideTimer.current) clearTimeout(hideTimer.current);
+      e.preventDefault();
+    }
+  }, [scrubTo]);
 
-  // 拖拽结束
-  const onDragEnd = useCallback(() => {
-    if (!isDragging.current) return;
-    isDragging.current = false;
-    handleRef.current?.classList.remove('dragging');
-    updateHandlePosition();
-  }, [updateHandlePosition]);
+  const onPointerMove = useCallback((e: PointerEvent) => {
+    if (!dragging.current) return;
+    scrubTo(e.clientY);
+  }, [scrubTo]);
 
-  // 绑定全局事件
+  const onPointerUp = useCallback(() => {
+    if (!dragging.current) return;
+    dragging.current = false;
+    handleRef.current?.classList.remove('active');
+    scheduleUpdate();
+  }, [scheduleUpdate]);
+
+  // --- 绑定事件 ---
+
   useEffect(() => {
-    const handle = handleRef.current;
-    if (!handle) return;
+    const track = trackRef.current;
+    if (!track) return;
 
-    // 绑定手柄事件
-    handle.addEventListener('touchstart', onDragStart, { passive: false });
-    handle.addEventListener('mousedown', onDragStart);
+    // track 上捕获 pointerdown（包括 handle 上的）
+    track.addEventListener('pointerdown', onPointerDown);
+    window.addEventListener('pointermove', onPointerMove);
+    window.addEventListener('pointerup', onPointerUp);
+    window.addEventListener('pointercancel', onPointerUp);
 
-    // 绑定窗口级移动/释放事件
-    window.addEventListener('touchmove', onDragMove, { passive: false });
-    window.addEventListener('mousemove', onDragMove);
-    window.addEventListener('touchend', onDragEnd);
-    window.addEventListener('touchcancel', onDragEnd);
-    window.addEventListener('mouseup', onDragEnd);
+    // 滚动更新
+    window.addEventListener('scroll', scheduleUpdate, { passive: true });
 
-    // 绑定页面滚动更新滑块
-    window.addEventListener('scroll', updateHandlePosition, { passive: true });
+    // 内容尺寸变化
+    const ro = new ResizeObserver(() => scheduleUpdate());
+    ro.observe(document.body);
 
-    // 初始更新
-    updateHandlePosition();
+    // 初始
+    scheduleUpdate();
 
     return () => {
-      handle.removeEventListener('touchstart', onDragStart);
-      handle.removeEventListener('mousedown', onDragStart);
-      window.removeEventListener('touchmove', onDragMove);
-      window.removeEventListener('mousemove', onDragMove);
-      window.removeEventListener('touchend', onDragEnd);
-      window.removeEventListener('touchcancel', onDragEnd);
-      window.removeEventListener('mouseup', onDragEnd);
-      window.removeEventListener('scroll', updateHandlePosition);
+      track.removeEventListener('pointerdown', onPointerDown);
+      window.removeEventListener('pointermove', onPointerMove);
+      window.removeEventListener('pointerup', onPointerUp);
+      window.removeEventListener('pointercancel', onPointerUp);
+      window.removeEventListener('scroll', scheduleUpdate);
+      ro.disconnect();
+      if (hideTimer.current) clearTimeout(hideTimer.current);
     };
-  }, [onDragStart, onDragMove, onDragEnd, updateHandlePosition]);
+  }, [onPointerDown, onPointerMove, onPointerUp, scheduleUpdate]);
 
   return (
     <div id="scroll-track" ref={trackRef}>
