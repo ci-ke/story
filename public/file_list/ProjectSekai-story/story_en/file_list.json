@@ -693,6 +693,10 @@
 },
 {
 "type": "file",
+"name": "talk_event_174.txt"
+},
+{
+"type": "file",
 "name": "talk_grade1.txt"
 },
 {
@@ -1616,6 +1620,10 @@
 {
 "type": "file",
 "name": "1175_Minori Hanasato_R4 Debrief Assistance (event_168).txt"
+},
+{
+"type": "file",
+"name": "1207_Minori Hanasato_R4 Sharing My Honest Feelings (event_174).txt"
 }
 ]
 },
@@ -1790,6 +1798,10 @@
 {
 "type": "file",
 "name": "1177_Haruka Kiritani_R3 Producer Studies (event_168).txt"
+},
+{
+"type": "file",
+"name": "1208_Haruka Kiritani_R4 Fantastic Training Room! (event_174).txt"
 }
 ]
 },
@@ -1968,6 +1980,10 @@
 {
 "type": "file",
 "name": "1174_Airi Momoi_R4 It Wasn't Enough (event_168).txt"
+},
+{
+"type": "file",
+"name": "1210_Airi Momoi_R3 Airi's Beauty Salon (event_174).txt"
 }
 ]
 },
@@ -2138,6 +2154,10 @@
 {
 "type": "file",
 "name": "1178_Shizuku Hinomori_R2 Calm For The Hard Workers (event_168).txt"
+},
+{
+"type": "file",
+"name": "1209_Shizuku Hinomori_R4 A Comforting Breakfast (event_174).txt"
 }
 ]
 },
@@ -5386,6 +5406,10 @@
 {
 "type": "file",
 "name": "1195_KAITO_R4 The Ones Close To Me.txt"
+},
+{
+"type": "file",
+"name": "1211_KAITO (MMJ)_R2 Idol Fan In SEKAI (event_174).txt"
 }
 ]
 }
@@ -12044,6 +12068,44 @@
 "name": "173-08 Decision.txt"
 }
 ]
+},
+{
+"type": "dir",
+"name": "174 Start Rolling! Stars' Crossing (MMJ_Minori Hanasato)",
+"children": [
+{
+"type": "file",
+"name": "174-01 The Lumina Forum.txt"
+},
+{
+"type": "file",
+"name": "174-02 The Grand Prix Begins!.txt"
+},
+{
+"type": "file",
+"name": "174-03 Explosive Supernova.txt"
+},
+{
+"type": "file",
+"name": "174-04 Just as You Are.txt"
+},
+{
+"type": "file",
+"name": "174-05 The Stage is Set.txt"
+},
+{
+"type": "file",
+"name": "174-06 Pure and Unfiltered.txt"
+},
+{
+"type": "file",
+"name": "174-07 Beliefs.txt"
+},
+{
+"type": "file",
+"name": "174-08 Two Shining Lights.txt"
+}
+]
 }
 ]
 },
@@ -12960,6 +13022,14 @@
 {
 "type": "file",
 "name": "sp054 エイプリルフール2025後日談ムービー.txt"
+},
+{
+"type": "file",
+"name": "sp056 COLORFUL STAGE!×Tamagotchi Crossover Login Story Prologue.txt"
+},
+{
+"type": "file",
+"name": "sp057 COLORFUL STAGE!×Tamagotchi Crossover Login Story Epilogue.txt"
 },
 {
 "type": "file",
